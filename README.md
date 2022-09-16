@@ -1,4 +1,5 @@
 # Magic-Ling-Pixel-Dungeon-Web
+
 ![](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E4%B8%AD-green)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![](https://img.shields.io/crates/l/s)](https://img.shields.io/crates/l/s)
@@ -20,7 +21,6 @@
   - [使用许可](#使用许可)
 
 ## 背景
-
 
 `Magic-Ling-Pixel-Dungeon-Web` 最开始因为 [@liusxs](https://github.com/liusxs) 在项目 [Kaka-International-Car-Rental-Network](https://github.com/Galaxy-Wish-Star/Kaka-International-Car-Rental-Network) 中了解到[@LingASDJ](https://github.com/LingASDJ)还未为自己的 `MagicLingPixelDungeon`项目开发 Web 界面，因此我们一拍即合，这个项目也就从这开始了。
 
@@ -49,7 +49,6 @@ Magic-Ling-Pixel-Dungeon-Web 遵循 [Contributor Covenant](http://contributor-co
 <a href="https://github.com/LingASDJ"><img style="border-radius:50%;height:60px" src="https://avatars.githubusercontent.com/u/70191651?v=4" /></a>
 <a href="https://github.com/mason369"><img style="border-radius:50%;height:60px" src="https://avatars.githubusercontent.com/u/93964390?s=96&v=4" /></a>
 
-
 ---
 
 ### 特别感谢：
@@ -60,7 +59,7 @@ Magic-Ling-Pixel-Dungeon-Web 遵循 [Contributor Covenant](http://contributor-co
 
 **当前进度**：
 
-- [ ] 人员招募
+- [x] 人员招募
 - [ ] 方案设计
 - [ ] 编码
 - [ ] Debug 测试
