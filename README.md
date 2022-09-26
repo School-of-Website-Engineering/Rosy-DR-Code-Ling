@@ -26,7 +26,7 @@
 
 ## 相关仓库
 
-- [Web_DEV_ING](https://github.com/Galaxy-Wish-Star/Web_DEV_ING) — 💌 Galaxy-Wish-Star 团队的学习进程
+- [Web_DEV_ING](https://github.com/Galaxy-Wish-Star/Web_DEV_ING) — 💌 Galaxy-Wish-Star 团队的开发进程
 - [卡卡国际租车](https://github.com/Galaxy-Wish-Star/Kaka-International-Car-Rental-Network) — 卡卡国际租车网，项目专用仓库
 
 ## 维护者
