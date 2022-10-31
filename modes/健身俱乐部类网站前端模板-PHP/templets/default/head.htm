@@ -1,0 +1,72 @@
+<header class="header header-v1 has-over-section stricky dark-header" id="header">
+  <div class="header-top" id="header-top">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-9 col-md-12 col-sm-12 pull-right">
+          <div class="top-info">
+            <div class="clearfix">
+              <ul class="contact-info pull-left">
+                <li><span><i class="fc-icon ftc-icon-email"></i> {dede:global.cfg_email/}</span></li>
+                <li><span><i class="fc-icon ftc-icon-phone-contact"></i> 服务热线：{dede:global.cfg_tel/}</span></li>
+              </ul>
+              <ul class="social pull-right">
+                <li><a href="{dede:global.cfg_weibo/}" target="_blank"><i class="fa fa-weibo"></i></a></li>
+                <li><a href="{dede:global.cfg_qqweibo/}" target="_blank"><i class="fa fa-tencent-weibo"></i></a></li>
+                <li><a href="http://wpa.qq.com/msgrd?v=3&uin={dede:global.cfg_qq/}&site=qq&menu=yes" target="_blank"><i class="fa fa-qq"></i></a></li>
+                <li><a href="{dede:global.cfg_shop/}" target="_blank"><i class="fa fa-shopping-cart"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="header-menu-wrapper" id="header-menu-wrapper">
+    <div class="container">
+      <nav class="navigation clearfix">
+        <div id="menuzord" class="menuzord"> <a href="{dede:global.cfg_cmspath/}/" class="menuzord-brand"> <img src="{dede:global.cfg_cmspath/}/skin/images/logo.png" alt="{dede:global.cfg_webname/}" id="skin-logo-img" /> </a> <a class="mmenu-btn noDis" href="#mmenu"><i class="fa fa-bars"></i></a>
+          <ul class="menuzord-menu">
+            <li class="Lev1 flip-flop-btn"> <a href="{dede:global.cfg_cmspath/}/" class="menu1"><span data-hover="网站首页">网站首页</span></a></li>
+            {dede:channelartlist typeid='top'}
+            <li class="Lev1 flip-flop-btn"> <a href="{dede:field name='typeurl'/}" class="menu1"><span data-hover="{dede:field name='typename'/}">{dede:field name='typename'/}
+              {dede:field name=typeid runphp="yes"}
+              global $dsql;
+              $sql = "SELECT id From `dede_arctype` WHERE reid='@me' And ishidden<>1 order by sortrank asc limit 0, 100 ";   
+              $row = $dsql->GetOne($sql);      
+              @me=is_array($row)?'<i class="fa fa-caret-down"></i>':'';
+              {/dede:field} </span></a> {dede:php}
+              $id = $refObj->Fields['id'];
+              $sql = ("SELECT * FROM dede_arctype where reid ='$id'");
+              $db->SetQuery($sql);
+              $db->Execute();
+              if($db->GetTotalRow()){
+              echo '
+              <ul class="dropdown sub-menu2">
+                ';
+                while($row = $db->GetArray()){
+                $url = str_replace('{cmspath}','',($row[typedir]));
+                echo "
+                <li class='Lev2'><a href=".$url." class='menu2'>".($row[typename])."</a></li>
+                ";
+                };
+                echo '
+              </ul>
+              ';
+              };
+              {/dede:php} </li>
+            {/dede:channelartlist}
+            <li class="search-button"> <a data-toggle="collapse" href="#search-box" aria-expanded="false" aria-controls="search-box"><i class="fa fa-search"></i> <span class="text">Search</span></a> </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </div>
+  <div class="search-box collapse" id="search-box">
+    <div class="container">
+      <form class="search-form" name="formsearch" action="{dede:global.cfg_cmsurl/}/plus/search.php">
+        <input type="hidden" name="kwtype" value="0" />
+        <input type="text" value="" name="q" placeholder="输入关键字搜索..." />
+      </form>
+    </div>
+  </div>
+</header>

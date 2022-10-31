@@ -1,0 +1,1 @@
+INSERT INTO `dede_plus` VALUES('27','友情链接模块','<m:item name=\'友情链接\' link=\'friendlink_main.php\' rank=\'plus_友情链接\' target=\'main\' />','','织梦团队','1','');

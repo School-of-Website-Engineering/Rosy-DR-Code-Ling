@@ -1,0 +1,3 @@
+INSERT INTO `dede_arctiny` VALUES('1','2','0','0','1','1630896121','1630895848','1');
+INSERT INTO `dede_arctiny` VALUES('2','3','0','0','1','1630897017','1630897028','1');
+INSERT INTO `dede_arctiny` VALUES('3','2','0','0','1','1630900834','1630901041','1');

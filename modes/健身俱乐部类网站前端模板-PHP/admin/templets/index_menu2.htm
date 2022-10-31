@@ -1,0 +1,37 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="skin/css/menu2.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="skin/js/jquery.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+
+	$("#firstpane .mainbox:eq(0)").show();
+	$("#firstpane li.konwledge:eq(0)").addClass("current");
+	$("#firstpane li.konwledge").click(function(){
+		$(this).addClass("current").next("li.mainbox").slideToggle(300).siblings("li.mainbox").slideUp("slow");
+		$(this).siblings().removeClass("current");
+	});
+
+	
+});
+</script>
+
+
+</head>
+
+<body style="background:#f0f9fd;">
+
+    
+    
+  <ul class="nav" style="height:100%" id="firstpane">   
+<?php
+GetMenus($cuserLogin->getUserRank(),'rightFrame');
+?>
+  </ul>
+    
+
+    
+</body>
+</html>

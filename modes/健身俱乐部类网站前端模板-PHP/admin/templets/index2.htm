@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<title><?php echo $cfg_webname; ?>-<?php echo $cfg_softname." ".$cfg_version; ?></title>
+<script>
+function switchSysBar(){ 
+    var locate=location.href.replace('index.html','');
+    var ssrc=document.all("img1").src.replace(locate,'');
+    if (ssrc.indexOf("skin/images/toleft.png")>-1)
+    { 
+        document.all("img1").src="skin/images/toright.png";
+        document.all("frmTitle").style.display="none";
+    } 
+    else
+    { 
+        document.all("img1").src="skin/images/toleft.png";
+        document.all("frmTitle").style.display="";
+    } 
+} 
+</script>
+<link rel="stylesheet" href="skin/css/base.css" />
+<link rel="stylesheet" href="skin/css/index.css" />
+<link href="css/frame.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="container"  class="showmenu">
+<div class="pagemask"></div>
+<iframe class="iframemask"></iframe>
+<div class="allmenu">
+  <div class="allmenu-box">
+    <?php
+	echo $mapstring;
+?>
+    <br style='clear:both' />
+  </div>
+</div>
+	<div id="hd">
+    	<div class="hd-wrap ue-clear">
+        	<div class="top-light"></div>
+            <a href=""><h1 class="logo"></h1></a>
+            <div class="login-info ue-clear">
+                <div class="welcome ue-clear"><span>欢迎您,</span><a href="javascript:;" class="user-name"><?php echo $cuserLogin->getUserName(); ?></a></div>
+                <?php if(!empty($diyinfo)) { ?>
+                <div class="login-msg ue-clear">
+                    <a href="diy_list.php?action=list&diyid=<?php echo intval($diyinfo['diyid']);?>" class="msg-txt" target="main">消息</a>
+                </div>
+                <?php } ?>
+            </div>
+            <div class="toolbar ue-clear">
+                <a href="../index.php?upcache=1" class="home-btn" target="_blank">首页</a>
+                <a href="exit.php" class="quit-btn exit"></a>
+            </div>
+        </div>
+    </div>
+    <div id="bd">
+    	<div class="wrap ue-clear">
+        	<div class="sidebar" id="frmTitle" name="fmTitle" style="overflow:hidden">
+            	<h2 class="sidebar-header"><p>功能导航</p></h2>
+                
+                
+                
+                	<iframe src="index_menu.php" id="menufra" name="menu" frameborder="0" scrolling="no" width="100%" height="100%" noresize="noresize"></iframe>
+                    
+                    
+             
+            </div>
+            <div class="content">
+            	<div class="toleft" onclick="switchSysBar();"><SPAN class=navPoint 
+id=switchPoint title=关闭/打开左栏><img src="skin/images/toleft.png" width="6" height="46"  name="img1" id="img1"/></SPAN></div>
+
+                <iframe id="iframe" name="main" width="100%" height="100%" frameborder="0" src="index_body.php"></iframe>
+            </div>
+        </div>
+    </div>
+    <div id="ft" class="ue-clear">
+    	<div class="ft-left">
+            <span>织梦CMS</span>
+            <em>91084.com&nbsp;System</em>
+        </div>
+        <div class="ft-right">
+            <span><a href="#" id="allmenu" style="color:#fff">功能地图</a></span>
+            
+        </div>
+    </div>
+</div>
+
+
+</body>
+<script type="text/javascript" src="skin/js/jquery.js"></script>
+<script src="js/frame.js" language="javascript" type="text/javascript"></script>
+
+<script type="text/javascript" src="skin/js/index.js"></script>
+
+</html>

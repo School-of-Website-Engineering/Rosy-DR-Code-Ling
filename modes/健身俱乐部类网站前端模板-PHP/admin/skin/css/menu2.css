@@ -1,0 +1,39 @@
+ html,body{ height:100%;overflow:hidden}
+ *{ padding:0px; margin:0px;}
+ body{ }
+ /*主导航*/
+ ul ul, ol ul{ list-style:none}
+.nav{ border:1px solid #bdd0db; border-top:none; background:#f1f8fc;}
+.nav>li{ line-height:40px; border-bottom:1px solid #dbe9f1; cursor:pointer; list-style:none}
+.nav>li.konwledge { font-weight:bold}
+.nav>li.current .nav-header{ background:#6ec673;   border-color:#72b877;}
+.nav>li.current .nav-header span{color:#fff;}
+.nav>li .nav-header{ padding-right:14px; height:40px;}
+.nav>li .nav-header a{ display:block; margin-left:8px; padding-left:32px; color:#000; font-size:13px; height: 100%;}
+
+
+.nav>li .nav-header a span{ float:left;}
+.nav>li .nav-header a i{ float:right; width:12px; height:40px; background:url(../images/leftjt01.png) no-repeat center center;}
+.nav>li.current .nav-header a i{  background:url(../images/leftjt03.png) no-repeat center center;}
+.nav>li.current.hasChild .nav-header a i{  background:url(../images/leftjt02.png) no-repeat center center;}
+.nav>li.office .nav-header a{ background:url(../images/ico01.png) no-repeat left center;}
+.nav>li.gongwen .nav-header a{ background:url(../images/ico02.png) no-repeat left center;}
+.nav>li.nav-info .nav-header a{ background:url(../images/ico03.png) no-repeat left center;}
+.nav>li.konwledge .nav-header a{ background:url(../images/ico04.png) no-repeat left center;}
+.nav>li:nth-child(1) .nav-header a{background:url(../images/ico02.png) no-repeat left center !important;}
+.nav>li:nth-child(3) .nav-header a{background:url(../images/ico03.png) no-repeat left center !important;}
+.nav>li:nth-child(5) .nav-header a{background:url(../images/ico07.png) no-repeat left center !important;}
+.nav>li:nth-child(7) .nav-header a{background:url(../images/ico01.png) no-repeat left center !important;}
+
+.nav>li.agency .nav-header a{ background:url(../images/ico05.png) no-repeat left center;}
+.nav>li.email .nav-header a{ background:url(../images/ico06.png) no-repeat left center;}
+.nav>li.system .nav-header a{ background:url(../images/ico07.png) no-repeat left center;}
+
+/*子导航*/
+.nav>li .subnav{padding:6px 0 11px 0;}
+.nav>li.current .subnav{ display:block;}
+.nav>li.current.hasChild .subnav{ display:block;}
+.nav>li .subnav li{ line-height:28px; margin-left:30px; padding-left:10px; background:url(../images/leftjt04.png) no-repeat left center;}
+.nav>li .subnav li a{ color:#000; font-size:12px; text-decoration:none}
+.nav>li .subnav li a:hover{ color:#ff7600}
+.content{overflow:auto; padding-left:6px;}

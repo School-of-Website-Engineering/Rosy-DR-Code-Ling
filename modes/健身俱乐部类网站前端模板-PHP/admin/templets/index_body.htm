@@ -1,0 +1,288 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="skin/css/base.css" />
+<link rel="stylesheet" href="skin/css/home.css" />
+<title>yingzicms Home</title>
+<base target="_self">
+<link rel="stylesheet" type="text/css" href="css/indexbody.css" />
+<script language="javascript" src="../include/js/dedeajax2.js"></script>
+<script type="text/javascript" src="../include/js/jquery/jquery.js" ></script>
+<script language="javascript" src="js/indexbody.js"></script>
+<style type="text/css">
+  .article .title .more{ height: 33px; }
+</style>
+<script type="text/javascript">
+window.onload = function()
+{
+    var myajax = new DedeAjax($DE('updateinfos'));
+    myajax.SendGet('update_guide.php?dopost=test&auto=no');
+};
+</script>
+</head>
+
+<body>
+<div class="article toolbar">
+  <div class="title ue-clear">
+      <h2>快捷菜单</h2>
+        <a href='#' onClick="ListAll()" class="more">管理</a>
+    </div>
+    <div class="content">
+      <ul class="toollist ue-clear">
+
+           <div id='quickmenu'>
+                    <?php
+                        $dtp = new DedeTagparse();
+                        $dtp->SetNameSpace('menu','<','>');
+                        $dtp->LoadTemplet($myIcoFile);
+                        if(is_array($dtp->CTags)){
+                            foreach($dtp->CTags as $ctag){
+                                $title = $ctag->GetAtt('title');
+                                $ico = $ctag->GetAtt('ico');
+                                $link = $ctag->GetAtt('link');
+                                echo "<li><a href='{$link}' class='img'><img src='$ico' /></a><p><a href='{$link}'>{$title}</a></p></li>\r\n";
+                            }
+                        }
+                    ?>
+                    <li class="add-btn">
+                      <a href='#' onClick="AddNew()">
+                      <img src="skin/images/add.png" />
+                      </a>
+                    </li>
+           </div>
+
+        
+      </ul>
+        
+    </div>
+</div>
+
+
+<div class="article half matter">
+  <div class="wrap-l">
+        <div class="title ue-clear">
+            <h2 class="title-list">
+                <ul class="ue-clear">
+                    <li class="current"><a href="javascript:;">系统更新</a></li>  
+                </ul>
+            </h2>
+            <a href="javascript:;" class="more"> </a>
+        </div>
+        <div class="content">
+          <div class="matter-content current ue-clear">
+              <div class="today">
+                  <p class="year"><SCRIPT>  
+   var d = new Date();  
+  document.write(d.getFullYear() + "年" +(d.getMonth() + 1) + "月" );  
+ </SCRIPT></p>
+                    <p class="date"><SCRIPT>  
+   var d = new Date();  
+  document.write(d.getDate());  
+ </SCRIPT></p>
+                </div>
+                <ul class="matter-list">
+
+                 <div id='updatetest'>
+                 
+                  <div class="query-btn ue-clear">
+                  <?php
+                  echo "<b>您系统版本最后更新时间为：{$oktime} </b><br/>";
+                  echo "<a href='javascript:LoadUpdateInfos();' class='confirm'>进行在线更新</a>";
+                  echo "<a href='sys_repair.php' class='clear'>系统错误修复</a>\r\n";
+                  echo "<iframe name='stafrm' src='' frameborder='0' id='stafrm' width='98%' height='50'></iframe>";
+                  ?>
+                   
+                </div>
+                </ul>
+            </div>
+         
+        </div>
+    </div>
+
+    <div class="wrap-l">
+        <div class="title ue-clear">
+            <h2 class="title-list">
+                <ul class="ue-clear">
+                    <li class="current"><a href="javascript:;">系统信息</a></li>
+                  
+                </ul>
+            </h2>
+            <a href="javascript:;" class="more">更多</a>
+        </div>
+        <div class="content">
+         
+         <dd class='intable'>
+                <table width="100%" class="dboxtable">
+                    <tr>
+                        <td width="15%" class='nline' style="text-align:right">您的级别：</td>
+                        <td class='nline'>
+                            <?php
+                                if($cuserLogin->getUserType()==10) {
+                                    echo "总管理员";
+                            } else if($cuserLogin->getUserType()==5) {
+                                echo "频道总编";
+                            } else {
+                                echo "信息采集员或其它管理员";
+                            }
+                        ?>
+                        [<a href="sys_admin_user_add.php">增加管理员</a>]</td>
+                    </tr>
+                    
+                    <tr>
+                        <td width="15%" class='nline' style="text-align:right">PHP版本：</td>
+                        <td class='nline'><?php echo @phpversion(); ?>　GD版本：<?php echo @gdversion(); ?></td>
+                    </tr>
+                    
+                    <tr>
+                        <td width="15%" class='nline' style="text-align:right">是否安全模式：</td>
+                        <td class='nline'><font color='red'><?php echo ($isSafeMode ? 'On' : 'Off')?></font>
+                        <?php
+                                if($isSafeMode) {
+                                    echo "<br>　　<font color='blue'>由于您的系统以安全模式运行，为了确保程序兼容性，第一次进入本系统时请更改“<a href='sys_info.php'><u>更改系统参数</u></a>”里的FTP选项，并选择用FTP形式创建目录，完成后：<a href='testenv.php' style='color:red'><u>点击此进行一次DedeCms目录权限检测&gt;&gt;</u></a></font>";
+                                } else {
+                                    echo "　<a href='testenv.php' style='color:blue'><u>DedeCMS目录权限检测&gt;&gt;</u></a></font>";
+                                }
+                            ?>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="15%" class='nline' style="text-align:right">Register_Globals：</td>
+                        <td class='nline'><font color='red'><?php echo ini_get("register_globals") ? 'On' : 'Off'?></font> 　Magic_Quotes_Gpc：<font color='red'><?php echo ini_get("magic_quotes_gpc") ? 'On' : 'Off'?></font></td>
+                    </tr>
+            
+                    <tr>
+                        <td width="15%" class='nline' style="text-align:right">支持上传的最大文件：</td>
+                        <td class='nline'><font color='red'><?php echo ini_get("post_max_size")?></font>　其它必须函数检测：<?php
+                                $needfunc = array('dir','phpinfo');
+                                $n = 0;
+                                foreach($needfunc as $k) {
+                                    if(!function_exists($k)) {
+                                        echo "<font color='red'>[{$k}×]</font> ";
+                                        $n++;
+                                    }
+                                }
+                                if($n==0) {
+                                    echo "符合要求";
+                                } else {
+                                echo "被禁用的函数可能导致部份功能无法使用！";
+                                }
+                            ?></td>
+                    </tr>
+                  
+                    
+                </table>
+            </dd>
+         
+        </div>
+    </div>
+
+
+
+</div>
+
+<div class="article half notice">
+  <div class="wrap-r">
+        <div class="title ue-clear">
+            <h2>最新文档</h2>
+            <a href="content_list.php" class="more">更多</a>
+        </div>
+        <div class="content">
+          <ul class="notice-list">
+<?php
+    $query = "SELECT arc.id, arc.arcrank, arc.title, arc.channel, arc.pubdate, ch.editcon  FROM `#@__archives` arc
+            LEFT JOIN `#@__channeltype` ch ON ch.id = arc.channel
+             WHERE arc.arcrank<>-2 ORDER BY arc.id DESC LIMIT 0, 5 ";
+    $arcArr = array();
+    $dsql->Execute('m', $query);
+    while($row = $dsql->GetArray('m'))
+    {
+        $arcArr[] = $row;
+    }
+?>
+
+    <?php
+    if(count($arcArr) > 1)
+    {
+        foreach($arcArr as $row)
+        {
+            if(trim($row['editcon'])=='') {
+                $row['editcon'] = 'archives_edit.php';
+            }
+            $linkstr = "<a class='notice-title' href='{$row['editcon']}?aid={$row['id']}&channelid={$row['channel']}'>{$row['title']}</a>";
+            if($row['arcrank']==-1) $linkstr .= "<font color='red'>(未审核)</font>";
+        ?>
+        <li class='ue-clear'>
+       <?php echo $linkstr; ?>
+       <div class='notice-time'><?php echo date('m-d', $row['pubdate']); ?></div>
+        </li>    
+        <?php
+        }
+    } else {
+    ?>
+        <li class='ue-clear'>
+                暂无新增内容
+        </li>   
+    <?php
+    }
+    ?>
+  </ul>
+           <!--最新文档结束-->
+
+        </div>
+    </div>
+
+
+  
+</div>
+
+<!--  下面是隐藏的项目  -->
+<div id='loaddiv' style='display:none'>
+    <p align='center' style='padding-top:200px'><img src='images/loadinglit.gif' /> 请稍后，正在下载更新文件列表...</p>
+</div>
+<div id="editTab">
+<span id='editTabBody'>请稍候，正在载入...</span>
+</div>
+<div id="addTab">
+<form name='addform' action='index_body.php'>
+<input type='hidden' name='dopost' value='addnew' />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+     <td height='28' colspan='3' background="images/tbg.gif">
+         <div style='float:left'><b>增加快捷操作项</b></div>
+      <div style='float:right;padding:3px 10px 0 0;'>
+        <a href="javascript:CloseTab('addTab')"><img src="images/close.gif" width="12" height="12" border="0" /></a>
+      </div>
+     </td>
+   </tr>
+      <tr><td style="height:6px;font-size:1px;border-top:1px solid #8DA659" colspan="2">&nbsp;</td></tr>
+   <tr>
+     <td width="20%" height="28" align="right">链接标题：</td>
+     <td width="70%">
+         <input name="title" type="text" id="title" class='pubinputs' style="width:255px;"/>
+     </td>
+   </tr>
+   <tr>
+     <td height="28" width="20%" align="right">ICO图片：</td>
+     <td width="70%">
+         <input name="ico" type="text" id="ico" class='pubinputs' style="width:255px;"/>
+     </td>
+   </tr>
+   <tr>
+     <td height="28" width="20%" align="right">链接网址：</td>
+     <td width="70%">
+         <input name="link" type="text" id="link" class='pubinputs' style="width:255px;"/>
+     </td>
+   </tr>
+   <tr>
+     <td height="45">&nbsp;</td>
+     <td>
+         <input type="submit" name="Submit" value="保存项目" class="np coolbg" style="width:80px;cursor:pointer" />
+     </td>
+   </tr>
+  </table>
+</form>
+</div>
+</div>
+</body>
+</html>

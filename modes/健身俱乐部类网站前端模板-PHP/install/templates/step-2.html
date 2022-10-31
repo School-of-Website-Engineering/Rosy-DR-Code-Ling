@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>安装程序 - 织梦内容管理系统<?php echo $verMsg; ?></title>
+		<link rel="stylesheet" href="skin/css/bootstrap.css">
+		<style>
+			html,body{font-size:13px;font-family:"Microsoft YaHei UI", "微软雅黑", "宋体";}
+			.pager li.previous a{margin-right:10px;}
+			.header a{color:#FFF;}
+			.header a:hover{color:#428bca;}
+			.footer{padding:10px;}
+			.footer a,.footer{color:#eee;font-size:14px;line-height:25px;}
+		</style>
+		<!--[if lt IE 9]>
+		  <script src="skin/js/html5shiv.min.js"></script>
+		  <script src="skin/js/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body style="background-color:#28b0e4;">
+		<div class="container" style="width:1200px;">
+			<div class="header" style="margin:15px auto;">
+				<ul class="nav nav-pills pull-right" role="tablist">
+					<li role="presentation" class="active"><a href="javascript:;">安装织梦系统</a></li>
+					<li role="presentation"><a href="http://www.dedecms.com">织梦官网</a></li>
+					<li role="presentation"><a href="http://www.yingzicms.com">技术支持</a></li>
+					<li role="presentation"><a href="http://www.91084.com">模板商城</a></li>
+				</ul>
+				<img src="skin/images/logo.png" />
+			</div>
+			<div class="row well" style="margin:auto 0;">
+				<div class="col-xs-2" style="padding:0; width:14%;">
+					<div class="progress" title="安装进度">
+						<div class="progress-bar progress-bar-info progress-bar-striped active" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
+							40%
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							安装步骤
+						</div>
+						<ul class="list-group">
+							<a href="javascript:;" class="list-group-item list-group-item list-group-item-success"><span class="glyphicon glyphicon-copyright-mark"></span> &nbsp; 许可协议</a>
+							<a href="javascript:;" class="list-group-item list-group-item-info"><span class="glyphicon glyphicon-eye-open"></span> &nbsp; 环境监测</a>
+							<a href="javascript:;" class="list-group-item"><span class="glyphicon glyphicon-cog"></span> &nbsp; 参数配置</a>
+							<a href="javascript:;" class="list-group-item"><span class="glyphicon glyphicon-cloud"></span> &nbsp; 正在安装</a>
+							<a href="javascript:;" class="list-group-item"><span class="glyphicon glyphicon-ok"></span> &nbsp; 成功</a>
+						</ul>
+					</div>
+				</div>
+				<div class="col-xs-10">
+							<div class="panel panel-default">
+			<div class="panel-heading">服务器信息</div>
+			<table class="table table-striped">
+				<tbody><tr>
+					<th style="width:150px;">参数</th>
+					<th>值</th>
+					<th></th>
+				</tr>
+				<tr class="warning">
+					<td>服务器域名</td>
+					<td><?php echo $sp_name; ?></td>
+					<td></td>
+				</tr>
+				<tr class="">
+					<td>服务器操作系统</td>
+					<td><?php echo $sp_os; ?></td>
+					<td></td>
+				</tr>
+				<tr class="">
+					<td>服务器解译引擎</td>
+					<td><?php echo $sp_server; ?></td>
+					<td></td>
+				</tr>
+				<tr class="">
+					<td>PHP版本</td>
+					<td><?php echo $phpv; ?></td>
+					<td></td>
+				</tr>
+				<tr class="">
+					<td>系统安装目录</td>
+					<td><?php echo DEDEROOT; ?></td>
+					<td></td>
+				</tr>
+
+			</tbody></table>
+		</div>
+
+		<div class="alert alert-info">PHP环境要求必须满足下列所有条件，否则系统或系统部份功能将无法使用。</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">PHP环境要求</div>
+			<table class="table table-striped">
+				<tbody><tr>
+					<th style="width:150px;">选项</th>
+					<th style="width:180px;">要求</th>
+					<th style="width:50px;">状态</th>
+					<th>建议</th>
+				</tr>
+				<tr class="">
+					<td>allow_url_fopen</td>
+					<td>On</td>
+					<td><?php echo $sp_allow_url_fopen; ?></td>
+					<td>(不符合要求将导致采集、远程资料本地化等功能无法应用)</td>
+				</tr>
+				<tr class="">
+					<td>safe_mode</td>
+					<td>Off</td>
+					<td><?php echo $sp_safe_mode; ?></td>
+					<td>(本系统不支持在<span class="STYLE2">非win主机的安全模式</span>下运行)</td>
+				</tr>
+				<tr class="">
+					<td>GD 支持</td>
+					<td>On</td>
+					<td><?php echo $sp_gd; ?></td>
+					<td>(不支持将导致与图片相关的大多数功能无法使用或引发警告)</td>
+				</tr>
+				<tr class="">
+					<td>MySQL 支持</td>
+					<td>On</td>
+					<td><?php echo $sp_gd; ?></td>
+					<td>(不支持将导致与图片相关的大多数功能无法使用或引发警告)</td>
+				</tr>
+				
+			</tbody></table>
+		</div>
+
+		<div class="alert alert-info">系统要求必须满足下列所有的目录权限全部可读写的需求才能使用，其它应用目录可安装后在管理后台检测。</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">目录权限监测</div>
+			<table class="table table-striped">
+				<tbody><tr>
+					<th style="width:150px;">目录</th>
+					<th style="width:180px;">要求</th>
+					<th style="width:50px;">状态</th>
+				</tr>
+                
+                <?php
+			foreach($sp_testdirs as $d)
+			{
+			?>
+                
+				<tr class="">
+					<td><?php echo $d; ?></td>
+					<?php
+      		$fulld = DEDEROOT.str_replace('/*','',$d);
+      		$rsta = (is_readable($fulld) ? '<font color=green>[√]读</font>' : '<font color=red>[×]读</font>');
+	    		$wsta = (TestWrite($fulld) ? '<font color=green>[√]写</font>' : '<font color=red>[×]写</font>');
+	    		echo "<td>$rsta</td><td>$wsta</td>\r\n";
+      ?>
+					
+				</tr>
+                
+                <?php
+			}
+			?>
+			</tbody></table>
+		</div>
+		
+			<ul class="pager">
+				<li class="previous"><a href="javascript:;" onclick="window.location.href='index.php';" ><span class="glyphicon glyphicon-chevron-left"></span> 返回</a></li>
+				<li class="previous"><a href="javascript:;" onclick="window.location.href='index.php?step=3';">继续 <span class="glyphicon glyphicon-chevron-right"></span></a></li>
+			</ul>
+	
+				</div>
+			</div>
+			<div class="footer" style="margin:15px auto;">
+				<div class="text-center">
+				
+				</div>
+				<div class="text-center">
+					Powered by <a href="http://www.dedecms.com"><b>织梦CMS</b></a> 升级版 &copy; 2020 by <a href="http://www.91084.com">格展网络</a> 分享
+				</div>
+			</div>
+		</div>
+		<script src="skin/js/jquery-1.11.1.min.js"></script>
+		<script src="skin/js/bootstrap.min.js"></script>
+	</body>
+</html>

@@ -1,0 +1,107 @@
+<footer class="footer-area" id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-sm-6 col-xs-12 foot-item foot-about">
+        <div class="single-footer-widget">
+          <div class="footer-logo"> <a href="{dede:global.cfg_cmspath/}/"><img alt="Awesome image" src="{dede:global.cfg_cmspath/}/skin/images/logo-footer.png"/></a> </div>
+          <div class="caption-text">
+            <div class="ft-about">
+              <p> {dede:sql sql='Select content from dede_arctype where id=1'}
+                [field:content function='cn_substr(html2text(@me),400)'/]...
+                {/dede:sql} </p>
+            </div>
+            {dede:type typeid='13'} <a class="thm-btn arrow-push-out-right" href="[field:typelink/]"><span>[field:typename/] <i class="fa fa-caret-right"></i></span></a>{/dede:type} </div>
+        </div>
+      </div>
+      <div class="col-md-2 col-sm-6 col-xs-12 foot-item foot-nav">
+        <div class="single-footer-widget">
+          <h3 class="title">友情链接</h3>
+          <ul class="quick-links left0">
+            {dede:flink titlelen='20' row='20' type='text'}
+            <li>[field:link /]</li>
+            {/dede:flink}
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-12 foot-item foot-news">
+        <div class="single-footer-widget"> {dede:type typeid='8'}
+          <h3 class="title dark-title"><a href="[field:typelink/]">[field:typename/]</a></h3>
+          {/dede:type}
+          <ul class="recent-news">
+            {dede:arclist typeid='8' row='3' titlelen='50' orderby='pubdate'}
+            <li>
+              <div class="box">
+                <div class="overlay"> <a href="[field:arcurl/]"><img alt="[field:title/]" src="[field:picname/]"/></a> </div>
+              </div>
+              <div class="content">
+                <h3 class="text-ellipsis ft-news-title dark-title"><a href="[field:arcurl/]" title="[field:title/]">[field:title/]</a></h3>
+                <span class="ft-news-date">[field:pubdate function="MyDate('Y-m-d',@me)"/]</span> </div>
+            </li>
+            {/dede:arclist}
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-12 foot-item foot-contact">
+        <div class="single-footer-widget"> {dede:type typeid='12'}
+          <h3 class="title dark-title"><a href="[field:typelink/]">[field:typename/]</a></h3>
+          {/dede:type}
+          <ul class="contact">
+            <li>
+              <div class="icon-holder"><i class="fa fa-map-marker"></i></div>
+              <div class="text">
+                <p>地址：{dede:global.cfg_add/}</p>
+              </div>
+            </li>
+            <li>
+              <div class="icon-holder"><i class="fa fa-phone"></i></div>
+              <div class="text">
+                <p>电话: {dede:global.cfg_tel/}</p>
+              </div>
+            </li>
+            <li>
+              <div class="icon-holder"><i class="fa fa-envelope"></i></div>
+              <div class="text">
+                <p>邮箱：{dede:global.cfg_email/}</p>
+              </div>
+            </li>
+            <li>
+              <div class="icon-holder"><i class="fa fa-fax"></i></div>
+              <div class="text">
+                <p>传真：{dede:global.cfg_fax/}</p>
+              </div>
+            </li>
+            <li>
+              <div class="icon-holder"><i class="fa fa-wechat"></i></div>
+              <div class="text">
+                <p>微信公众号：{dede:global.cfg_weixin/}</p>
+              </div>
+            </li>
+            <li>
+              <div class="icon-holder"><i class="fa fa-home"></i></div>
+              <div class="text">
+                <p>网址：{dede:global.cfg_basehost/}</p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<section class="footer-bottom-area" id="copyright">
+  <div class="container ">
+    <div class="footer-bottom">
+      <div class="clearfix">
+        <div class="pull-left Copy-LE">
+          <div class="copy-right">
+            <p> {dede:global.cfg_powerby/} </p>
+          </div>
+        </div>
+        <div class="pull-right Copy-RT">
+          <div class="social-links"> <a href="{dede:global.cfg_weibo/}" target="_blank"><i class="fa fa-weibo"></i></a> <a href="{dede:global.cfg_qqweibo/}" target="_blank"><i class="fa fa-tencent-weibo"></i></a> <a href="http://wpa.qq.com/msgrd?v=3&uin={dede:global.cfg_qq/}&site=qq&menu=yes" target="_blank"><i class="fa fa-qq"></i></a> <a href="mailto:{dede:global.cfg_email/}" target="_blank"><i class="fa fa-envelope"></i></a> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>

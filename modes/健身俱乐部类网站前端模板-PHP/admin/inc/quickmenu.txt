@@ -1,0 +1,8 @@
+<menu:item ico="skin/images/icon02.png" link="catalog_main.php" title="栏目管理" />
+<menu:item ico="skin/images/icon01.png" link="content_list.php" title="文档列表" />
+<menu:item ico="skin/images/icon05.png" link="public_guide.php" title="内容发布" />
+<menu:item ico="skin/images/icon06.png" link="ad_main.php" title="广告管理" />
+<menu:item ico="skin/images/icon07.png" link="templets_main.php" title="模板管理" />
+<menu:item ico="skin/images/icon03.png" link="sys_admin_user_edit.php?id=1&dopost=edit" title="密码修改" />
+<menu:item ico="skin/images/icon09.png" link="sys_info.php" title="修改参数" />
+<menu:item ico="skin/images/icon08.png" link="recycling.php" title="回收站" />
