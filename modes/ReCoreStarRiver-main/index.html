@@ -1,44 +1,59 @@
-﻿<!DOCTYPE HTML>
+﻿<!DOCTYPE html>
 <html>
 	<head>
 		<title>星河尘埃无尽征途</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1, user-scalable=no"
+		/>
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<noscript
+			><link rel="stylesheet" href="assets/css/noscript.css"
+		/></noscript>
+		<style>
+			.copyrights {
+				text-indent: -9999px;
+				height: 0;
+				line-height: 0;
+				font-size: 0;
+				overflow: hidden;
+			}
+		</style>
+		<style>
+			@keyframes move {
+				0% {
+					background-position: 0 0;
+				}
+				100% {
+					/*宽度固定，如果为百分比背景不会滚动*/
+					background-position: -300px 0;
+				}
+			}
+			.wrap {
+			/*设置背景渐变色*/
+			background-image: linear-gradient(to right, #80FFFF, #00FFFF, #00AEAE, #007979, #84C1FF,#00FFFF, #00AEAE,#00FFFF, #007979, #84C1FF, #00AEAE);
+			/*chrome私有样式，加前缀，文字显示背景图片*/
+			-webkit-background-clip: text;
+			animation: move 8s infinite;
+			/*文字颜色设为透明*/
+			color: transparent;
+		</style>
 	</head>
 	<body class="is-preload">
-	    <style>
-	        @keyframes move {
-0% {background-position: 0 0;}
-100% {
-/*宽度固定，如果为百分比背景不会滚动*/
-background-position: -300px 0;
-}
-}
-.wrap {
-/*设置背景渐变色*/
-background-image: linear-gradient(to right, #80FFFF, #00FFFF, #00AEAE, #007979, #84C1FF,#00FFFF, #00AEAE,#00FFFF, #007979, #84C1FF, #00AEAE);
-/*chrome私有样式，加前缀，文字显示背景图片*/
--webkit-background-clip: text;
-animation: move 8s infinite;
-/*文字颜色设为透明*/
-color: transparent;
-	    </style>
 		<!-- Wrapper -->
-			<div id="wrapper">
-
-				<!-- Header -->
-					<header id="header">
-						<div class="logo">
-							<span class="icon fa-gem"></span>
-						</div>
-						<script>
-							/*建站时间*/
-							function show_date_time() {
-							window.setTimeout("show_date_time()", 1e3);
-							var BirthDay = new Date("2018/05/26"),
-							today = new Date,
+		<div id="wrapper">
+			<!-- Header -->
+			<header id="header">
+				<div class="logo">
+					<span class="icon fa-gem"></span>
+				</div>
+				<script>
+					/*建站时间*/
+					function show_date_time() {
+						window.setTimeout("show_date_time()", 1e3);
+						var BirthDay = new Date("2018/05/26"),
+							today = new Date(),
 							timeold = today.getTime() - BirthDay.getTime(),
 							msPerDay = 864e5,
 							e_daysold = timeold / msPerDay,
@@ -48,320 +63,427 @@ color: transparent;
 							e_minsold = 60 * (e_hrsold - hrsold),
 							minsold = Math.floor(60 * (e_hrsold - hrsold)),
 							seconds = Math.floor(60 * (e_minsold - minsold));
-							span_dt_dt.innerHTML = "Re-Core Mod Stuido已经成立了" + daysold+ "天" + hrsold + "小时" + minsold + "分" + seconds + "秒";
-							}
-							show_date_time();
-							</script>
-						<div class="content">
-							<div class="inner">
-								<a href="https://jq.qq.com/?_wv=1027&k=KqV5J9RR"><h1>StarRiver-EndlessJournery</h1></a>
-								<br>
-								<a href="https://jq.qq.com/?_wv=1027&k=KqV5J9RR"><h1 class="wrap">星河总群：696421551</h1></a>
-								<h2><p>星河征途-为了共同的目标而前进着！Re-Core Mod Stuido</p></h2>
-								<p>
-									<h3><span id="span_dt_dt">正在读取中……</span></h3>
-								</p>
-							</div>
-						</div>
-						<nav>
-							<ul>
-								<li><a href="#intro">模组概要</a></li>
-								<li><a href="#Update">更新记录</a></li>
-								<li><a href="https://jq.qq.com/?_wv=1027&k=KqV5J9RR">加入总群</a></li>
-								<li><a href="#about">测试人员</a></li>
-								<li><a href="#contact">关于我们</a></li>
-								<!--<li><a href="#elements">Elements</a></li>-->
-							</ul>
-						</nav>
-					</header>
-
-				<!-- Main -->
-					<div id="main">
-
-						<!-- Intro -->
-							<article id="intro">
-								<h2 class="major">模组概要</h2>
-								<h2 class="major" id="9.9">导航目录：</h2>
-								<h3><ol>
-                                    <li><a href="#Start">一切的源起</a></li>
-                                    <li><a href="#Olivia">无界的混乱</a></li>
-								</ol></h3>
-								<span class="image main"><img src="images/Story/End.jpg" alt="" /></span>
-								<p>星河征途-为了共同的目标而前进着！这是一个基于铁锈战争底层的模组！
-									<br>她仍然还在成长，欢迎各位的游玩!星河征途-为了共同的目标，我们绝对不会退缩！</p>
-								<h2 class="major" id="Start">一切的源起：</h2>
-								<span class="image main"><img src="images/Story/TimeEnd.jpg" alt="" /></span>
-								<p>星河的宇宙曾经是无忧无虑的，但是直到第三个时间线的出现，打破了这里的平衡</p>
-								<p>银铃：所以说，我们必须去重置时间吗？<br>
-								？：是的，银铃小姐！这是十万火急的，如果你还想让蒂拉活着！<br>
-								银铃：我当然知道，但你知道这终究是虚拟环境，会被发现的。<br>
-								？：但这至少能保证她的成长，他们不会那么快找到这里。<br>
-								银铃：或许，这是最好的方法。那么，开始吧，智虫首领：杰诺斯<br>
-								杰诺斯：是的，银铃时空女帝！
-								</p>
-								<h2><li><a href="#9.9" class="major">返回目录浏览中心</a></li></h2>
-								<h2 class="major" id="Olivia">无界的混乱：</h2>
-								<p>
-									妖姬帝国曾经是原名圣莲国，是星河中的一大势力。主要管理者是 圣莲蒂拉
-									<br><br>
-									后来，由于旧日政府的一个疯狂实验【蔚蓝行动】，圣莲国的人越来越少，部分人知道旧日的真正意图，但无济于事。
-									<br><br>								
-									然而，圣莲国的圣莲蒂拉愿意浸泡更久换的其他人的自由。旧日政府很爽快的答应了。
-									然后，时隔一个月，当人们认为她已经灰飞烟灭的时候。她却从容器中走了出来，并且有着异于常人的力量和特异功能。
-									<br><br>							
-									<span class="image main"><img src="images/Story/Source.jpg" alt="" /></span>	
-									旧日政府没有想到会这样，但还是给他们取了好听的名字【妖姬】
-									<br><br>							
-									随着时间的推移，圣莲蒂拉她救下了一个黑龙。正因为这个问题，一切正在发生变化。
-									<br><br>							
-									几年后，旧日政府怂恿魔龙去屠杀妖姬。理由是他们影响宇宙的平衡。
-									<br><br>							
-									与此同时，一个名为起源的帝国正在袭来.......
-									<br><br>			
-									<span class="image main"><img src="images/Story/Destory.jpg" alt="" /></span>				
-									妖姬王国被毁，创始人无能为力。但是在最后，她寄宿在一个蝴蝶上面.......
-									最终，陷入了昏迷.......
-									<br><br>							
-									当她醒来后，她实在是想不通为什么会这样，愤怒蒙蔽了她的双眼。作为妖姬创始人，她的力量十分可怕，如果失控，后果不堪设想。但就在这么十万火急的情况，三神及时赶到；几乎是同时，宇宙双蒂也同时赶到。
-									<span class="image main"><img src="images/Story/Burrery.jpg" alt="" /></span>	
-									<br>							
-									<br>							
-									在三神和双蒂的劝说下，她最终控制住了。不过，她希望能可以穿越时空回到过去，阻止妖姬王国的覆灭.....但她怎么知道，这是第五次轮回了......
-									<span class="image main"><img src="images/Story/Qing.jpg" alt="" /></span>	
-									<br>							
-									<br>				
-									三神与双蒂告诉她真相，并且说到如果这次再出错，就再也回不来了..........
-									<br>							
-									<br>							
-									最终，圣莲蒂拉明白了一切都已经上演过。
-									于是，她这样说道:"无尽的轮回应该停止，幕后的阴谋应该被阻止。
-									<br>							
-									<br>							
-									于是这一次，她不再重置时间线，而在此时此刻，一个叫银铃的人，也正在虚拟化一个环境。没有错，这个环境正是一种模拟战争。
-									<span class="image main"><img src="images/Story/Glass.jpg" alt="" /></span>	
-									<br>							
-									<br>							
-									几乎在同时，一个神秘人邀请幕后黑手去喝下午茶......
-									<br>							
-									<br>						
-									最终他们在下午茶的时候，神秘人对他说道，我知道你的身份，也知道你的目的，你不用管我是谁，但如果你敢再动她一根毫毛，你的计划将会失败。
-									<br>							
-									<br>						
-									而在后面，魔龙帝国也被旧日政府摧毁了。但他遇见了三神中最强战力果源圣母，也就是小果果
-									<br>							
-									<br>						
-									最终小果果与魔龙达成一致协议，一定要发展自己的帝国，并且在以后复仇。
-									<br>							
-									<br>			
-									<span class="image main"><img src="images/Story/Viscas.jpg" alt="" /></span>					
-									由于那个模拟环境里面不是那么容易被发现的，因此他们在里面进行模拟战争已经持续了一段时间，而就在最近，结界已经有所裂痕，看来一切即将进行下一次的轮回。
-									<br>							
-									<br>							
-									四个阵营:<br>
-									智虫帝国  旁观者清<br>
-									妖姬风暴  主要事件者<br>
-									魔龙古国  当局者迷<br>
-									旧日神教  被操控者<br>
-									<br>							
-									<br>							
-									敌对阵营:
-									起源帝国:西杰诺瓦
-									<br>							
-									<br>							
-									宇宙阵营:
-									莉灵星蒂，宇宙双蒂，三神守护者
-									<br>							
-									<br>							
-									妖姬阵营:圣莲蒂拉
-									<br>							
-									<br>						
-									魔龙阵营:小果果，尼德霍格
-									<br>						
-									<br>						
-									旧日阵营:斯诺以太，伊吉斯
-									<br>						
-									<br>						
-									智虫阵营:杰诺斯
-									<br>
-									<ol>						
-									五界时间线:
-									<li>模拟世界线   管理者:银铃</li>
-									<li>旧宇宙 管理者:宇宙双蒂</li>
-									<li>新宇宙 管理者:三神</li>
-									<li>前世时间线 管理者:星蒂</li>
-									<li>现实时间线 管理者:西杰诺瓦</li>
-								</ol>
-								</p>
-								<h2><li><a href="#9.9" class="major">返回目录浏览中心</a></li></h2>
-							</article>
-
-						<!-- Work -->
-							<article id="Update">
-								<h2 id="V0.0">历代重大版本更新记录：</h2>
-								<br>
-								<h2 class="major">导航目录：</h2>
-								<h3><ol>
-								    <li><a href="#V3.0">V0.7.3 炎寒巨岛更新记录</a></li>
-									<li><a href="#V2.5">V0.7.2 鬼影重重更新记录</a></li>
-									<li><a href="#V2.0">V0.7.0 Beta2.0更新记录</a></li>
-									<li><a href="#V1.5">V0.7.0 Beta1.5更新记录</a></li>
-								</ol></h3>
-								<span class="image main"><img src="images/Update/Star.png" alt="" /></span>
-								<p id="V3.0">
-									<h2 class="major">2021-12-4<br>剿灭行动#1-炎寒巨岛</h2>
-									<ul>
-										<span class="image main"><img src="images/Update/3.0.jpg" alt="" /></span>
-										<li>剿灭行动#1-炎寒巨岛（限时开放）</li>
-										<li>旧日神教资源提取器限制解除</li>
-										<li>贴图，代码，设计，构思，想法<br>其背后是每个制作和辅导人员的无私奉献和辛勤付出。<br>感谢你们的默默支持与付出！</li>
-										<span class="image main"><img src="images/Update/3.1.jpg" alt="" /></span>					
-										<li>修复了45个特性</li>
-										<li>修复了辛拉德斯的翅膀不见了的问题。</li>
-										<h2><li><a href="#V0.0" class="major">返回目录浏览中心</a></li></h2>
-									</ul>
-								<p id="V2.5">
-									<h2 class="major">2021-11-(19-21)<br>第一到第三段更新</h2>
-									<ul>
-										<span class="image main"><img src="images/Update/2.5.jpg" alt="" /></span>
-										<li>妖姬阵营AI调整，现在AI会让蝴蝶神化。务必小心</li>
-										<li>魔龙阵营再次平衡，新添加利维亚桑号，魔导水晶，以及白鲸重制</li>
-										<li>旧日神教拉莱耶初级阵营开放，联动莱顿5个单位</li>
-										<li>雷霆将至，辛拉德斯降临；魔龙复活现在是立刻复活，无需祭坛。</li>
-										<li>雅娜战斗机完全体正式来袭，柯达巨炮进行第三次修正数据</li>
-										<li>旧日神教的AI建造规律发生变化,旧日神教原型工厂登陆</li>
-										<h2><li><a href="#V0.0" class="major">返回目录浏览中心</a></li></h2>
-									</ul>
-								<p id="V2.0">
-									<h2 class="major">2021-10-31 Beta2.0</h2>
-										<ul>
-											<li>添加了3个新的地图，感谢MP97,Denny等的大力支持与授权。</li>
-											<span class="image main"><img src="images/Update/1.5.1.jpg" alt="" /></span>
-											<li>调整雅典娜战斗机的攻击方式</li>
-											<li>魔龙阵营进行重新调整，热流塔攻击方式改变</li>
-											<span class="image main"><img src="images/Update/1.5.2.jpg" alt="" /></span>
-											<li>小果果魔龙古国副首领加入</li>
-											<span class="image main"><img src="images/Update/1.5.3.jpg" alt="" /></span>
-											<li>旧日的立方抽取器提取器初始每秒+80资金，蛋为20资金初始，<br>
-												可以在水面建造，最多15个。</li>
-												<span class="image main"><img src="images/Update/1.5.4.png" alt="" /></span>
-											<li>削弱赛格机甲，攻速从0.01s调整到0.5s</li>
-											<li>魔龙复活祭坛bug修复</li>
-											<span class="image main"><img src="images/Update/1.5.5.png" alt="" /></span>
-											<li>新资源-风暴日晷。</li>
-												<span class="image main"><img src="images/Update/1.5.6.png" alt="" /></span>
-												<h2><li><a href="#V0.0" class="major">返回目录浏览中心</a></li></h2>
-										</ul>
-										<p id="V1.5">	
-											<h2 class="major">2021-10-31 Beta1.5</h2>		
-											<ul>
-											<li>修复了雅娜母舰，雷暴发生器会在实验工厂生成的问题</li>
-											<li>修复了立方资源抽取器被原版抽取器替代的问题</li>
-											<span class="image main"><img src="images/Update/1.0.1.jpg" alt="" /></span>
-											<li>海军基地T2移除了重型潜水艇Death,将会在海军基地T3回归,添加了大型主攻型潜水艇于T2。空军基地T2添加了重型运输机。</li>
-											<li>旧日建造大师和战斗工程师已经替换成专属单位</li>
-											<span class="image main"><img src="images/Update/1.0.2.jpg" alt="" /></span>
-											<li>模块化战斗蜘蛛资源预加载，沙盒可预览</li>
-											<li>龙国巨炮伤害调整,500/s改为750/s</li>
-											<span class="image main"><img src="images/Update/1.0.3.jpg" alt="" /></span>
-											<li>暂时移除了模组文件的音乐系统</li>
-											<li>对核弹发射井进行调整,现在更加河里</li>
-											<span class="image main"><img src="images/Update/1.0.4.jpg" alt="" /></span>
-											<li>添加新地图-世界战争。</li>
-											<h2><li><a href="#V0.0" class="major">返回目录浏览中心</a></li></h2>
-											</ul>							
-							</article>
-
-						<!-- About -->
-							<article id="about">
-								<h2 class="major">测试人员</h2>
-								<span class="image main"><img src="images/Story/Reload.jpg" alt="" /></span>
-								<h2 class="major">早期0.3-0.5核心测试人员</h2>
-								<ol>
-									<li>Fang</li>
-									<li>Catand</li>
-									<li>默鸽子</li>
-									<li>义务教育漏网之鱼</li>
-									<li>瓜皮</li>
-									<li>KeGod</li>
-									<li>小雾</li>
-									<li>老庸医</li>
-									<li>白泉</li>	
-								</ol>
-								<span class="image main"><img src="images/Story/Dust.jpg" alt="" /></span>
-								<h2 class="major">现阶段0.6-0.7核心测试人员</h2>
-								<ol>
-									<li>Fang</li>
-									<li>Catand</li>
-									<li>鹰角</li>
-									<li>第四维</li>
-									<li>老庸医</li>
-									<li>口水猫</li>
-									<li>伞兵</li>	
-									<li>阿克-兰兹</li>	
-									<li>呐呐子</li>	
-									<li>Luan</li>
-									<li>Null</li>	
-									<li>白泉</li>				
-									<li>明清</li>		
-								</ol>
-							</article>
-
-						<!-- Contact -->
-							<article id="contact">
-								<h2 class="major">Re-Core Mod Stuido<br>重置核心模组工作室</h2>
-								<span class="image main"><img src="images/Story/Logo.jpg" alt="" /></span>
-								<h2 class="major">制作人员：</h2>
-								<h3><ol>
-								<li>总队长：JDSA-Ling(编码人员)</li>
-								<li>特邀画师：有人(大蝴蝶制作)</li><br>
-								<li>核心美工人员(排名不分先后)：<br>
-									默鸽子(妖姬阵营画师)<br>
-									小果果(魔龙古国画师)<br>
-									北梦孤辰(旧日神教画师)<br>
-								</li>
-							</ol></h3>
-								<h3><ol>
-									<li>摸鱼画师：<br>
-										Fang<br>
-										JDSALing<br>
-										瓜皮<br>
-										邪欢<br></li>
-										<br>
-								</ol></h3>
-								<h2 class="major">联动策略</h2>
-								<h2><ol>
-									<li>莱顿科技</li>
-									<span class="image main"><img src="images/LianDong/LeiDun.jpg" alt="" /></span>
-									<li>浸没技术</li>
-									<span class="image main"><img src="images/LianDong/JinMo.png" alt="" /></span>
-									<li>统一教会</li>
-									<span class="image main"><img src="images/LianDong/Jhui.png" alt="" /></span>
-								</ol></h2>
-							</article>
+						span_dt_dt.innerHTML =
+							"Re-Core Mod Stuido已经成立了" +
+							daysold +
+							"天" +
+							hrsold +
+							"小时" +
+							minsold +
+							"分" +
+							seconds +
+							"秒";
+					}
+					show_date_time();
+				</script>
+				<div class="content">
+					<div class="inner">
+						<a href="https://jq.qq.com/?_wv=1027&k=KqV5J9RR"
+							><h1>StarRiver-EndlessJournery</h1></a
+						>
+						<br />
+						<a href="https://jq.qq.com/?_wv=1027&k=KqV5J9RR"
+							><h1 class="wrap">星河总群：696421551</h1></a
+						>
+						<h2><p>星河征途-为了共同的目标而前进着！Re-Core Mod Stuido</p></h2>
+						<p></p>
+						<h3><span id="span_dt_dt">正在读取中……</span></h3>
 					</div>
+				</div>
+				<nav>
+					<ul>
+						<li><a href="#intro">模组概要</a></li>
+						<li><a href="#Update">更新记录</a></li>
+						<li>
+							<a href="https://jq.qq.com/?_wv=1027&k=KqV5J9RR">加入总群</a>
+						</li>
+						<li><a href="#about">测试人员</a></li>
+						<li><a href="#contact">关于我们</a></li>
+						<!--<li><a href="#elements">Elements</a></li>-->
+					</ul>
+				</nav>
+			</header>
 
-				<!-- Footer -->
-					<footer id="footer">
-						<p class="copyright">&copy; 重置核心模组工作室-2021<br>Re-Core Mod Stuido JDSALing 2021</p>
-					</footer>
+			<!-- Main -->
+			<div id="main">
+				<!-- Intro -->
+				<article id="intro">
+					<h2 class="major">模组概要</h2>
+					<h2 class="major" id="9.9">导航目录：</h2>
+					<h3>
+						<ol>
+							<li><a href="#Start">一切的源起</a></li>
+							<li><a href="#Olivia">无界的混乱</a></li>
+						</ol>
+					</h3>
+					<span class="image main"
+						><img src="images/Story/End.jpg" alt=""
+					/></span>
+					<p>
+						星河征途-为了共同的目标而前进着！这是一个基于铁锈战争底层的模组！
+						<br />她仍然还在成长，欢迎各位的游玩!星河征途-为了共同的目标，我们绝对不会退缩！
+					</p>
+					<h2 class="major" id="Start">一切的源起：</h2>
+					<span class="image main"
+						><img src="images/Story/TimeEnd.jpg" alt=""
+					/></span>
+					<p>
+						星河的宇宙曾经是无忧无虑的，但是直到第三个时间线的出现，打破了这里的平衡
+					</p>
+					<p>
+						银铃：所以说，我们必须去重置时间吗？<br />
+						？：是的，银铃小姐！这是十万火急的，如果你还想让蒂拉活着！<br />
+						银铃：我当然知道，但你知道这终究是虚拟环境，会被发现的。<br />
+						？：但这至少能保证她的成长，他们不会那么快找到这里。<br />
+						银铃：或许，这是最好的方法。那么，开始吧，智虫首领：杰诺斯<br />
+						杰诺斯：是的，银铃时空女帝！
+					</p>
+					<h2>
+						<li><a href="#9.9" class="major">返回目录浏览中心</a></li>
+					</h2>
+					<h2 class="major" id="Olivia">无界的混乱：</h2>
+					<p>
+						妖姬帝国曾经是原名圣莲国，是星河中的一大势力。主要管理者是 圣莲蒂拉
+						<br /><br />
+						后来，由于旧日政府的一个疯狂实验【蔚蓝行动】，圣莲国的人越来越少，部分人知道旧日的真正意图，但无济于事。
+						<br /><br />
+						然而，圣莲国的圣莲蒂拉愿意浸泡更久换的其他人的自由。旧日政府很爽快的答应了。
+						然后，时隔一个月，当人们认为她已经灰飞烟灭的时候。她却从容器中走了出来，并且有着异于常人的力量和特异功能。
+						<br /><br />
+						<span class="image main"
+							><img src="images/Story/Source.jpg" alt=""
+						/></span>
+						旧日政府没有想到会这样，但还是给他们取了好听的名字【妖姬】
+						<br /><br />
+						随着时间的推移，圣莲蒂拉她救下了一个黑龙。正因为这个问题，一切正在发生变化。
+						<br /><br />
+						几年后，旧日政府怂恿魔龙去屠杀妖姬。理由是他们影响宇宙的平衡。
+						<br /><br />
+						与此同时，一个名为起源的帝国正在袭来.......
+						<br /><br />
+						<span class="image main"
+							><img src="images/Story/Destory.jpg" alt=""
+						/></span>
+						妖姬王国被毁，创始人无能为力。但是在最后，她寄宿在一个蝴蝶上面.......
+						最终，陷入了昏迷.......
+						<br /><br />
+						当她醒来后，她实在是想不通为什么会这样，愤怒蒙蔽了她的双眼。作为妖姬创始人，她的力量十分可怕，如果失控，后果不堪设想。但就在这么十万火急的情况，三神及时赶到；几乎是同时，宇宙双蒂也同时赶到。
+						<span class="image main"
+							><img src="images/Story/Burrery.jpg" alt=""
+						/></span>
+						<br />
+						<br />
+						在三神和双蒂的劝说下，她最终控制住了。不过，她希望能可以穿越时空回到过去，阻止妖姬王国的覆灭.....但她怎么知道，这是第五次轮回了......
+						<span class="image main"
+							><img src="images/Story/Qing.jpg" alt=""
+						/></span>
+						<br />
+						<br />
+						三神与双蒂告诉她真相，并且说到如果这次再出错，就再也回不来了..........
+						<br />
+						<br />
+						最终，圣莲蒂拉明白了一切都已经上演过。
+						于是，她这样说道:"无尽的轮回应该停止，幕后的阴谋应该被阻止。
+						<br />
+						<br />
+						于是这一次，她不再重置时间线，而在此时此刻，一个叫银铃的人，也正在虚拟化一个环境。没有错，这个环境正是一种模拟战争。
+						<span class="image main"
+							><img src="images/Story/Glass.jpg" alt=""
+						/></span>
+						<br />
+						<br />
+						几乎在同时，一个神秘人邀请幕后黑手去喝下午茶......
+						<br />
+						<br />
+						最终他们在下午茶的时候，神秘人对他说道，我知道你的身份，也知道你的目的，你不用管我是谁，但如果你敢再动她一根毫毛，你的计划将会失败。
+						<br />
+						<br />
+						而在后面，魔龙帝国也被旧日政府摧毁了。但他遇见了三神中最强战力果源圣母，也就是小果果
+						<br />
+						<br />
+						最终小果果与魔龙达成一致协议，一定要发展自己的帝国，并且在以后复仇。
+						<br />
+						<br />
+						<span class="image main"
+							><img src="images/Story/Viscas.jpg" alt=""
+						/></span>
+						由于那个模拟环境里面不是那么容易被发现的，因此他们在里面进行模拟战争已经持续了一段时间，而就在最近，结界已经有所裂痕，看来一切即将进行下一次的轮回。
+						<br />
+						<br />
+						四个阵营:<br />
+						智虫帝国 旁观者清<br />
+						妖姬风暴 主要事件者<br />
+						魔龙古国 当局者迷<br />
+						旧日神教 被操控者<br />
+						<br />
+						<br />
+						敌对阵营: 起源帝国:西杰诺瓦
+						<br />
+						<br />
+						宇宙阵营: 莉灵星蒂，宇宙双蒂，三神守护者
+						<br />
+						<br />
+						妖姬阵营:圣莲蒂拉
+						<br />
+						<br />
+						魔龙阵营:小果果，尼德霍格
+						<br />
+						<br />
+						旧日阵营:斯诺以太，伊吉斯
+						<br />
+						<br />
+						智虫阵营:杰诺斯
+						<br />
+					</p>
 
+					<ol>
+						五界时间线:
+						<li>模拟世界线 管理者:银铃</li>
+						<li>旧宇宙 管理者:宇宙双蒂</li>
+						<li>新宇宙 管理者:三神</li>
+						<li>前世时间线 管理者:星蒂</li>
+						<li>现实时间线 管理者:西杰诺瓦</li>
+					</ol>
+
+					<h2>
+						<li><a href="#9.9" class="major">返回目录浏览中心</a></li>
+					</h2>
+				</article>
+
+				<!-- Work -->
+				<article id="Update">
+					<h2 id="V0.0">历代重大版本更新记录：</h2>
+					<br />
+					<h2 class="major">导航目录：</h2>
+					<h3>
+						<ol>
+							<li><a href="#V3.0">V0.7.3 炎寒巨岛更新记录</a></li>
+							<li><a href="#V2.5">V0.7.2 鬼影重重更新记录</a></li>
+							<li><a href="#V2.0">V0.7.0 Beta2.0更新记录</a></li>
+							<li><a href="#V1.5">V0.7.0 Beta1.5更新记录</a></li>
+						</ol>
+					</h3>
+					<span class="image main"
+						><img src="images/Update/Star.png" alt=""
+					/></span>
+					<p id="V3.0"></p>
+					<h2 class="major">2021-12-4<br />剿灭行动#1-炎寒巨岛</h2>
+					<ul>
+						<span class="image main"
+							><img src="images/Update/3.0.jpg" alt=""
+						/></span>
+						<li>剿灭行动#1-炎寒巨岛（限时开放）</li>
+						<li>旧日神教资源提取器限制解除</li>
+						<li>
+							贴图，代码，设计，构思，想法<br />其背后是每个制作和辅导人员的无私奉献和辛勤付出。<br />感谢你们的默默支持与付出！
+						</li>
+						<span class="image main"
+							><img src="images/Update/3.1.jpg" alt=""
+						/></span>
+						<li>修复了45个特性</li>
+						<li>修复了辛拉德斯的翅膀不见了的问题。</li>
+						<h2>
+							<li><a href="#V0.0" class="major">返回目录浏览中心</a></li>
+						</h2>
+					</ul>
+					<p id="V2.5"></p>
+					<h2 class="major">2021-11-(19-21)<br />第一到第三段更新</h2>
+					<ul>
+						<span class="image main"
+							><img src="images/Update/2.5.jpg" alt=""
+						/></span>
+						<li>妖姬阵营AI调整，现在AI会让蝴蝶神化。务必小心</li>
+						<li>魔龙阵营再次平衡，新添加利维亚桑号，魔导水晶，以及白鲸重制</li>
+						<li>旧日神教拉莱耶初级阵营开放，联动莱顿5个单位</li>
+						<li>雷霆将至，辛拉德斯降临；魔龙复活现在是立刻复活，无需祭坛。</li>
+						<li>雅娜战斗机完全体正式来袭，柯达巨炮进行第三次修正数据</li>
+						<li>旧日神教的AI建造规律发生变化,旧日神教原型工厂登陆</li>
+						<h2>
+							<li><a href="#V0.0" class="major">返回目录浏览中心</a></li>
+						</h2>
+					</ul>
+					<p id="V2.0"></p>
+					<h2 class="major">2021-10-31 Beta2.0</h2>
+					<ul>
+						<li>添加了3个新的地图，感谢MP97,Denny等的大力支持与授权。</li>
+						<span class="image main"
+							><img src="images/Update/1.5.1.jpg" alt=""
+						/></span>
+						<li>调整雅典娜战斗机的攻击方式</li>
+						<li>魔龙阵营进行重新调整，热流塔攻击方式改变</li>
+						<span class="image main"
+							><img src="images/Update/1.5.2.jpg" alt=""
+						/></span>
+						<li>小果果魔龙古国副首领加入</li>
+						<span class="image main"
+							><img src="images/Update/1.5.3.jpg" alt=""
+						/></span>
+						<li>
+							旧日的立方抽取器提取器初始每秒+80资金，蛋为20资金初始，<br />
+							可以在水面建造，最多15个。
+						</li>
+						<span class="image main"
+							><img src="images/Update/1.5.4.png" alt=""
+						/></span>
+						<li>削弱赛格机甲，攻速从0.01s调整到0.5s</li>
+						<li>魔龙复活祭坛bug修复</li>
+						<span class="image main"
+							><img src="images/Update/1.5.5.png" alt=""
+						/></span>
+						<li>新资源-风暴日晷。</li>
+						<span class="image main"
+							><img src="images/Update/1.5.6.png" alt=""
+						/></span>
+						<h2>
+							<li><a href="#V0.0" class="major">返回目录浏览中心</a></li>
+						</h2>
+					</ul>
+					<p id="V1.5"></p>
+					<h2 class="major">2021-10-31 Beta1.5</h2>
+					<ul>
+						<li>修复了雅娜母舰，雷暴发生器会在实验工厂生成的问题</li>
+						<li>修复了立方资源抽取器被原版抽取器替代的问题</li>
+						<span class="image main"
+							><img src="images/Update/1.0.1.jpg" alt=""
+						/></span>
+						<li>
+							海军基地T2移除了重型潜水艇Death,将会在海军基地T3回归,添加了大型主攻型潜水艇于T2。空军基地T2添加了重型运输机。
+						</li>
+						<li>旧日建造大师和战斗工程师已经替换成专属单位</li>
+						<span class="image main"
+							><img src="images/Update/1.0.2.jpg" alt=""
+						/></span>
+						<li>模块化战斗蜘蛛资源预加载，沙盒可预览</li>
+						<li>龙国巨炮伤害调整,500/s改为750/s</li>
+						<span class="image main"
+							><img src="images/Update/1.0.3.jpg" alt=""
+						/></span>
+						<li>暂时移除了模组文件的音乐系统</li>
+						<li>对核弹发射井进行调整,现在更加河里</li>
+						<span class="image main"
+							><img src="images/Update/1.0.4.jpg" alt=""
+						/></span>
+						<li>添加新地图-世界战争。</li>
+						<h2>
+							<li><a href="#V0.0" class="major">返回目录浏览中心</a></li>
+						</h2>
+					</ul>
+				</article>
+
+				<!-- About -->
+				<article id="about">
+					<h2 class="major">测试人员</h2>
+					<span class="image main"
+						><img src="images/Story/Reload.jpg" alt=""
+					/></span>
+					<h2 class="major">早期0.3-0.5核心测试人员</h2>
+					<ol>
+						<li>Fang</li>
+						<li>Catand</li>
+						<li>默鸽子</li>
+						<li>义务教育漏网之鱼</li>
+						<li>瓜皮</li>
+						<li>KeGod</li>
+						<li>小雾</li>
+						<li>老庸医</li>
+						<li>白泉</li>
+					</ol>
+					<span class="image main"
+						><img src="images/Story/Dust.jpg" alt=""
+					/></span>
+					<h2 class="major">现阶段0.6-0.7核心测试人员</h2>
+					<ol>
+						<li>Fang</li>
+						<li>Catand</li>
+						<li>鹰角</li>
+						<li>第四维</li>
+						<li>老庸医</li>
+						<li>口水猫</li>
+						<li>伞兵</li>
+						<li>阿克-兰兹</li>
+						<li>呐呐子</li>
+						<li>Luan</li>
+						<li>Null</li>
+						<li>白泉</li>
+						<li>明清</li>
+					</ol>
+				</article>
+
+				<!-- Contact -->
+				<article id="contact">
+					<h2 class="major">Re-Core Mod Stuido<br />重置核心模组工作室</h2>
+					<span class="image main"
+						><img src="images/Story/Logo.jpg" alt=""
+					/></span>
+					<h2 class="major">制作人员：</h2>
+					<h3>
+						<ol>
+							<li>总队长：JDSA-Ling(编码人员)</li>
+							<li>特邀画师：有人(大蝴蝶制作)</li>
+							<br />
+							<li>
+								核心美工人员(排名不分先后)：<br />
+								默鸽子(妖姬阵营画师)<br />
+								小果果(魔龙古国画师)<br />
+								北梦孤辰(旧日神教画师)<br />
+							</li>
+						</ol>
+					</h3>
+					<h3>
+						<ol>
+							<li>
+								摸鱼画师：<br />
+								Fang<br />
+								JDSALing<br />
+								瓜皮<br />
+								邪欢<br />
+							</li>
+
+							<br />
+						</ol>
+					</h3>
+					<h2 class="major">联动策略</h2>
+					<h2>
+						<ol>
+							<li>莱顿科技</li>
+							<span class="image main"
+								><img src="images/LianDong/LeiDun.jpg" alt=""
+							/></span>
+							<li>浸没技术</li>
+							<span class="image main"
+								><img src="images/LianDong/JinMo.png" alt=""
+							/></span>
+							<li>统一教会</li>
+							<span class="image main"
+								><img src="images/LianDong/Jhui.png" alt=""
+							/></span>
+						</ol>
+					</h2>
+				</article>
 			</div>
 
+			<!-- Footer -->
+			<footer id="footer">
+				<p class="copyright">
+					&copy; 重置核心模组工作室-2021<br />Re-Core Mod Stuido JDSALing 2021
+				</p>
+			</footer>
+		</div>
+
 		<!-- BG -->
-			<div id="bg"></div>
+		<div id="bg"></div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-	<style>
-.copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
-</style>
-<div class="copyrights" id="links20210126">
-	Collect from <a href="http://www.cssmoban.com/"  title="网站模板">模板之家</a>
-	<a href="https://www.chazidian.com/"  title="查字典">查字典</a>
-</div>
-</body>
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+
+		<div class="copyrights" id="links20210126">
+			Collect from
+			<a href="http://www.cssmoban.com/" title="网站模板">模板之家</a>
+			<a href="https://www.chazidian.com/" title="查字典">查字典</a>
+		</div>
+	</body>
 </html>
