@@ -64,7 +64,7 @@ Magic-Ling-Pixel-Dungeon-Web 遵循 [Contributor Covenant](http://contributor-co
 **当前进度**：
 
 - [x] 人员招募
-- [ ] 方案设计
+- [x] 方案设计
 - [ ] 编码
 - [ ] Debug 测试
 - [ ] 完成！
