@@ -1,1 +1,0 @@
-INSERT INTO `dede_search_keywords` VALUES('1','教练','教练','3','4','1584348064','0','0');

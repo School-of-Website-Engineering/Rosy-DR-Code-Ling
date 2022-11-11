@@ -1,3 +1,0 @@
-INSERT INTO `dede_myppt` VALUES('1','1','3','幻灯三','','/uploads/200316/1-200316154521B1.jpg','#');
-INSERT INTO `dede_myppt` VALUES('2','1','2','幻灯二','','/uploads/200316/1-200316154521B1.jpg','#');
-INSERT INTO `dede_myppt` VALUES('3','1','1','幻灯一','','/uploads/200316/1-200316154521B1.jpg','#');

@@ -1,1 +1,0 @@
-INSERT INTO `dede_myppttype` VALUES('1','首页幻灯');

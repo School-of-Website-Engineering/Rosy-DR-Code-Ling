@@ -1,2 +1,0 @@
-# ReCoreStarRiver
-StarRiver
