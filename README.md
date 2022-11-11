@@ -39,7 +39,7 @@ Rosy DR-Code Ling 的 Web 页面
 
 非常欢迎你的加入！[提一个 Issue](https://github.com/School-of-Automation-Engineering/Magic-Ling-Pixel-Dungeon-Web/issues) 或者提交一个 Pull Request。
 
-Magic-Ling-Pixel-Dungeon-Web 遵循 [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) 行为规范。
+Rosy DR-Code Ling-Web 遵循 [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) 行为规范。
 
 ### 贡献者
 
