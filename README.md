@@ -43,7 +43,7 @@ Magic-Ling-Pixel-Dungeon-Web 遵循 [Contributor Covenant](http://contributor-co
 
 ### 贡献者
 
-<a href="https://github.com/liusxs"><img style="border-radius:50%;height:60px" src="https://avatars.githubusercontent.com/u/101164913?v=4" /></a>
+<a href="https://github.com/liusxs"><img style="border-radius:50%;height:60px;" src="https://avatars.githubusercontent.com/u/101164913?v=4" /></a>
 <a href="https://github.com/LingASDJ"><img style="border-radius:50%;height:60px" src="https://avatars.githubusercontent.com/u/70191651?v=4" /></a>
 <a href="https://github.com/mason369"><img style="border-radius:50%;height:60px" src="https://avatars.githubusercontent.com/u/93964390?s=96&v=4" /></a>
 <a href="https://github.com/Complexxxxx"><img style="border-radius:50%;height:60px" src="https://avatars.githubusercontent.com/u/81176567?s=96&v=4" /></a>
@@ -79,3 +79,20 @@ JavaScript 和 Web 开发人员的最佳选择，具有几乎可支持任何编�
 ## 使用许可
 
 [Apache License 2.0](LICENSE) © Richard Littauer
+
+## 本地部署
+``` bash
+//出于Github缓存和最新依赖考虑，我们默认不提供node_modules的文件夹以及依赖项
+//如果是首次配置,需要优先安装CNPM
+# npm install -g cnpm -registry=https://registry.npm.taobao.org 
+//然后安装依赖，通过以下命令
+# cnpm install
+
+//Dev 服务器测试
+# cnpm run dev
+
+//构建模块
+# cnpm run build
+
+//注意：本项目使用DC模式，即Dev+Compile(开发即时编译模式)
+```
