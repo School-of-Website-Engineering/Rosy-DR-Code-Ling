@@ -1,1 +1,0 @@
-jQuery("#hits").html(2);

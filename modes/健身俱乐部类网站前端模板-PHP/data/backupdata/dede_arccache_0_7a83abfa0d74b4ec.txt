@@ -1,2 +1,0 @@
-INSERT INTO `dede_arccache` VALUES('925ad638d4e366e04f73d7f5a99e4a33','1584348086','11,10,9');
-INSERT INTO `dede_arccache` VALUES('a09971385ca09cdf1adeb070cd82fee6','1584348086','11,10,9');
