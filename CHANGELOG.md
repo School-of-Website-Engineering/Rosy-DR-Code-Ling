@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.0.0...v1.0.1) (2022-11-27)
+
+
+### Bug Fixes
+
+* fix sass-loader and Del files ([6690737](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/66907373605a2c47bab0e40f500a0d07346b7f54))
+
 ## 1.0.0 (2022-11-27)
 
 
