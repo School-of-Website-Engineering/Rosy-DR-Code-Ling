@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.0.1...v1.0.2) (2022-11-27)
+
+
+### Performance Improvements
+
+* update yml config ([847691d](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/847691de6c976f8ce50e7e8800c4f3166f82ad09))
+
 ## [1.0.1](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.0.0...v1.0.1) (2022-11-27)
 
 
