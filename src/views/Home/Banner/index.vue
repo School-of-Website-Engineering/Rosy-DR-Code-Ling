@@ -5,11 +5,10 @@
                 <div class="col-lg-10 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="banner-content text-center">
                         <h1 class="head">
-                            The Best Digital WooCommerce Marketplace
+                            哈哈哈哈哈哈哈哈哈哈
                         </h1>
                         <p class="text">
-                            Welcome to Markpro Multi vendor Marketplace Theme. Buy and <br> Sell any kind of Digital
-                            Product you Wish.
+                           欢迎来到魔ling的世界!
                         </p>
                         <form action="#">
                             <div class="form-group">
