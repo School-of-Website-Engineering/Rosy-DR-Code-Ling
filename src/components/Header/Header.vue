@@ -18,9 +18,9 @@
                                 <li>
                                     <a class="drop" href="#">模组列表</a>
                                     <ul class="submenu">
-                                        <li><a href="#">魔绫地牢-PXD</a></li>
-                                        <li><a href="#">星河征途-RTS</a></li>
-                                        <li><a href="#">天狱之境-TML</a></li>
+                                        <li><router-link to="pxd">魔绫地牢-PXD</router-link></li>
+                                        <li><router-link to="rts">星河征途-RTS</router-link></li>
+                                        <li><router-link to="tml">天狱之境-TML</router-link></li>
                                     </ul>
                                 </li>
                                 <!-- <li>
