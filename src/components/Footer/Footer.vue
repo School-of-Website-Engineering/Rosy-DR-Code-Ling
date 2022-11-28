@@ -5,7 +5,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="footer-box one">
                         <div class="logo">
-                            <img src="static/picture/logo-2.png" alt="Markpro" />
+                            <img src="../Footer/image/Logo.png" alt="Markpro" />
                         </div>
                         <p class="text">
                             随着包含段落的etras表格的发布而在。使用像Maker这样的Desop发布软件，以及所有这些软件，包括System。类似Maker的Desop发布软件
@@ -27,7 +27,7 @@
                             <ul>
                                 <li><a href="#0"> 关于我们 </a></li>
                                 <li><a href="#0"> 我的账户 </a></li>
-                                <li class="active"><a href="#0"> 主题 </a></li>
+                                <li><a href="#0"> 主题 </a></li>
                                 <li><a href="#0"> 联系我们 </a></li>
                                 <li><a href="#0"> 检出 </a></li>
                                 <li><a href="#0"> 联系我们 </a></li>
@@ -52,7 +52,7 @@
                 </div>
                 <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="footer-box none">
-                        <h4 class="lasthead">Q快速资源</h4>
+                        <h4 class="lasthead">快速资源</h4>
                         <div class="footer-list">
                             <ul>
                                 <li><a href="#0"> 团体  </a></li>
