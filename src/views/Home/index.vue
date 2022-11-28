@@ -1,7 +1,7 @@
 <template>
     <div>
         <Banner></Banner>
-        <Partner></Partner>
+        <!-- <Partner></Partner> -->
         <Choose></Choose>
         <Featured></Featured>
         <Unique></Unique>

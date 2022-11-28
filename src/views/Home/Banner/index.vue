@@ -7,21 +7,10 @@
                         <h1 class="head">
                         Hi,欢迎您来到Code-Ling。
                         </h1>
-                        <p class="text">
-                            <span id="sitetime"></span>
-                        </p>
-                        <!-- <form action="#">
-                            <div class="form-group">
-                                <input type="text" placeholder="输入关键词进行搜索" class="form-control">
-                                <button class="main-btn icon"><i class="fal fa-search"></i></button>
-                            </div>
-                        </form> -->
-                    </div>
-                    <div class="video">
-                        <img src="../Banner/images/laptop.png" alt="" class="laptop">
-                        <a href="javascript:;" class="popup mfp-iframe video-button">
-                            <i class="fas fa-play"></i>
-                        </a>
+                        <h3 class="head" style="color:#0bffaa">
+                            <span>Rosy-Code Ling-Page</span><br>
+                            <span>星河征途--天狱之境--魔绫地牢总站点</span>
+                        </h3>
                     </div>
                 </div>
             </div>
