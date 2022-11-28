@@ -5,7 +5,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="footer-box one">
                         <div class="logo">
-                            <img src="../Footer/image/Logo.png" alt="Markpro" />
+                            <img src="../Footer/image/Logo.png" alt="Markpro"/>
                         </div>
                         <p class="text">
                             随着包含段落的etras表格的发布而在。使用像Maker这样的Desop发布软件，以及所有这些软件，包括System。类似Maker的Desop发布软件

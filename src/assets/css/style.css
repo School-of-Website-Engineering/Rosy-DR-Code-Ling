@@ -1625,9 +1625,9 @@ div#preloader .loader-cubes .loader-cube .loader-cube3::before {
 /*=======  Header  =======*/
 .header-navigation {
   background-color: #fff;
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
-  padding: 0 15px;
+  padding: 0 100px;
   -webkit-transition-duration: 0.5s;
   transition-duration: 0.5s;
 }
@@ -7784,5 +7784,9 @@ div#preloader .loader-cubes .loader-cube .loader-cube3::before {
   margin-right: 20px;
 }
 
-/*=======  Cart End  =======*/
-/*# sourceMappingURL=style.css.map */
+.header-two.sticky-header.sticky-on .header-navigation {
+  background: -webkit-gradient(linear, left top, right top, from(#7e3afb), to(#29b9f5));
+  background: linear-gradient(left, #7e3afb 0%, #29b9f5 100%);
+  -webkit-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.04);
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.04);
+}
