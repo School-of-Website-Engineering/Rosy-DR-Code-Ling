@@ -5,6 +5,7 @@
         <Partner></Partner>
         <Choose></Choose>
         <Featured></Featured>
+        <Unique></Unique>
     </div>
 </template>
 
@@ -14,6 +15,7 @@ import Content from '@/views/Home/Content'
 import Partner from '@/views/Home/Partner'
 import Choose from '@/views/Home/Choose'
 import Featured from '@/views/Home/Featured'
+import Unique from '@/views/Home/Unique'
 
 export default {
     components: {
@@ -22,6 +24,7 @@ export default {
         Partner,
         Choose,
         Featured,
+        Unique,
     },
 }
 </script>
