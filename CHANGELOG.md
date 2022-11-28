@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.0.6...v1.0.7) (2022-11-28)
+
+
+### Feature Improvements
+
+* 引入JS ([9c04162](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/9c041627dfb851b765a507adf3f7c65c71ed6bed))
+
 ## [1.0.6](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.0.5...v1.0.6) (2022-11-28)
 
 
