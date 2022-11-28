@@ -15,6 +15,6 @@ div{
     height: 500px;
     line-height: 500px;
     color: white;
-    background-color: red;
+    background-color: rgb(158, 158, 158);
 }
 </style>
