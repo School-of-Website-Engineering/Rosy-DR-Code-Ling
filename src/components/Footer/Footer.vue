@@ -8,9 +8,7 @@
                             <img src="static/picture/logo-2.png" alt="Markpro" />
                         </div>
                         <p class="text">
-                            Popularised in the with the release of etras sheets containing passages and more rcently
-                            with desop publishing software like Maker and all of them including System.more rcently with
-                            desop publishing software like Maker
+                            随着包含段落的etras表格的发布而在。使用像Maker这样的Desop发布软件，以及所有这些软件，包括System。类似Maker的Desop发布软件
                         </p>
 
                         <div class="social">
@@ -24,45 +22,45 @@
                 </div>
                 <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="footer-box two">
-                        <h4 class="lasthead">Quick Resources</h4>
+                        <h4 class="lasthead">快速资源</h4>
                         <div class="footer-list">
                             <ul>
-                                <li><a href="#0"> About Us </a></li>
-                                <li><a href="#0"> My account </a></li>
-                                <li class="active"><a href="#0"> Themes </a></li>
-                                <li><a href="#0"> Contact Us </a></li>
-                                <li><a href="#0"> Checkout </a></li>
-                                <li><a href="#0"> Contact Us </a></li>
+                                <li><a href="#0"> 关于我们 </a></li>
+                                <li><a href="#0"> 我的账户 </a></li>
+                                <li class="active"><a href="#0"> 主题 </a></li>
+                                <li><a href="#0"> 联系我们 </a></li>
+                                <li><a href="#0"> 检出 </a></li>
+                                <li><a href="#0"> 联系我们 </a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="footer-box three">
-                        <h4 class="lasthead">Markpro Market</h4>
+                        <h4 class="lasthead">MarkPro市场</h4>
                         <div class="footer-list">
                             <ul>
-                                <li><a href="#0"> Terms </a></li>
-                                <li><a href="#0"> Licenses </a></li>
-                                <li><a href="#0"> Market API </a></li>
-                                <li><a href="#0"> Become an affiliate </a></li>
-                                <li><a href="#0"> Privacy & Policy </a></li>
-                                <li><a href="#0"> Site Map </a></li>
+                                <li><a href="#0"> 条款 </a></li>
+                                <li><a href="#0"> 条款 </a></li>
+                                <li><a href="#0"> 市场应用编程接口</a></li>
+                                <li><a href="#0"> 成为附属公司 </a></li>
+                                <li><a href="#0"> 隐私政策 </a></li>
+                                <li><a href="#0"> 站点地图 </a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="footer-box none">
-                        <h4 class="lasthead">Quick Resources</h4>
+                        <h4 class="lasthead">Q快速资源</h4>
                         <div class="footer-list">
                             <ul>
-                                <li><a href="#0"> Community </a></li>
-                                <li><a href="#0"> Blog </a></li>
-                                <li><a href="#0"> Forums </a></li>
-                                <li><a href="#0"> Meetups </a></li>
-                                <li><a href="#0"> Events </a></li>
-                                <li><a href="#0"> Bloging </a></li>
+                                <li><a href="#0"> 团体  </a></li>
+                                <li><a href="#0"> 博客 </a></li>
+                                <li><a href="#0"> 论坛  </a></li>
+                                <li><a href="#0"> 我们 </a></li>
+                                <li><a href="#0"> 项目 </a></li>
+                                <li><a href="#0"> 博客 </a></li>
                             </ul>
                         </div>
                     </div>
