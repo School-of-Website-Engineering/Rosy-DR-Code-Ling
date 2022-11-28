@@ -1,5 +1,5 @@
 <template>
-    <div id="app">
+    <header class="header-two sticky-header">
         <div class="header-navigation">
             <div class="container-fluid d-flex align-items-center justify-content-between container-1470">
                 <div class="header-left">
@@ -79,7 +79,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </header>
 </template>
 
 <script>
