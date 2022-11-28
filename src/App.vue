@@ -21,6 +21,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import'../public/css/reset.css';
 @import "./assets/css/style.css";
 @import "./assets/css/bootstrap.min.css";
 @import "./assets/css/owl.carousel.min.css";

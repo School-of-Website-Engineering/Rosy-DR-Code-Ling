@@ -8,8 +8,6 @@ import router from '@/router'
 //关闭生产提示
 Vue.config.productionTip = false
 
-Vue.config.productionTip = false
-
 /* eslint-disable no-new */
 new Vue({
   render: (h) => h(App),
