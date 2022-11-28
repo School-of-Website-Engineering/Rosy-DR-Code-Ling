@@ -1,6 +1,5 @@
 <template>
     <div id="app">
-        <Preloader></Preloader>
         <Header></Header>
         <router-view></router-view>
         <Footer></Footer>
@@ -10,7 +9,6 @@
 <script>
 import Header from '../src/components/Header/Header'
 import Footer from '@/components/Footer/Footer'
-import Preloader from '@/components/Preloader'
 
 export default {
     name: 'App',
@@ -18,7 +16,6 @@ export default {
     components: {
         Footer,
         Header,
-        Preloader,
     },
 }
 </script>
