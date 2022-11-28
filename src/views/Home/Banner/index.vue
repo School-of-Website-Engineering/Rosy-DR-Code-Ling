@@ -1,0 +1,41 @@
+<template>
+    <section class="banner two">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="banner-content text-center">
+                        <h1 class="head">
+                            The Best Digital WooCommerce Marketplace
+                        </h1>
+                        <p class="text">
+                            Welcome to Markpro Multi vendor Marketplace Theme. Buy and <br> Sell any kind of Digital
+                            Product you Wish.
+                        </p>
+                        <form action="#">
+                            <div class="form-group">
+                                <input type="text" placeholder="Wordpress Theme.." class="form-control">
+                                <button class="main-btn icon"><i class="fal fa-search"></i></button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="video">
+                        <img src="static/picture/laptop.png" alt="" class="laptop">
+                        <a href="javascript:;" class="popup mfp-iframe video-button">
+                            <i class="fas fa-play"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
+
+<script>
+    export default {
+
+    }
+</script>
+
+<style lang="scss" scoped>
+
+</style>

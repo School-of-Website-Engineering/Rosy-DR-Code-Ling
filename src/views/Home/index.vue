@@ -1,15 +1,22 @@
 <template>
     <div>
+        <Banner></Banner>
         <div>content</div>
     </div>
 </template>
 
 <script>
-export default {}
+import Banner from '@/views/Home/Banner'
+
+export default {
+    components:{
+        Banner
+    }
+}
 </script>
 
 <style lang="scss" scoped>
-div{
+div {
     text-align: center;
     width: 100%;
     height: 500px;
