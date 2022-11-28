@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.6](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.0.5...v1.0.6) (2022-11-28)
+
+
+### Feature Improvements
+
+* 重新引入样式 ([ae86623](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/ae86623c7a7efd6a7818dd465c918551f289af03))
+
 ## [1.0.5](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.0.4...v1.0.5) (2022-11-28)
 
 
