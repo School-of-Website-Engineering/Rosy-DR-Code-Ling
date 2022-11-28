@@ -5,8 +5,8 @@
        </div>
 </template>
 <script>
-import Bane from '../TML/Bane'
-import Cont from '../TML/Cont'
+import Bane from '../TML/Bane/index.vue'
+import Cont from '../TML/Cont/index.vue'
 export default {
     components: {
         Bane,
