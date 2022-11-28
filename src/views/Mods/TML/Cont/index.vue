@@ -42,7 +42,7 @@
                                         天狱详情</a>
                                 </li>
                                 <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="pills-review-tab" data-toggle="pill" href="#pills-review" role="tab" aria-controls="pills-review" aria-selected="false">版本</a>
+                                    <a class="nav-link" id="pills-review-tab" data-toggle="pill" href="#pills-review" role="tab" aria-controls="pills-review" aria-selected="false">评价</a>
                                 </li>
                                 <li class="nav-item" role="presentation">
                                     <a class="nav-link" id="pills-faq-tab" data-toggle="pill" href="#pills-faq" role="tab" aria-controls="pills-faq" aria-selected="false">常见问题</a>
@@ -52,7 +52,7 @@
                                 <div class="tab-pane fade show active" id="pills-description" role="tabpanel" aria-labelledby="pills-description-tab">
                                     <div class="content  wow fadeInUp">
                                         <div class="content-one">
-                                            <h3 class="subtitle">天狱之境</h3>
+                                            <h3 class="subtitle"><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" style="font-size: 24px; color: #547af8;">天狱之境</a></h3>
                                             <p class="text one">
                                                 天空中的地狱，数百万的灵魂被囚禁在这里。
 
@@ -60,21 +60,7 @@
                                                 被遗弃的离散常量已经到达这里，那么，你能成为这个世界的变数的契机之人吗？
                                             </p>
                                             <p class="text two">
-                                                It is a long established fact that a reader will be distracted by the
-                                                readable
-                                                content of a page when looking at its layout. The point of using Lorem
-                                                Ipsum is
-                                                that it has a more-or-less normal distribution of letters, as opposed to
-                                                using
-                                                ‘Content here, content here’, making it look like readable English. Many
-                                                desktop
-                                                publishing packages and web page editors now use Lorem Ipsum as their
-                                                default
-                                                model text, and a search for ‘lorem ipsum’ will uncover many web sites
-                                                still in
-                                                their infancy. Various versions have evolved over the years, sometimes
-                                                by
-                                                accident, sometimes on purpose.
+                                                描述
                                             </p>
                                         </div>
                                         <div class="product-feature">
@@ -131,92 +117,52 @@
                                     <div class="additional-imformation-box">
                                         <div class="info-box">
                                             <div class="left-box">
-                                                <p class="text">Gutenberg Optimized </p>
+                                                <p class="text">作者 </p>
                                             </div>
                                             <div class="right-box">
-                                                <a href="#0" class="link">Yes</a>
+                                                <a href="#0" class="link">ling</a>
                                             </div>
                                         </div>
                                         <div class="info-box">
                                             <div class="left-box">
-                                                <p class="text">High Resolution </p>
+                                                <p class="text">美工</p>
                                             </div>
                                             <div class="right-box">
-                                                <a href="#0" class="link"> Yes </a>
+                                                <a href="#0" class="link"> 冷群,昔弦</a>
                                             </div>
                                         </div>
                                         <div class="info-box">
                                             <div class="left-box">
-                                                <p class="text">Widget Ready</p>
+                                                <p class="text">音乐</p>
                                             </div>
                                             <div class="right-box">
-                                                <a href="#0" class="link"> Yes </a>
+                                                <a href="#0" class="link"> Prohonor </a>
                                             </div>
                                         </div>
                                         <div class="info-box">
                                             <div class="left-box">
-                                                <p class="text">Compatible Browsers </p>
+                                                <p class="text">平衡 </p>
                                             </div>
                                             <div class="right-box">
-                                                <a href="#0" class="link"> Chrome, Edge, Firefox, IE10, IE11, Opera,
-                                                    Safari </a>
+                                                <a href="#0" class="link"> Catand,Fang</a>
                                             </div>
                                         </div>
                                         <div class="info-box">
                                             <div class="left-box">
-                                                <p class="text">Compatible With</p>
+                                                <p class="text">测试</p>
                                             </div>
                                             <div class="right-box">
-                                                <a href="#0" class="link"> bbPress 2.5.x, BuddyPress 4.1.x, Easy Digital
-                                                    Downloads, Events Calendar, Events Calendar Pro, Gravity Forms,
-                                                    WooCommerce 3.6.x, WPML </a>
+                                                <a href="#0" class="link">Fang,Saliva Cat,Liuliu,前路,呐呐子,屑E等</a>
                                             </div>
                                         </div>
                                         <div class="info-box">
                                             <div class="left-box">
-                                                <p class="text">Software Version</p>
+                                                <p class="text">天狱开发总群</p>
                                             </div>
                                             <div class="right-box">
                                                 <a href="#0" class="link">
-                                                    WordPress 4.5, WordPress 4.5.1, WordPress 4.5.2, WordPress 4.5.x,
-                                                    WordPress 4.6, WordPress 4.6.1, WordPress 4.7.x, WordPress 4.8.x,
-                                                    WordPress 4.9.x, WordPress 5.0.x, WordPress 5.1.x, WordPress 5.2.x
+                                                    468788023
                                                 </a>
-                                            </div>
-                                        </div>
-                                        <div class="info-box">
-                                            <div class="left-box">
-                                                <p class="text">Files Included</p>
-                                            </div>
-                                            <div class="right-box">
-                                                <a href="#0" class="link">
-                                                    CSS Files, JS Files, Layered PSD, PHP Files </a>
-                                            </div>
-                                        </div>
-                                        <div class="info-box">
-                                            <div class="left-box">
-                                                <p class="text">Columns</p>
-                                            </div>
-                                            <div class="right-box">
-                                                <a href="#0" class="link">4</a>
-                                            </div>
-                                        </div>
-                                        <div class="info-box">
-                                            <div class="left-box">
-                                                <p class="text">Layout</p>
-                                            </div>
-                                            <div class="right-box">
-                                                <a href="#0" class="link">
-                                                    Responsive</a>
-                                            </div>
-                                        </div>
-                                        <div class="info-box">
-                                            <div class="left-box">
-                                                <p class="text">Documentation</p>
-                                            </div>
-                                            <div class="right-box">
-                                                <a href="#0" class="link">
-                                                    Well Documented</a>
                                             </div>
                                         </div>
                                     </div>
