@@ -1,24 +1,50 @@
-// 配置路由相关的信息
-import VueRouter from 'vue-router'
 import Vue from 'vue'
+import VueRouter from 'vue-router'
+import routes from './routes'
 
-// {Main Pages}
-import Header from '../../src/components/Header/Header.vue'
-
-// 1.通过Vue.use(插件)，安装插件
 Vue.use(VueRouter)
 
-// 2.创建VueRouter对象
-const routes = [{
-  path: '/home',
-  component: Header
-},
-]
+//重写push、replace防止控制台报错
+let originPush = VueRouter.prototype.push
+let originReplace = VueRouter.prototype.replace
 
-const router = new VueRouter({
-  // 配置路由和组件之间的应用关系
-  routes
+//重写VueRouter.prototype身上的push方法
+VueRouter.prototype.push = function (location, resolve, reject) {
+  if (reject && resolve) {
+    originPush.call(this, location, resolve, reject)
+  } else {
+    originPush.call(
+      this,
+      location,
+      () => {
+      },
+      () => {
+      },
+    )
+  }
+}
+
+//重写VueRouter.prototype身上的replace方法
+VueRouter.prototype.replace = function (location, resolve, reject) {
+  if (reject && resolve) {
+    originReplace.call(this, location, resolve, reject)
+  } else {
+    originReplace.call(
+      this,
+      location,
+      () => {
+      },
+      () => {
+      },
+    )
+  }
+}
+
+let router = new VueRouter({
+  routes,
+  scrollBehavior () {
+    return { y: 0 }
+  },
 })
 
-// 3.将router对象传入到Vue实例，即导出，然后在main.js中导入
 export default router

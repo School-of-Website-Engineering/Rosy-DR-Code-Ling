@@ -4,10 +4,10 @@ export default [
   {
     path: '/home',
     component: () => import('@/views/Home'),
-    name: 'home'
+    name: 'home',
   },
   {
     path: '*',
-    redirect: '/home'
-  }
+    redirect: '/home',
+  },
 ]
