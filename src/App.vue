@@ -1,5 +1,6 @@
 <template>
     <div id="app">
+        <Preloader></Preloader>
         <Header></Header>
         <router-view></router-view>
         <Footer></Footer>
@@ -7,21 +8,23 @@
 </template>
 
 <script>
-import Header from "../src/components/Header/Header";
-import Footer from "@/components/Footer/Footer";
+import Header from '../src/components/Header/Header'
+import Footer from '@/components/Footer/Footer'
+import Preloader from '@/components/Preloader'
 
 export default {
-    name: "App",
+    name: 'App',
     //注册组件
     components: {
         Footer,
         Header,
+        Preloader,
     },
-};
+}
 </script>
 
 <style lang="scss" scoped>
-@import'../public/css/reset.css';
+@import '../public/css/reset.css';
 @import "./assets/css/style.css";
 @import "./assets/css/bootstrap.min.css";
 @import "./assets/css/owl.carousel.min.css";

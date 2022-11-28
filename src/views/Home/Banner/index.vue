@@ -18,7 +18,7 @@
                         </form>
                     </div>
                     <div class="video">
-                        <img src="static/picture/laptop.png" alt="" class="laptop">
+                        <img src="../Banner/images/laptop.png" alt="" class="laptop">
                         <a href="javascript:;" class="popup mfp-iframe video-button">
                             <i class="fas fa-play"></i>
                         </a>
