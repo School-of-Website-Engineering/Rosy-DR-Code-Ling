@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.0.3...v1.0.4) (2022-11-28)
+
+
+### Code Refactoring
+
+* 重构代码 ([47aeb57](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/47aeb5799066c76ed87632bedd4ede0bf14b6540))
+
 ## [1.0.3](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.0.2...v1.0.3) (2022-11-28)
 
 
