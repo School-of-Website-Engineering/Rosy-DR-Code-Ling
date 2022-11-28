@@ -11,48 +11,32 @@
                     <div class="site-nav-menu">
                         <ul class="primary-menu">
                             <li class="current">
-                                <a class="drop" href="#0">我的</a>
+                                <a class="drop" href="#">星河征途(RTS)</a>
+                            </li>
+                            <li>
+                                <a class="drop" href="#">魔绫地牢(PD)</a>
+                            </li>
+                            <li>
+                                <a class="drop" href="#">天狱之境(TML)</a>
+                            </li>
+                            <li>
+                                <a class="drop" href="#">开发团队(Dev)</a>
                                 <ul class="submenu">
-                                    <li><a href="">我的 1</a></li>
-                                    <!-- <li><a href="index-2.html">Home 2</a></li>
-                                    <li><a href="index-3.html">Home 3</a></li> -->
+                                    <li><a href="#">Re-重置核心工作室</a></li>
+                                    <li><a href="#">MLPD联合制作工作室</a></li>
+                                    <li><a href="#">SkyHell--开发总部</a></li>
                                 </ul>
                             </li>
                             <li>
-                                <!-- <a class="nav-link" href="about-us.html">About</a> -->
+                                <a class="drop" href="#">关于我们(Abt)</a>
                             </li>
                             <li>
-                                <!-- <a href="marktetplace.html">Marketplace</a>  -->
-                            </li>
-                            <li>
-                                <a class="drop" href="#0">页面</a>
-                                <ul class="submenu">
-                                    <!-- <li><a href="services.html">Services</a></li>
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="faq.html">FAQ</a></li>
-                                    <li><a href="pricing-plan.html">Pricing Plan</a></li>
-                                    <li><a href="team.html">Team</a></li> -->
-                                </ul>
-                            </li>
-                            <li>
-                                <a class="drop" href="#0">产品</a>
-                                <ul class="submenu">
-                                    <!-- <li><a href="product.html">Product</a></li>
-                                    <li><a href="product-two.html">Product Sidebar</a></li>
-                                    <li><a href="product-details.html">Product Details</a></li>
-                                    <li><a href="author-product.html">Author Product</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="cart.html">Cart</a></li> -->
-                                </ul>
-                            </li>
-                            <li>
-                                <!-- <a href="contact.html">Contact</a> -->
+                                <a class="drop" href="#">网页致谢(Thanks)</a>
                             </li>
                         </ul>
                         <a class="nav-close" href="#0"><i class="fal fa-times"></i></a>
                     </div>
-                    <div class="header-extra d-flex align-items-center">
+                    <!-- <div class="header-extra d-flex align-items-center">
                         <div class="search-widget">
                             <a class="search-icon" href="#0"><i class="fal fa-search"></i></a>
 
@@ -72,10 +56,7 @@
                         <div class="nav-toggler">
                             <span></span><span></span><span></span>
                         </div>
-                        <div class="navbar-btn">
-                            <a href="#0"> <i class="fas fa-user"></i>我的帐户</a>
-                        </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
