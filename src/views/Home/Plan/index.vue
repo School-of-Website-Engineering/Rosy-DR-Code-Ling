@@ -55,7 +55,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="price-box">
-                                        <a href="#0" class="plan">Basic Plan</a>
+                                        <a href="#0" class="plan">魔绫地牢</a>
                                         <h2 class="dolar"><sub>$</sub>67</h2>
                                         <span class="datee">Weekly</span>
                                         <ul class="list">
@@ -81,7 +81,7 @@
                                 </div>
                                 <div class="col-lg-4 col-md-6">
                                     <div class="price-box active">
-                                        <a href="#0" class="plan">Advance</a>
+                                        <a href="#0" class="plan">星河征途</a>
                                         <h2 class="dolar"><sub>$</sub>86</h2>
                                         <span class="datee">Monthly</span>
                                         <ul class="list">
@@ -108,7 +108,7 @@
                                 </div>
                                 <div class="col-lg-4 col-md-6">
                                     <div class="price-box">
-                                        <a href="#0" class="plan">Premium</a>
+                                        <a href="#0" class="plan">天狱之境</a>
                                         <h2 class="dolar"><sub>$</sub>99</h2>
                                         <span class="datee">Yearly</span>
                                         <ul class="list">
