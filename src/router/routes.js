@@ -25,4 +25,29 @@ export default [
     component: () => import('@/views/Mods/TML'),
     name: 'tml',
   },
+  {
+    path: '/re',
+    component: () => import('@/views/DevTeam/Re'),
+    name: 're',
+  },
+  {
+    path: '/mlpd',
+    component: () => import('@/views/DevTeam/MLPD'),
+    name: 'mlpd',
+  },
+  {
+    path: '/skyhell',
+    component: () => import('@/views/DevTeam/SkyHell'),
+    name: 'skyhell',
+  },
+  {
+    path: '/abt',
+    component: () => import('@/views/Abt'),
+    name: 'abt',
+  },
+  {
+    path: '/thanks',
+    component: () => import('@/views/Thanks'),
+    name: 'thanks',
+  },
 ]

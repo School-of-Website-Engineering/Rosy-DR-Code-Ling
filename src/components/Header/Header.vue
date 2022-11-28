@@ -7,7 +7,7 @@
                     <!-- 网页Logo部分 -->
                     <div class="header-left">
                         <div class="site-logo">
-                            <img src="./images/logo.png" alt="Logo">
+                            <router-link to="/home"><img src="./images/logo.png" alt="Logo"></img></router-link>
                         </div>
                     </div>
                     <!-- 网页主体部分 -->
@@ -26,18 +26,18 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a class="drop" href="#">开发团队(Dev)</a>
+                                    <a class="drop" >开发团队(Dev)</a>
                                     <ul class="submenu">
-                                        <li><a href="#">Re-重置核心工作室</a></li>
-                                        <li><a href="#">MLPD联合制作工作室</a></li>
-                                        <li><a href="#">SkyHell--开发总部</a></li>
+                                        <li><router-link to="re">Re-重置核心工作室</router-link></li>
+                                        <li><router-link to="mlpd">MLPD联合制作工作室</router-link></li>
+                                        <li><router-link to="skyhell">SkyHell--开发总部</router-link></li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a class="drop" href="#">关于我们(Abt)</a>
+                                    <router-link class="drop" to="abt">关于我们(Abt)</router-link>
                                 </li>
                                 <li>
-                                    <a class="drop" href="#">网页致谢(Thanks)</a>
+                                    <router-link class="drop" to="thanks">网页致谢(Thanks)</router-link>
                                 </li>
                             </ul>
                             <a class="nav-close" href="#0"><i class="fal fa-times"></i></a>
