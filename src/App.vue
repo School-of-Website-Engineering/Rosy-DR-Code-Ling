@@ -31,4 +31,7 @@ export default {
 @import "./assets/css/font-awesome.min.css";
 @import "./assets/css/style.css";
 @import "./assets/css/responsive.css";
+
+//星河征途样式
+@import "./assets/css/galaxy.css";
 </style>

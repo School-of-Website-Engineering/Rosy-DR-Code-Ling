@@ -452,63 +452,6 @@
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6">
-                    <div class="product-information-content  wow fadeInUp">
-                        <div class="pi-content">
-                            <img src="static/picture/pd-icon-1.png" alt="">
-
-                            <h4>
-                                Markpro Wordpress Theme
-                            </h4>
-                            <a href="author-product.html" class="linko">DivDojo Portfolio</a>
-                            <div class="icon-box">
-                                <a class="sit-preview item" href="static/picture/unique-1.png">
-                                    <img alt="Linnor - Digital Agency Wordpress Theme" class="envato-preview" data-item-currency="$" src="static/picture/new-1.png" data-preview-url="assets/images/unique-theme/unique-1.png" data-item-name="Smart CRON Tools" data-item-cost="69" data-item-category="WordPress" data-item-author="DivDojo">
-                                </a>
-                                <a class="sit-preview item" href="static/picture/unique-2.png">
-                                    <img alt="Linnor - Digital Agency Wordpress Theme" class="envato-preview" data-item-currency="$" src="static/picture/new-2.png" data-preview-url="assets/images/unique-theme/unique-2.png" data-item-name="Smart CRON Tools" data-item-cost="69" data-item-category="WordPress" data-item-author="DivDojo">
-                                </a>
-                                <a class="sit-preview item" href="static/picture/unique-3.png">
-                                    <img alt="Linnor - Digital Agency Wordpress Theme" class="envato-preview" data-item-currency="$" src="static/picture/new-3.png" data-preview-url="assets/images/unique-theme/unique-3.png" data-item-name="Smart CRON Tools" data-item-cost="69" data-item-category="WordPress" data-item-author="DivDojo">
-                                </a>
-
-                            </div>
-                        </div>
-                        <div class="price-rating">
-                            <h3 class="priced">$59.00</h3>
-                            <div class="rating">
-                                <span>
-                                    02 Review </span>
-                                <span class="i-box">
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="far fa-star"></i>
-                                </span>
-
-                            </div>
-                        </div>
-                        <div class="button-boxo">
-                            <span class="info">
-                                <i class="fas fa-cart-plus"></i> 498 Sale
-                            </span>
-                            <span class="info">
-                                <i class="fas fa-star"></i> 231 Rating
-                            </span>
-                        </div>
-                        <div class="button-2">
-                            <a href="cart.html">
-                                <button class="main-btn one">
-                                    Add To Cart
-                                </button>
-                            </a>
-                            <a href="checkout.html">
-                                <button class="main-btn">
-                                    Buy Now
-                                </button>
-                            </a>
-                        </div>
-                    </div>
                     <div class="product-information  wow fadeInUp">
                         <div class="left-box">
                             <p class="text">Last update :</p>

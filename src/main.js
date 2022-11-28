@@ -5,6 +5,10 @@ import App from './App.vue'
 //引入router
 import router from '@/router'
 
+import EasySlider from 'vue-easy-slider'
+
+Vue.use(EasySlider)
+
 //关闭生产提示
 Vue.config.productionTip = false
 
