@@ -1,13 +1,13 @@
 <template>
     <div id="app">
         <header class="header-two sticky-header">
-            <div class="header-navigation" 
+            <div class="header-navigation"
             style="background: -webkit-gradient(linear, left top, right top, from(#7e3afb), to(#29b9f5));">
                 <div class="container-fluid d-flex align-items-center justify-content-between container-1470">
                     <!-- 网页Logo部分 -->
                     <div class="header-left">
                         <div class="site-logo">
-                            <router-link to="/home"><img src="./images/logo.png" alt="Logo"></router-link>
+                            <router-link to="/home"><img src="./images/Logo.png" alt="Logo"></router-link>
                         </div>
                     </div>
                     <!-- 网页主体部分 -->
@@ -48,7 +48,7 @@
                                 <div class="offcanvas-icon">
                                     <span></span><span></span><span></span>
                                 </div>
-                            </div>                           
+                            </div>
                             <div class="nav-toggler">
                                 <span></span><span></span><span></span>
                             </div>

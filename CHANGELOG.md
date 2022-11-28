@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.1](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.2.0...v1.2.1) (2022-11-28)
+
+
+### update
+
+* update logo ([d8668e8](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/d8668e882ffc5f0ab7cf645de76e5a52b50bc426))
+
+## [1.2.0](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.1.1...v1.2.0) (2022-11-28)
+
+
+### Features
+
+* 更新首页 /魔绫地牢-PXD页面 and readme ([b79927d](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/b79927d5386f11b17cb1fb0947219bda4affcefa))
+
 ## [1.1.1](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.1.0...v1.1.1) (2022-11-28)
 
 
