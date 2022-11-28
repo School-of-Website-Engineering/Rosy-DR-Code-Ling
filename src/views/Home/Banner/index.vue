@@ -12,7 +12,7 @@
                         </p>
                         <form action="#">
                             <div class="form-group">
-                                <input type="text" placeholder="Wordpress Theme.." class="form-control">
+                                <input type="text" placeholder="输入关键词进行搜索" class="form-control">
                                 <button class="main-btn icon"><i class="fal fa-search"></i></button>
                             </div>
                         </form>
