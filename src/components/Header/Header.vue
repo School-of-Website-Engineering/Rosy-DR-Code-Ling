@@ -7,7 +7,7 @@
                     <!-- 网页Logo部分 -->
                     <div class="header-left">
                         <div class="site-logo">
-                            <img src="./images/logo.png" alt="Markpro">
+                            <img src="./images/logo.png" alt="Logo">
                         </div>
                     </div>
                     <!-- 网页主体部分 -->
