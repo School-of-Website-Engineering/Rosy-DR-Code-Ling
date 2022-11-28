@@ -1,0 +1,21 @@
+#recore{
+    width: 5.5rem;
+    height: 5.5rem;
+    line-height: 5.5rem;
+    border: solid 1px #ffffff;
+    border-radius: 100%;
+}
+
+#recore-text{
+    line-height: 5.5rem;
+    padding-top: 10px;
+}
+
+.fourteam{
+    display: flex;
+    justify-content: center;
+}
+
+.section-heab{
+    display: flex;
+}

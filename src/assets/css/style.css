@@ -96,10 +96,6 @@ pre {
   font-size: 1em;
 }
 
-a{
-  cursor: pointer !important;
-}
-
 /* Text-level semantics
 	 ========================================================================== */
 /**
@@ -2649,12 +2645,13 @@ div#preloader .loader-cubes .loader-cube .loader-cube3::before {
 /*======= Index-2 Banner Start =======*/
 .banner.two {
   background-color: #ffffff;
-  background-image: url("../image/banner-2.png");
+  background-image: url("../image/banner-2.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: top left;
   padding: 264px 0px 60px;
   position: relative;
+
   z-index: 1;
   overflow: hidden;
 }
@@ -2670,11 +2667,11 @@ div#preloader .loader-cubes .loader-cube .loader-cube3::before {
 }
 
 .banner.two .banner-content h1.head {
-  color: #fff;
+  color:#0bffaa;
 }
 
 .banner.two .banner-content p.text {
-  color: #fff;
+  color:#0bffaa;
   font-size: 18px;
   line-height: 1.55;
   padding: 27px 0px 36px;
