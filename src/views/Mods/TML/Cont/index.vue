@@ -52,14 +52,12 @@
                                 <div class="tab-pane fade show active" id="pills-description" role="tabpanel" aria-labelledby="pills-description-tab">
                                     <div class="content  wow fadeInUp">
                                         <div class="content-one">
-                                            <h3 class="subtitle">Duxila - Digital Agency Wordpress Theme</h3>
+                                            <h3 class="subtitle">天狱之境</h3>
                                             <p class="text one">
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Haec quo modo
-                                                conveniant, non sane intellego. Hanc ergo intuens debet institutum illud
-                                                quasi
-                                                signum absolvere. Et ille ridens: Video, inquit, quid agas; Duo Reges:
-                                                constructio interrete. Ad eos igitur converte te, quaeso. Atque haec ita
-                                                iustitiae propria sunt, ut sint virtutum reliquarum communia.
+                                                天空中的地狱，数百万的灵魂被囚禁在这里。
+
+                                                没有人能挣脱她的诅咒，被宇宙抛弃的世界，似乎仍然处于平静之中。
+                                                被遗弃的离散常量已经到达这里，那么，你能成为这个世界的变数的契机之人吗？
                                             </p>
                                             <p class="text two">
                                                 It is a long established fact that a reader will be distracted by the
