@@ -28,9 +28,9 @@
                                 <li>
                                     <a class="drop" >开发团队(Dev)</a>
                                     <ul class="submenu">
-                                        <li><router-link to="re">Re-重置核心工作室</router-link></li>
-                                        <li><router-link to="mlpd">MLPD联合制作工作室</router-link></li>
-                                        <li><router-link to="skyhell">SkyHell--开发总部</router-link></li>
+                                        <li><router-link to="/re">Re-重置核心工作室</router-link></li>
+                                        <li><router-link to="/mlpd">MLPD联合制作工作室</router-link></li>
+                                        <li><router-link to="/skyhell">SkyHell--开发总部</router-link></li>
                                     </ul>
                                 </li>
                                 <li>
