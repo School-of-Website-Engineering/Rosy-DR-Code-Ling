@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="ww">
         <div>content</div>
     </div>
 </template>
@@ -9,12 +9,16 @@ export default {}
 </script>
 
 <style lang="scss" scoped>
-div{
-    text-align: center;
-    width: 100%;
-    height: 500px;
-    line-height: 500px;
-    color: white;
-    background-color: rgb(158, 158, 158);
-}
+        .ww{
+            width: 1500px;
+            margin: 0 auto;
+            div{
+                text-align: center;
+                width: 100%;
+                height: 500px;
+                line-height: 500px;
+                color: white;
+                background-color: rgb(158, 158, 158);
+            }
+        }
 </style>
