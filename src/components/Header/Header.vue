@@ -15,10 +15,10 @@
                         <div class="site-nav-menu">
                             <ul class="primary-menu">
                                 <li class="current">
-                                    <a class="drop" href="#">网站主页</a>
+                                    <router-link class="drop" to="/home">网站主页</router-link>
                                 </li>
                                 <li>
-                                    <a class="drop" href="#">模组列表</a>
+                                    <a class="drop">模组列表</a>
                                     <ul class="submenu">
                                         <li><router-link to="pxd">魔绫地牢-PXD</router-link></li>
                                         <li><router-link to="rts">星河征途-RTS</router-link></li>
