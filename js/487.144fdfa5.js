@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkrosycodeling"]=self["webpackChunkrosycodeling"]||[]).push([[487],{487:function(n,e,t){t.r(e),t.d(e,{default:function(){return o}});var r=function(){var n=this;n._self._c;return n._m(0)},u=[function(){var n=this,e=n._self._c;return e("div",[e("div",[n._v("content")])])}],c={},s=c,i=t(1),l=(0,i.Z)(s,r,u,!1,null,"054323ec",null),o=l.exports}}]);
-//# sourceMappingURL=487.144fdfa5.js.map
