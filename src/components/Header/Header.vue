@@ -1,11 +1,12 @@
 <template>
     <div id="app">
+
         <header class="header-two sticky-header">
             <div class="header-navigation">
                 <div class="container-fluid d-flex align-items-center justify-content-between container-1470">
                     <div class="header-left">
                         <div class="site-logo">
-                            <a href=""><img src="../Header/images/logo.png" alt="Markpro"></a>
+                            <img src="../Header/images/logo.png" alt="Markpro">
                         </div>
                     </div>
                     <div class="header-right d-flex align-items-center justify-content-end">
