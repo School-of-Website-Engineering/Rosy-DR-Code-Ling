@@ -16,13 +16,13 @@ import Choose from '@/views/Home/Choose'
 import Featured from '@/views/Home/Featured'
 
 export default {
-    components: {
+    components:{
         Banner,
         Content,
         Partner,
         Choose,
         Featured,
-    },
+    }
 }
 </script>
 
