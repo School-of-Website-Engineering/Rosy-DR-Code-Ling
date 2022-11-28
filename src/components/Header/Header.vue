@@ -11,9 +11,9 @@
                     <div class="site-nav-menu">
                         <ul class="primary-menu">
                             <li class="current">
-                                <a class="drop" href="#0">Home</a>
+                                <a class="drop" href="#0">我的</a>
                                 <ul class="submenu">
-                                    <li><a href="">Home 1</a></li>
+                                    <li><a href="">我的 1</a></li>
                                     <!-- <li><a href="index-2.html">Home 2</a></li>
                                     <li><a href="index-3.html">Home 3</a></li> -->
                                 </ul>
@@ -25,7 +25,7 @@
                                 <!-- <a href="marktetplace.html">Marketplace</a>  -->
                             </li>
                             <li>
-                                <a class="drop" href="#0">Page</a>
+                                <a class="drop" href="#0">页面</a>
                                 <ul class="submenu">
                                     <!-- <li><a href="services.html">Services</a></li>
                                     <li><a href="blog.html">Blog</a></li>
@@ -36,7 +36,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a class="drop" href="#0">Product</a>
+                                <a class="drop" href="#0">产品</a>
                                 <ul class="submenu">
                                     <!-- <li><a href="product.html">Product</a></li>
                                     <li><a href="product-two.html">Product Sidebar</a></li>
@@ -73,7 +73,7 @@
                             <span></span><span></span><span></span>
                         </div>
                         <div class="navbar-btn">
-                            <a href="#0"> <i class="fas fa-user"></i>My Account</a>
+                            <a href="#0"> <i class="fas fa-user"></i>我的帐户</a>
                         </div>
                     </div>
                 </div>
