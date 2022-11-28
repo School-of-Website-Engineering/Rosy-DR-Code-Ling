@@ -3,6 +3,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center wow fadeInUp" data-wow-delay="0.3s">
+                    <h1>&nbsp;</h1>
                     <div class="section-head">
                         <h2 class="title">Why Choose Markpro</h2>
                         <p class="text">
