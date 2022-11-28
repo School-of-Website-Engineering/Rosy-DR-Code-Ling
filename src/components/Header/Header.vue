@@ -2,7 +2,7 @@
     <div id="app">
 
         <header class="header-two sticky-header">
-            <div class="header-navigation">
+            <div class="header-navigation" style="background: -webkit-gradient(linear, left top, right top, from(#7e3afb), to(#29b9f5));">
                 <div class="container-fluid d-flex align-items-center justify-content-between container-1470">
                     <div class="header-left">
                         <div class="site-logo">
@@ -47,7 +47,7 @@
                             <a class="nav-close" href="#0"><i class="fal fa-times"></i></a>
                         </div>
                         <div class="header-extra d-flex align-items-center">
-                            
+
                             <!-- <div class="shoping-mini-cart menu-cart">
                                 <a href="#0" class="cart-icon cart-contents menu-item"><i class="fal fa-shopping-cart"></i>
                                     <span class="number cart-contents-count">2</span>
@@ -80,17 +80,17 @@
                                         </div>
                                     </div>
                                 </div>
-    
+
                             </div>
      -->
                             <!-- <div class="search-widget">
                                 <a href="#0" class="search-icon"><i class="fal fa-search"></i></a>
-    
+
                                 <div class="search-form">
                                     <form action="#">
                                         <input type="search" placeholder="Type keywords & hit enter">
                                     </form>
-    
+
                                     <a href="#0" class="search-close"><i class="fal fa-times"></i></a>
                                 </div>
                             </div> -->
