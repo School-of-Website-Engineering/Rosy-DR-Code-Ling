@@ -14,7 +14,6 @@
         </div>
     </div>
 </template>
-
 <script>
     export default {
         
@@ -30,7 +29,7 @@
                 display: flex;
                 .headr-right{
                     width: 60%;
-                    background: -webkit-gradient(linear, left top, right top, from(#7e3afb), to(#29b9f5));
+                    background: #29b9f5;
                     h2{
                         text-align: center;
                         padding: 45px;
