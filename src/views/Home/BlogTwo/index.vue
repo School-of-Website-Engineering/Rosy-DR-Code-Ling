@@ -4,10 +4,9 @@
             <div class="row justify-content-between align-items-center">
                 <div class="col-lg-7 col-md-7">
                     <div class="section-head wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <h2 class="title">Get Every Single Update From Here</h2>
+                        <h2 class="title">从这里获取每一个更新</h2>
                         <p class="text">
-                            Anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the
-                            Internet tend to repeat predefined necessary.
+                            从这里获取每一个更新从这里获取每一个更新从这里获取每一个更新
                         </p>
                     </div>
                 </div>
