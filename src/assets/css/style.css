@@ -96,6 +96,10 @@ pre {
   font-size: 1em;
 }
 
+a{
+  cursor: pointer !important;
+}
+
 /* Text-level semantics
 	 ========================================================================== */
 /**
