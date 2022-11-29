@@ -15,8 +15,8 @@
                             </div>
                             <div class="total-link  wow fadeInUp">
                                 <div class="links-box-left">
-                                    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link one"> <i class="fas fa-eye"></i>浏览模组</a>
-                                    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link two open-gallery">
+                                    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link one" target="_blank"> <i class="fas fa-eye"></i>浏览模组</a>
+                                    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link two open-gallery" target="_blank">
                                         前往订阅</a>
                                 </div>
                                 <div class="links-box-right">
@@ -31,10 +31,10 @@
                         <div class="box-two">
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                 <li class="nav-item" role="presentation">
-                                    <a class="nav-link active" id="pills-description-tab" data-toggle="pill" href="#pills-description" role="tab" aria-controls="pills-description" aria-selected="true">描述</a>
+                                    <a class="nav-link active" id="pills-description-tab" data-toggle="pill"  role="tab" aria-controls="pills-description" aria-selected="true">描述</a>
                                 </li>
                                 <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="pills-additional-imformation-tab" data-toggle="pill" href="#pills-additional-imformation" role="tab" aria-controls="pills-additional-imformation" aria-selected="false">
+                                    <a class="nav-link" id="pills-additional-imformation-tab" data-toggle="pill" role="tab" aria-controls="pills-additional-imformation" aria-selected="false">
                                         天狱详情</a>
                                 </li>
                                 <li class="nav-item" role="presentation">
@@ -48,7 +48,7 @@
                                 <div class="tab-pane fade show active" id="pills-description" role="tabpanel" aria-labelledby="pills-description-tab">
                                     <div class="content  wow fadeInUp">
                                         <div class="content-one">
-                                            <h3 class="subtitle"><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" style="font-size: 24px; color: #547af8;">天狱之境</a></h3>
+                                            <h3 class="subtitle"><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" style="font-size: 24px; color: #547af8;" target="_blank">天狱之境</a></h3>
                                             <p class="text one">
                                                 天空中的地狱，数百万的灵魂被囚禁在这里。
 
@@ -154,7 +154,7 @@
                                                 <p class="text">天狱开发总群</p>
                                             </div>
                                             <div class="right-box">
-                                                <a href="#0" class="link">
+                                                <a href="https://jq.qq.com/?_wv=1027&k=jpKHJWBW" class="link" target="_blank">
                                                     468788023
                                                 </a>
                                             </div>
@@ -354,8 +354,8 @@
                             <p class="text">更新内容:</p>
                         </div>
                         <div class="right-box">
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.69800</a>
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link version"> 
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank">V0.69800</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link version" target="_blank"> 
                                 <br>
                                 1.修复部分特级词条 
                                 <br>
@@ -368,8 +368,8 @@
                             <p class="text">更新内容 :</p>
                         </div>
                         <div class="right-box">
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-13-14</a>
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link"> 
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank">V0.693-13-14</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank"> 
                                 <br>
                                 1.调整泰拉水晶的属性面板
                                 <br>
@@ -382,8 +382,8 @@
                             <p class="text">更新内容 :</p>
                         </div>
                         <div class="right-box">
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-12</a>
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank">V0.693-12</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank">
                                 <br>
                                  1.调整部分文案
                                  <br>
@@ -395,7 +395,7 @@
                             <p class="text">订阅人数</p>
                         </div>
                         <div class="right-box">
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link"> 
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank"> 
                                 13,848	不重复访客数
                                 <br>
                                 4,943	当前订阅者
@@ -409,14 +409,14 @@
                             <p class="text">版本记录</p>
                         </div>
                         <div class="right-box">
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-10 版本内容.....</a>
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-9  版本内容.....</a>
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-8  版本内容.....</a>
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-7  版本内容.....</a>
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-6  版本内容.....</a>
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-5  版本内容.....</a>
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-4  版本内容.....</a>
-                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-3  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank">V0.693-10 版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank">V0.693-9  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank">V0.693-8  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank">V0.693-7  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank">V0.693-6  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank">V0.693-5  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank">V0.693-4  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank">V0.693-3  版本内容.....</a>
                         </div>
                     </div>
                     <div class="product-information  wow fadeInUp">
