@@ -84,16 +84,16 @@
                     </div>
                     <div class="right-box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                         <a  class="thumb">
-                            <router-link class="drop" to="pxd"><img src="./images/SkyHell-icon.png" alt="" /></router-link>                          
+                            <router-link class="drop" to="tml"><img src="./images/SkyHell-icon.png" alt="" /></router-link>                          
                         </a>
                         <div class="right-part">
                             <div class="date">2022年4月</div>
                             <h6 class="blog-title">
-                                <a ><router-link class="drop" to="pxd">有三次大更新</router-link></a>
+                                <a ><router-link class="drop" to="tml">有三次大更新</router-link></a>
                             </h6>
                             <div class="last-part">
                                 <div class="right-content">
-                                    <a class="read"><router-link class="drop" to="pxd">了解更多</router-link></a>
+                                    <a class="read"><router-link class="drop" to="tml">了解更多</router-link></a>
                                     <i class="far fa-arrow-right"></i>
                                 </div>
                                 <span class="share">
