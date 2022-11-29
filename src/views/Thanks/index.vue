@@ -62,7 +62,7 @@
                                         <div class="item-thumbnail">
                                             <a class="sit-preview">
                                                 <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/mason.jpg"
+                                                     data-item-currency="$" src="./images/mason.png"
                                                      class="envato-preview"
                                                     
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
