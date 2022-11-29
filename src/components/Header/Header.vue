@@ -2,7 +2,7 @@
     <div id="app">
         <header class="header-two sticky-header">
             <div class="header-navigation"
-            style="background: -webkit-gradient(linear, left top, right top, from(#7e3afb), to(#29b9f5));">
+            style="background: -webkit-gradient(linear, left top, right top, from(#7e3afb), to(#29b9f5)); width:100%">
                 <div class="container-fluid d-flex align-items-center justify-content-between container-1470">
                     <!-- 网页Logo部分 -->
                     <div class="header-left">
