@@ -12,7 +12,7 @@
                 </div>
                 <div class="col-lg-3 col-md-5 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                     <div class="link">
-                        <a href="blog.html" class="main-btn">View All Blog</a>
+                        <a href="blog.html" class="main-btn">获取更多</a>
                     </div>
                 </div>
             </div>
@@ -24,33 +24,32 @@
                 >
                     <div class="blog-box">
                         <a href="blog-details.html" class="thumb">
-                            <img src="./images/home2-blog-2.png" alt="" />
+                            <img src="./images/banner.jpg" alt="" />
                         </a>
                         <div class="main-content">
                             <div class="top-box">
                                 <div class="item">
                                     <i class="far fa-eye m-1"></i>
-                                    <span>100 views</span>
+                                    <span>100 浏览</span>
                                 </div>
                                 <div class="item">
                                     <i class="far fa-comments m-1"></i>
-                                    <span>30 Comments</span>
+                                    <span>30 留言</span>
                                 </div>
                                 <div class="item">
                                     <span><i class="fas fa-calendar-alt m-1"></i></span>
-                                    <span>04th March 2019</span>
+                                    <span>2022 年 8 月 25 日</span>
                                 </div>
                             </div>
                             <h5>
                                 <a href="blog-details.html"
-                                    >20+ Best Free HTML Marketplace Templates &amp; Psd, We Use On Thins Section Demo
-                                    Text.</a
+                                    >天空中的地狱，数百万的灵魂被囚禁在这里。 没有人能挣脱她的诅咒，被宇宙抛弃的世界，似乎仍然处于平静之中。 被遗弃的离散.......</a
                                 >
                             </h5>
 
                             <div class="last-part">
                                 <div class="right-content">
-                                    <a href="blog-details.html" class="read">Read more</a>
+                                    <a href="blog-details.html" class="read">了解更多</a>
                                     <i class="far fa-arrow-right"></i>
                                 </div>
                                 <span class="share">
@@ -63,18 +62,18 @@
                 <div class="col-lg-5 d-flex flex-column justify-content-between">
                     <div class="right-box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                         <a href="blog-details.html" class="thumb">
-                            <img src="./images/side-blog-1.png" alt="" />
+                            <img src="./images/galaxysr-icon.png" alt="" />
                         </a>
                         <div class="right-part">
-                            <div class="date">Nobember 23 / 2021</div>
+                            <div class="date">2022年4月</div>
                             <h6 class="blog-title">
                                 <a href="blog-details.html"
-                                    >The High-Quality Design &amp; Developer froma Silicon Valley.
+                                    >有两次重大的更新
                                 </a>
                             </h6>
                             <div class="last-part">
                                 <div class="right-content">
-                                    <a href="blog-details.html" class="read">Read more</a>
+                                    <a href="blog-details.html" class="read">前往了解</a>
                                     <i class="far fa-arrow-right"></i>
                                 </div>
                                 <span class="share">
@@ -85,16 +84,16 @@
                     </div>
                     <div class="right-box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                         <a href="blog-details.html" class="thumb">
-                            <img src="./images/side-blog-2.png" alt="" />
+                            <img src="./images/SkyHell-icon.png" alt="" />
                         </a>
                         <div class="right-part">
-                            <div class="date">Julay 19 / 2021</div>
+                            <div class="date">2022年4月</div>
                             <h6 class="blog-title">
-                                <a href="blog-details.html"> 30+ Best Wordpress Marketplace PSD Template For Free</a>
+                                <a href="blog-details.html"> 有三次大更新</a>
                             </h6>
                             <div class="last-part">
                                 <div class="right-content">
-                                    <a href="blog-details.html" class="read">Read more</a>
+                                    <a href="blog-details.html" class="read">了解更多</a>
                                     <i class="far fa-arrow-right"></i>
                                 </div>
                                 <span class="share">
@@ -105,18 +104,18 @@
                     </div>
                     <div class="right-box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                         <a href="blog-details.html" class="thumb">
-                            <img src="./images/side-blog-3.png" alt="" />
+                            <img src="./images/Logo.png" alt=""  style="width: 150px;"/>
                         </a>
                         <div class="right-part">
-                            <div class="date">December 23 / 2021</div>
+                            <div class="date">2022年8月</div>
                             <h6 class="blog-title">
                                 <a href="blog-details.html"
-                                    >The High-Quality Design &amp; Developer froma Silicon Valley.
+                                    >团队又有新成员加入.....
                                 </a>
                             </h6>
                             <div class="last-part">
                                 <div class="right-content">
-                                    <a href="blog-details.html" class="read">Read more</a>
+                                    <a href="blog-details.html" class="read">认识他...</a>
                                     <i class="far fa-arrow-right"></i>
                                 </div>
                                 <span class="share">
