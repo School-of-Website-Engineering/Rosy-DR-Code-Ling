@@ -20,7 +20,7 @@
                                 关于CodeLing
                             </h2>
                             <div class="box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
-                                <img src="static/picture/about_us.png" alt="" class="aboutpng" />
+                                <img src="./images/about_us.png" alt="" class="aboutpng" />
                                 <p>
                                     CodeLing
                                     相信，所有非凡的创意与作品，都来自于创作者对生活的独特理解和感悟。CodeLing聚焦创意专业人士在创作过程中的需求、真实感受和困扰，不断与他们集智共创和探索实验，致力于设计开发出极致体验的数位绘图产品，见证艺术的绽放。
@@ -89,11 +89,149 @@
                 </div>
             </div>
         </div>
+        <div class="testomonial-three about">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-xl-6 col-md-10 wow fadeInUp" data-wow-delay="0.3s"
+                         style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                        <div class="section-head text-center">
+                            <h2 class="title">What Our Clients Say About Us </h2>
+                            <p class="text">Anything embarrassing hidden in the middle of text. All the Lorem Ipsum
+                                generators on the Internet tend to repeat predefined necessary.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-xl-end justify-content-center">
+                    <div class="col-xl-12 col-lg-12 wow fadeInUp">
+                        <div class="testothree owl-carousel owl-theme">
+                            <div class="single">
+                                <div class="icon">
+                                    <img src="./images/people-1.png" alt="">
+                                </div>
+                                <div class="content">
+                                    <p class="text">
+                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators
+                                        on the Internet tend to repeat predefined"
+                                    </p>
+                                    <div class="man">
+                                        <div class="content">
+                                            <div class="review">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="far fa-star"></i>
+                                            </div>
+                                            <h5 class="name">Jakariya Hosen Butta</h5>
+                                            <span class="position">Ui/Ux Designer</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single">
+                                <div class="icon">
+                                    <img src="./images/people-2.png" alt="">
+                                </div>
+                                <div class="content">
+                                    <p class="text">
+                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators
+                                        on the Internet tend to repeat predefined"
+                                    </p>
+                                    <div class="man">
+                                        <div class="content">
+                                            <div class="review">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="far fa-star"></i>
+                                            </div>
+                                            <h5 class="name">Rasalina De Willamson</h5>
+                                            <span class="position">Founder Of Vision Trust</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single">
+                                <div class="icon">
+                                    <img src="./images/people-3.png" alt="">
+                                </div>
+                                <div class="content">
+                                    <p class="text">
+                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators
+                                        on the Internet tend to repeat predefined"
+                                    </p>
+                                    <div class="man">
+                                        <div class="content">
+                                            <div class="review">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="far fa-star"></i>
+                                            </div>
+                                            <h5 class="name">Zubayer Hossen Kabila</h5>
+                                            <span class="position">Web Developer</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </template>
 
 <script>
-export default {};
+export default {
+    mounted () {
+        const s = document.createElement('script')
+        s.type = 'text/javascript'
+        s.src = 'https://jdsalingzx.top/assets/jsx/jquery-3.6.0.min.js'
+        document.body.appendChild(s)
+
+        const a = document.createElement('script')
+        a.type = 'text/javascript'
+        a.src = 'https://jdsalingzx.top/assets/jsx/bootstrap.bundle.min.js'
+        document.body.appendChild(a)
+
+        const b = document.createElement('script')
+        b.type = 'text/javascript'
+        b.src = 'https://jdsalingzx.top/assets/jsx/owl.carousel.min.js'
+        document.body.appendChild(b)
+
+        const c = document.createElement('script')
+        c.type = 'text/javascript'
+        c.src = 'https://jdsalingzx.top/assets/jsx/jquery.nice-select.min.js'
+        document.body.appendChild(c)
+
+        const d = document.createElement('script')
+        d.type = 'text/javascript'
+        d.src = 'https://jdsalingzx.top/assets/jsx/jquery.magnific-popup.min.js'
+        document.body.appendChild(d)
+
+        const e = document.createElement('script')
+        e.type = 'text/javascript'
+        e.src = 'https://jdsalingzx.top/assets/jsx/wow.min.js'
+        document.body.appendChild(e)
+        const j = document.createElement('script')
+        j.type = 'text/javascript'
+        j.src = 'https://masonosam.top/assets/js/envato-preview.js'
+        document.body.appendChild(j)
+
+        const h = document.createElement('script')
+        h.type = 'text/javascript'
+        h.src = 'https://masonosam.top/assets/js/mixitup.min.js'
+        document.body.appendChild(h)
+
+        const x = document.createElement('script')
+        x.type = 'text/javascript'
+        x.src = 'https://jdsalingzx.top/assets/jsx/main.js'
+        document.body.appendChild(x)
+    },
+}
 </script>
 
 <style lang="scss" scoped>
