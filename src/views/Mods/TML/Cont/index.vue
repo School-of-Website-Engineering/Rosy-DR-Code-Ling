@@ -6,12 +6,6 @@
                     <div class="detsils-box">
                         <div class="box-one">
                             <div class="thumb open-gallery  wow fadeInUp">
-                                <div class="overlay">
-                                    <div class="content">
-                                        <div class="icon"><i class="far fa-image"></i></div>
-                                        <p class="text">截图 </p>
-                                    </div>
-                                </div>
                                 <img src="../images/banner.jpg" alt="product-details">
                                 <div class="parent-container">
                                     <a class="btn-gallery" href="static/picture/feature-1.png"></a>
@@ -21,14 +15,16 @@
                             </div>
                             <div class="total-link  wow fadeInUp">
                                 <div class="links-box-left">
-                                    <a href="#0" class="link one"> <i class="fas fa-eye"></i> 预览</a>
-                                    <a href="#0" class="link two open-gallery"> <i class="far fa-image"></i>
-                                        截图</a>
+                                    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link one"> <i class="fas fa-eye"></i>浏览模组</a>
+                                    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link two open-gallery">
+                                        前往订阅</a>
                                 </div>
                                 <div class="links-box-right">
-                                    <a href="#0" class="link "><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#0" class="link two"><i class="fab fa-twitter"></i></a>
-                                    <a href="#0" class="link"><i class="fab fa-google"></i></a>
+                                    <a href="#0" class="link "><i class="fas fa-star"></i></a>
+                                    <a href="#0" class="link two"><i class="fas fa-star"></i></a>
+                                    <a href="#0" class="link"><i class="fas fa-star"></i></a>
+                                    <a href="#0" class="link two"><i class="fas fa-star"></i></a>
+                                    <a href="#0" class="link"><i class="fas fa-star"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -169,11 +165,11 @@
                                     <div class="review-box">
                                         <div class="single-item">
                                             <div class="review-man">
-                                                <img src="" alt="review-man">
+                                                <img src="../images/t1.jpg" alt="review-man">
                                             </div>
                                             <div class="content">
                                                 <div class="name-other">
-                                                    <h6 class="headsix">Ahmad Curtis </h6>
+                                                    <h6 class="headsix">凌说他很凌</h6>
                                                     <div class="rating">
                                                         <i class="fas fa-star"></i>
                                                         <i class="fas fa-star"></i>
@@ -181,47 +177,42 @@
                                                         <i class="fas fa-star"></i>
                                                         <i class="fas fa-star"></i>
                                                     </div>
-                                                    <p class="text">15 minutes ago</p>
+                                                    <p class="text">15分钟以前</p>
 
                                                 </div>
                                                 <p class="text">
-                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus
-                                                    quas asperiores nesciunt itaque architecto. Velit quam, minus
-                                                    corporis repellendus ex libero doloremque quod unde est.
+                                                    很好的模组，精彩的故事。
                                                 </p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="review-man">
-                                                <img src="static/picture/review-3.png" alt="review-man">
+                                                <img src="../images/t2.jpg" alt="review-man">
                                             </div>
                                             <div class="content">
                                                 <div class="name-other">
-                                                    <h6 class="headsix">Ahmad Curtis </h6>
+                                                    <h6 class="headsix">憨憨</h6>
                                                     <div class="rating">
                                                         <i class="fas fa-star"></i>
                                                         <i class="fas fa-star"></i>
                                                         <i class="fas fa-star"></i>
                                                         <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
                                                     </div>
-                                                    <p class="text">39 minutes ago</p>
+                                                    <p class="text">39分钟前</p>
 
                                                 </div>
                                                 <p class="text">
-                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus
-                                                    quas asperiores nesciunt itaque architecto. Velit quam, minus
-                                                    corporis repellendus ex libero doloremque quod unde est.
+                                                    给玩家看的东西不用写那么详细，丛林叶绿法杖的简介里介绍弹幕的伤害部分文本根本没必要。那几个枪过强了吧，前缀过于逆天。
                                                 </p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="review-man">
-                                                <img src="static/picture/review-2.png" alt="review-man">
+                                                <img src="../images/t3.jpg" alt="review-man">
                                             </div>
                                             <div class="content">
                                                 <div class="name-other">
-                                                    <h6 class="headsix">Ahmad Curtis </h6>
+                                                    <h6 class="headsix">绫绫</h6>
                                                     <div class="rating">
                                                         <i class="fas fa-star"></i>
                                                         <i class="fas fa-star"></i>
@@ -229,23 +220,21 @@
                                                         <i class="fas fa-star"></i>
                                                         <i class="fas fa-star"></i>
                                                     </div>
-                                                    <p class="text">11 minutes ago</p>
+                                                    <p class="text">11分钟前</p>
 
                                                 </div>
                                                 <p class="text">
-                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus
-                                                    quas asperiores nesciunt itaque architecto. Velit quam, minus
-                                                    corporis repellendus ex libero doloremque quod unde est.
+                                                    我很喜欢，大大加油。
                                                 </p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="review-man">
-                                                <img src="static/picture/review-4.png" alt="review-man">
+                                                <img src="../images/t4.jpg" alt="review-man">
                                             </div>
                                             <div class="content">
                                                 <div class="name-other">
-                                                    <h6 class="headsix">Ahmad Curtis </h6>
+                                                    <h6 class="headsix">非洲猫</h6>
                                                     <div class="rating">
                                                         <i class="fas fa-star"></i>
                                                         <i class="fas fa-star"></i>
@@ -253,13 +242,11 @@
                                                         <i class="fas fa-star"></i>
                                                         <i class="fas fa-star"></i>
                                                     </div>
-                                                    <p class="text">18 minutes ago</p>
+                                                    <p class="text">18分钟前</p>
 
                                                 </div>
                                                 <p class="text">
-                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus
-                                                    quas asperiores nesciunt itaque architecto. Velit quam, minus
-                                                    corporis repellendus ex libero doloremque quod unde est.
+                                                    有些武器过于逆天。
                                                 </p>
                                             </div>
                                         </div>
@@ -273,21 +260,14 @@
                                                     <h2 class="mb-0">
                                                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                                             <span></span>
-                                                            What about loan programs & after bank loan advantage?
+                                                            模组的五大场景具体什么时间段能出呢？
                                                         </button>
                                                     </h2>
                                                 </div>
                                                 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                                                     <div class="card-body">
                                                         <p class="text">
-                                                            Rorem ipsum dolor sit amet, con secte tur adipisi cing elit,
-                                                            sed do eius mod tem
-                                                            pincididunt ut labore et dolore magna aliqua. adipisi cing
-                                                            elit, sed do eius mod tem
-                                                            pincididunt ut labore et dolore magna aliqua. Ut enim ad
-                                                            minim veniam, quis nostrud
-                                                            exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                                            consequatye.
+                                                            我们已经推送出一个场景的故事了，敬请期待。
                                                         </p>
                                                     </div>
                                                 </div>
@@ -297,21 +277,14 @@
                                                     <h2 class="mb-0">
                                                         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                                             <span></span>
-                                                            Lifetime Updates and User Support ?
+                                                            武器的合成过于繁杂，你能改变一下吗？
                                                         </button>
                                                     </h2>
                                                 </div>
                                                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                                                     <div class="card-body">
                                                         <p class="text">
-                                                            Rorem ipsum dolor sit amet, con secte tur adipisi cing elit,
-                                                            sed do eius mod tem
-                                                            pincididunt ut labore et dolore magna aliqua. adipisi cing
-                                                            elit, sed do eius mod tem
-                                                            pincididunt ut labore et dolore magna aliqua. Ut enim ad
-                                                            minim veniam, quis nostrud
-                                                            exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                                            consequatye.
+                                                            武器的繁杂，也代表着它的珍贵高哦。并且武器的强度会随着增加。
                                                         </p>
                                                     </div>
                                                 </div>
@@ -321,21 +294,14 @@
                                                     <h2 class="mb-0">
                                                         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                                             <span></span>
-                                                            What about loan programs & after bank loan advantage?
+                                                            催更催更
                                                         </button>
                                                     </h2>
                                                 </div>
                                                 <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                                                     <div class="card-body">
                                                         <p class="text">
-                                                            Rorem ipsum dolor sit amet, con secte tur adipisi cing elit,
-                                                            sed do eius mod tem
-                                                            pincididunt ut labore et dolore magna aliqua. adipisi cing
-                                                            elit, sed do eius mod tem
-                                                            pincididunt ut labore et dolore magna aliqua. Ut enim ad
-                                                            minim veniam, quis nostrud
-                                                            exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                                            consequatye.
+                                                            在更新中哦，敬请期待。
                                                         </p>
                                                     </div>
                                                 </div>
@@ -345,21 +311,14 @@
                                                     <h2 class="mb-0">
                                                         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                                             <span></span>
-                                                            How can i opent new account?
+                                                            为什么皇家机枪不能在水中发射？
                                                         </button>
                                                     </h2>
                                                 </div>
                                                 <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                                                     <div class="card-body">
                                                         <p class="text">
-                                                            Rorem ipsum dolor sit amet, con secte tur adipisi cing elit,
-                                                            sed do eius mod tem
-                                                            pincididunt ut labore et dolore magna aliqua. adipisi cing
-                                                            elit, sed do eius mod tem
-                                                            pincididunt ut labore et dolore magna aliqua. Ut enim ad
-                                                            minim veniam, quis nostrud
-                                                            exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                                            consequatye.
+                                                            机枪在水中无法使用已经在近期修复，关于词条问题会进行一些新的调整，敬请期待。
                                                         </p>
                                                     </div>
                                                 </div>
@@ -369,21 +328,14 @@
                                                     <h2 class="mb-0">
                                                         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                                             <span></span>
-                                                            What about loan programs & after bank loan advantage?
+                                                            新增词条过于逆天，能否下降？
                                                         </button>
                                                     </h2>
                                                 </div>
                                                 <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
                                                     <div class="card-body">
                                                         <p class="text">
-                                                            Rorem ipsum dolor sit amet, con secte tur adipisi cing elit,
-                                                            sed do eius mod tem
-                                                            pincididunt ut labore et dolore magna aliqua. adipisi cing
-                                                            elit, sed do eius mod tem
-                                                            pincididunt ut labore et dolore magna aliqua. Ut enim ad
-                                                            minim veniam, quis nostrud
-                                                            exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                                            consequatye.
+                                                            词条的强度，我们会逐步更新哦，敬请期待。
                                                         </p>
                                                     </div>
                                                 </div>
@@ -398,128 +350,132 @@
                 <div class="col-xl-4 col-lg-6">
                     <div class="product-information  wow fadeInUp">
                         <div class="left-box">
-                            <p class="text">Last update :</p>
-                            <p class="text">Version :</p>
+                            <p class="text">版本更新</p>
+                            <p class="text">更新内容:</p>
                         </div>
                         <div class="right-box">
-                            <a href="#0" class="link"> 28 December 2021 </a>
-                            <a href="#0" class="link version"> 2.01 </a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.69800</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link version"> 
+                                <br>
+                                1.修复部分特级词条 
+                                <br>
+                                2.从本版本开始，进行群内发放！</a>
                         </div>
                     </div>
                     <div class="product-information  wow fadeInUp">
                         <div class="left-box">
-                            <p class="text">Released :</p>
-                            <p class="text">Frame work :</p>
+                            <p class="text"> 版本更新:</p>
+                            <p class="text">更新内容 :</p>
                         </div>
                         <div class="right-box">
-                            <a href="#0" class="link"> 28 December 2021 </a>
-                            <a href="#0" class="link"> Underscore </a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-13-14</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link"> 
+                                <br>
+                                1.调整泰拉水晶的属性面板
+                                <br>
+                                2.部分特级词条属性调整 </a>
                         </div>
                     </div>
                     <div class="product-information  wow fadeInUp">
                         <div class="left-box">
-                            <p class="text">Support :</p>
-                            <p class="text">Documented :</p>
+                            <p class="text">版本更新 :</p>
+                            <p class="text">更新内容 :</p>
                         </div>
                         <div class="right-box">
-                            <a href="#0" class="link"> 12 Hours in a Day </a>
-                            <a href="#0" class="link"> Themes & Plugins </a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-12</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">
+                                <br>
+                                 1.调整部分文案
+                                 <br>
+                                2.调整丛林叶绿法杖的属性面板 </a>
                         </div>
                     </div>
                     <div class="product-information  wow fadeInUp">
                         <div class="left-box">
-                            <p class="text">Compatible Browsers</p>
+                            <p class="text">订阅人数</p>
                         </div>
                         <div class="right-box">
-                            <a href="#0" class="link"> Chrome </a>
-                            <a href="#0" class="link"> Edge </a>
-                            <a href="#0" class="link"> Firefox </a>
-                            <a href="#0" class="link"> IE10 </a>
-                            <a href="#0" class="link"> IE11 </a>
-                            <a href="#0" class="link"> Opera </a>
-                            <a href="#0" class="link"> Safari </a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link"> 
+                                13,848	不重复访客数
+                                <br>
+                                4,943	当前订阅者
+                                <br>
+                                274    当前收藏人数
+                            </a>
                         </div>
                     </div>
                     <div class="product-information  wow fadeInUp">
                         <div class="left-box">
-                            <p class="text">Compatible With</p>
+                            <p class="text">版本记录</p>
                         </div>
                         <div class="right-box">
-                            <a href="#0" class="link">bbPress 2.5.x</a>
-                            <a href="#0" class="link">BuddyPress 4.1.x Easy</a>
-                            <a href="#0" class="link">Digital Downloads</a>
-                            <a href="#0" class="link">Events Calendar</a>
-                            <a href="#0" class="link">Events Calendar Pro</a>
-                            <a href="#0" class="link">Gravity Forms</a>
-                            <a href="#0" class="link">WooCommerce 3.6.x</a>
-                            <a href="#0" class="link">WPML</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-10 版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-9  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-8  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-7  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-6  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-5  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-4  版本内容.....</a>
+                            <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link">V0.693-3  版本内容.....</a>
                         </div>
                     </div>
                     <div class="product-information  wow fadeInUp">
                         <div class="left-box">
-                            <p class="text">Software Version</p>
+                            <p class="text"></p>
                         </div>
                         <div class="right-box">
-                            <a href="#0" class="link">WordPress 4.5</a>
-                            <a href="#0" class="link">WordPress 4.5.1</a>
-                            <a href="#0" class="link">WordPress 4.5.2</a>
-                            <a href="#0" class="link">WordPress 4.5.x</a>
-                            <a href="#0" class="link">WordPress 4.6</a>
-                            <a href="#0" class="link">WordPress 4.6.1</a>
-                            <a href="#0" class="link">WordPress 4.7.x</a>
+                            <a href="#0" class="link"></a>
+                            <a href="#0" class="link"></a>
+                            <a href="#0" class="link"></a>
+                            <a href="#0" class="link"></a>
+                            <a href="#0" class="link"></a>
+                            <a href="#0" class="link"></a>
+                            <a href="#0" class="link"></a>
                         </div>
                     </div>
 
                     <div class="product-information  wow fadeInUp">
                         <div class="left-box">
-                            <p class="text">Files Included</p>
+                            <p class="text"></p>
                         </div>
                         <div class="right-box">
-                            <a href="#0" class="link">CSS Files,</a>
-                            <a href="#0" class="link">JS Files,</a>
-                            <a href="#0" class="link">Layered PSD,</a>
-                            <a href="#0" class="link">HTML File,</a>
-                            <a href="#0" class="link">PHP Files</a>
+                            <a href="#0" class="link"></a>
+                            <a href="#0" class="link"></a>
+                            <a href="#0" class="link"></a>
+                            <a href="#0" class="link"></a>
+                            <a href="#0" class="link"></a>
                         </div>
                     </div>
                     <div class="product-information  wow fadeInUp">
                         <div class="left-box">
-                            <p class="text">Columns Layout</p>
-                            <p class="text">Layout</p>
+                            <p class="text">文件大小</p>
                         </div>
                         <div class="right-box">
-                            <a href="#0" class="link">4+,</a>
-                            <a href="#0" class="link">Responsive</a>
+                            <a href="#0" class="link">9.992 MB</a>
                         </div>
                     </div>
                     <div class="product-information  wow fadeInUp">
                         <div class="left-box">
-                            <p class="text">License</p>
+                            <p class="text">发表于</p>
                         </div>
                         <div class="right-box">
-                            <a href="#0" class="link">Extended License,</a>
-                            <a href="#0" class="link">Regular License,</a>
+                            <a href="#0" class="link">2022 年 7 月 20 日</a>
                         </div>
                     </div>
                     <div class="product-information  wow fadeInUp">
                         <div class="left-box">
-                            <p class="text">Tag :</p>
+                            <p class="text">特别感谢 :</p>
                         </div>
                         <div class="right-box">
-                            <a href="#0" class="link">business,</a>
-                            <a href="#0" class="link">Car,</a>
-                            <a href="#0" class="link">Insurance,</a>
-                            <a href="#0" class="link">corporate,</a>
-                            <a href="#0" class="link">websites,</a>
-                            <a href="#0" class="link">finance,</a>
-                            <a href="#0" class="link">health,</a>
-                            <a href="#0" class="link">insurance,</a>
-                            <a href="#0" class="link">insurance,</a>
-                            <a href="#0" class="link">insurance,</a>
-                            <a href="#0" class="link">insurance agency,</a>
-                            <a href="#0" class="link">insurance company,</a>
-                            <a href="#0" class="link">insurance theme,</a>
-                            <a href="#0" class="link">life insurance</a>
+                            <a href="#0" class="link">白绫祈愿,</a>
+                            <a href="#0" class="link">白绫祈愿,</a>
+                            <a href="#0" class="link">白绫祈愿,</a>
+                            <a href="#0" class="link">白绫祈愿,</a>
+                            <a href="#0" class="link">白绫祈愿,</a>
+                            <a href="#0" class="link">白绫祈愿,</a>
+                            <a href="#0" class="link">白绫祈愿,</a>
+                            <a href="#0" class="link">白绫祈愿,</a>
+                            <a href="#0" class="link">白绫祈愿,</a>
                         </div>
                     </div>
                 </div>
@@ -533,5 +489,4 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
 </style>
