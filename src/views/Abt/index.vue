@@ -44,8 +44,8 @@
                     <div class="col-lg-6 text-center wow fadeInUp" data-wow-delay="0.3s">
                         <h1>&nbsp;</h1>
                         <div class="section-head">
-                            <h2 class="title">团队成员</h2>
-                            <p class="text"></p>
+                            <h2 class="title">认识我们的成员</h2>
+                            <p class="text">集智共创，见证艺术绽放</p>
                         </div>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                                 <img src="./images/LingASDJ.png" alt="" />
                             </div>
                             <h5 class="chose-head">LingASDJ</h5>
-                            <p class="text">邮箱</p>
+                            <p class="text">邮箱：2735951230@qq.com</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.3s">
@@ -65,7 +65,7 @@
                                 <img src="./images/Mason.jpg" alt="" />
                             </div>
                             <h5 class="chose-head">Mason</h5>
-                            <p class="text">邮箱</p>
+                            <p class="text">邮箱：1960638223@qq.com</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.4s">
@@ -74,7 +74,7 @@
                                 <img src="./images/liuliu.jpg" alt="" />
                             </div>
                             <h5 class="chose-head">liuliu</h5>
-                            <p class="text">邮箱</p>
+                            <p class="text">邮箱：1694181697@qq.com</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.5s">
@@ -83,7 +83,7 @@
                                 <img src="./images/Plee.png" alt="" />
                             </div>
                             <h5 class="chose-head">Plee</h5>
-                            <p class="text">邮箱</p>
+                            <p class="text">邮箱：Kaiser-PU@163.com</p>
                         </div>
                     </div>
                 </div>
@@ -96,4 +96,9 @@
 export default {};
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+    .thumb img{
+        max-width: 130px !important;
+        border-radius: 20px;
+    }
+</style>

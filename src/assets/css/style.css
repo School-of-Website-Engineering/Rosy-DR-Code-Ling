@@ -1,22 +1,22 @@
 /*-----------------------------------------------------------------------------------
-    Template Name: Markpro - Digital Marketplace HTML Template 
+    Template Name: Markpro - Digital Marketplace HTML Template
     Version: 1.0
     Author: DivDojo
     Author URI: https://themeforest.net/user/divdojo
     Description: Digital Marketplace HTML Template
- 
+
 
     Note: This is Main Style Scss File.
 -----------------------------------------------------------------------------------
 	CSS INDEX
 	===================
-    01. Normalize 
+    01. Normalize
     02. Global
     03. Header
-    04. Banner 
+    04. Banner
     05. Partners
     06. Category
-    07. Featured 
+    07. Featured
     08. Unique Themes
     09. Price & Plan
     10. Testomonial
@@ -36,7 +36,7 @@
     24. Map Area
     25. Contact-From
     26. FAQ
-    27. Product-Details 
+    27. Product-Details
 -----------------------------------------------------------------------------------*/
 @import url("css2.css");
 /* Normalize */
@@ -3990,6 +3990,7 @@ div#preloader .loader-cubes .loader-cube .loader-cube3::before {
 /*=======  Price & Plan End =======*/
 /*=======  Testomonial Start =======*/
 .testomonial {
+  background-image: url('../image/pam.png');
   padding: 250px 0px 250px;
   position: relative;
   z-index: 2;

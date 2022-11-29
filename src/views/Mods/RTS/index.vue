@@ -1,23 +1,28 @@
 <template>
-    <div>
-        <div class="why-choose">
+    <section class="product-details" style="background: #fff; padding:30px 0px 10px">
+        <div class="head">
             <div class="container">
                 <div class="row justify-content-center">
-                    <section class="product-details" style="background: #fff; padding:30px 0px 10px">
                         <section class="product-details" style="background: #f7F7F7; padding:50px 0px 50px">
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-8">
                                     <div class="detsils-box">
-                                        <div class="box-one">
+                                        <div class="box-one" style="padding:70px 30px 70px;margin-top:60px">
                                             <div class="thumb open-gallery  wow fadeInUp">
-                                                <img src="./image/bg.jpg" alt="product-details">
+                                                <img src="./image/bg0.jpg"/>
+                                            </div>
+                                            <div class="total-link  wow fadeInUp">
+                                                <div class="links-box-left">
+                                                    <a href="https://jq.qq.com/?_wv=1027&k=2MTOZr8I" class="link one" target="_blank"> <i class="fas fa-eye"></i>加入星河总群以了解最新更新动态</a>
+                                                </div>
                                             </div>
                                         </div>
+                                        
                                     </div>
                                 </div>                         
                                 <div class="col-xl-4 col-lg-6">
-                                    <div class="product-information wow fadeInUp">
+                                    <div class="product-information wow fadeInUp" style="visibility: visible; animation-name: fadeInUp; margin-top:100px">
                                         <div class="left-box" style="padding:0,10px; width: 350px">
                                             <h3 class="title"><img src="./image/re.jpg" id="recore" /> 星河尘埃-无际征途</h3>
                             <h4 class="title" style="padding:0,10px">
@@ -96,7 +101,7 @@
                                         <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.2s">
                                             <div class="chose-box">
                                                 <div class="thumb">
-                                                    <img src="./image/OldDay.png" alt="" />
+                                                    <img src="./image/OldDay.png" id="skd" />
                                                 </div>
                                                 <h5 class="chose-head">旧日神教</h5>
                                                 <p class="text">
@@ -109,7 +114,7 @@
                                         <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.3s">
                                             <div class="chose-box">
                                                 <div class="thumb">
-                                                    <img src="./image/DemonJi.png" alt="" />
+                                                    <img src="./image/DemonJi.png" id="skd" />
                                                 </div>
                                                 <h5 class="chose-head">妖姬风暴</h5>
                                                 <p class="text">
@@ -122,7 +127,7 @@
                                         <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.4s">
                                             <div class="chose-box">
                                                 <div class="thumb">
-                                                    <img src="./image/MagicDragon.png" alt="" />
+                                                    <img src="./image/MagicDragon.png" id="skd" />
                                                 </div>
                                                 <h5 class="chose-head">魔龙古国</h5>
                                                 <p class="text">
@@ -135,7 +140,7 @@
                                         <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.5s">
                                             <div class="chose-box">
                                                 <div class="thumb">
-                                                    <img src="./image/IntellBug.png" alt="" />
+                                                    <img src="./image/IntellBug.png" id="skd" />
                                                 </div>
                                                 <h5 class="chose-head">智虫帝国</h5>
                                                 <p class="text">
@@ -148,113 +153,120 @@
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="pills-review" role="tabpanel" aria-labelledby="pills-review-tab">
+
                                     <div class="review-box">
                                         <div class="single-item">
                                             <div class="review-man">
-                                                <img src="./image/bg.jpg" alt="review-man">
+                                                <img src="./image/re.jpg" alt="review-man">
                                             </div>
                                             <div class="content">
                                                 <div class="name-other">
-                                                    <h6 class="headsix">Ahmad Curtis </h6>
-                                                    <div class="rating">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                    </div>
-                                                    <p class="text">15 minutes ago</p>
+                                                    <h6 class="headsix">V0.7.5-炎寒巨岛----</h6>
+                                                    <h6 class="text">更新时间：2022-1-5</h6>
 
                                                 </div>
                                                 <p class="text">
-                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus
-                                                    quas asperiores nesciunt itaque architecto. Velit quam, minus
-                                                    corporis repellendus ex libero doloremque quod unde est.
+                                                    <ul style="list-style:disc">
+										                <li>剿灭行动#1-炎寒巨岛（限时开放）</li>
+										                <li>旧日神教资源提取器限制解除</li>
+										                <li>贴图，代码，设计，构思，想法<br>其背后是每个制作和辅导人员的无私奉献和辛勤付出。<br>感谢你们的默默支持与付出！</li>
+										                <span class="image main">
+                                                            <img src="./update/3.1.jpg" alt="" />
+                                                        </span>					
+										                <li>修复了45个特性</li>
+										                <li>修复了辛拉德斯的翅膀不见了的问题。</li>
+                                                        <span class="image main">
+                                                        <img src="./update/2.5.jpg" alt="" />
+                                                        </span>
+                                                    </ul>
                                                 </p>
                                             </div>
                                         </div>
+                                        </div>
+                                    <div class="review-box">
                                         <div class="single-item">
                                             <div class="review-man">
-                                                <img src="static/picture/review-3.png" alt="review-man">
+                                                <img src="./image/re.jpg" alt="review-man">
                                             </div>
                                             <div class="content">
                                                 <div class="name-other">
-                                                    <h6 class="headsix">Ahmad Curtis </h6>
-                                                    <div class="rating">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                    </div>
-                                                    <p class="text">39 minutes ago</p>
+                                                    <h6 class="headsix">BETA2.0------</h6>
+                                                    <h6 class="text">更新时间：2021-10-31 BETA2.0</h6>
 
                                                 </div>
                                                 <p class="text">
-                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus
-                                                    quas asperiores nesciunt itaque architecto. Velit quam, minus
-                                                    corporis repellendus ex libero doloremque quod unde est.
+                                                    <ul style="list-style:disc">
+                                                        <li>添加了3个新的地图，感谢MP97,Denny等的大力支持与授权。</li>
+                                                        <li>调整雅典娜战斗机的攻击方式</li>                    
+                                                        <li>魔龙阵营进行重新调整，热流塔攻击方式改变</li>
+                                                        <li>小果果魔龙古国副首领加入</li>
+                                                        <li>旧日的立方提取器初始每秒+80资金，抽取器为20资金初始，<br>
+                                                            可以在水面建造，最多15个。</li>
+                                                            <span class="image main">
+                                                                <img src="./update/1.5.3.jpg" alt="" />
+                                                            </span>                            
+                                                        <li>削弱赛格机甲，攻速从0.01s调整到0.5s</li>
+                                                        <span class="image main">
+                                                            <img src="./update/1.5.2.jpg" alt="" />
+                                                        </span>
+                                                        <li>魔龙复活祭坛bug修复</li>                      
+                                                        <span class="image main">
+                                                            <img src="./update/1.5.1.jpg" alt="" />
+                                                        </span>                                 
+                                                        <li>新资源-风暴日晷。</li>
+                                                    </ul>
                                                 </p>
                                             </div>
                                         </div>
+                                        </div>
+                                    <div class="review-box">
                                         <div class="single-item">
                                             <div class="review-man">
-                                                <img src="static/picture/review-2.png" alt="review-man">
+                                                <img src="./image/re.jpg" alt="review-man">
                                             </div>
                                             <div class="content">
                                                 <div class="name-other">
-                                                    <h6 class="headsix">Ahmad Curtis </h6>
-                                                    <div class="rating">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                    </div>
-                                                    <p class="text">11 minutes ago</p>
+                                                    <h6 class="headsix">BETA1.5------</h6>
+                                                    <h6 class="text">更新时间：2021-10-31 BETA1.5</h6>
 
                                                 </div>
                                                 <p class="text">
-                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus
-                                                    quas asperiores nesciunt itaque architecto. Velit quam, minus
-                                                    corporis repellendus ex libero doloremque quod unde est.
+                                                    <ul style="list-style:disc">
+                                                        <li>修复了雅娜母舰，雷暴发生器会在实验工厂生成的问题</li>
+                                                        <li>修复了立方资源抽取器被原版抽取器替代的问题</li>
+                                                        <span class="image main">
+                                                            <img src="./update/1.0.1.jpg" alt="" />
+                                                        </span>
+                                                        <li>海军基地T2移除了重型潜水艇Death,将会在海军基地T3回归,添加了大型主攻型潜水艇于T2。空军基地T2添加了重型运输机。</li>
+                                                        <span class="image main">
+                                                            <img src="./update/1.0.2.jpg" alt="" />
+                                                        </span>
+                                                        <li>旧日建造大师和战斗工程师已经替换成专属单位</li>
+                                                        <li>模块化战斗蜘蛛资源预加载，沙盒可预览</li>
+                                                        <span class="image main">
+                                                            <img src="./update/1.0.3.jpg" alt="" />
+                                                        </span>
+                                                        <li>龙国巨炮伤害调整,500/s改为750/s</li>
+                                                        <li>暂时移除了模组文件的音乐系统</li>
+                                                        <li>对核弹发射井进行调整,现在更加合理</li>
+                                                        <span class="image main">
+                                                            <img src="./update/1.0.4.jpg" alt="" />
+                                                        </span>
+                                                        <li>添加新地图-世界战争。</li>
+                                                    </ul>   
                                                 </p>
                                             </div>
                                         </div>
-                                        <div class="single-item">
-                                            <div class="review-man">
-                                                <img src="static/picture/review-4.png" alt="review-man">
-                                            </div>
-                                            <div class="content">
-                                                <div class="name-other">
-                                                    <h6 class="headsix">Ahmad Curtis </h6>
-                                                    <div class="rating">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                    </div>
-                                                    <p class="text">18 minutes ago</p>
-
-                                                </div>
-                                                <p class="text">
-                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus
-                                                    quas asperiores nesciunt itaque architecto. Velit quam, minus
-                                                    corporis repellendus ex libero doloremque quod unde est.
-                                                </p>
-                                            </div>
                                         </div>
                                     </div>
                                 </div>                                
                             </div>
                         </div>
                     </div>
-                    </section>
+                    </div>
                 </div>
-            </div>
-        </div>
-  </div>
+            
+    </section>
 </template>
 
 <script>
@@ -267,12 +279,31 @@ export default {
   },
   data() {
     return {
+      sliderIndex: 1,
+      //轮播图插件
       list: [
-        { backgroundColor: '#3f51b5', width: '100%', height: '100%' },
-        { backgroundColor: '#eee', width: '100%', height: '100%' },
-        { backgroundColor: '#f44336', width: '100%', height: '100%' },
-      ],
-    }
+        {
+          url: "img/bg0.f96e0eff.jpg",
+          width: "100%",
+          height: "100%"
+        },
+        {
+          url: "img/bg2.65c4d040.jpg",
+          width: "100%",
+          height: "100%"
+        },
+        {
+          url: "img/bg4.19035451.jpg",
+          width: "100%",
+          height: "100%"
+        },
+        {
+          url: "img/bg6.60d2c315.jpg",
+          width: "100%",
+          height: "100%"
+        }
+      ]
+    };
   },
   methods: {
     hello($event) {
