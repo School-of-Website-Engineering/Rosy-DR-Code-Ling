@@ -7,7 +7,7 @@
                     <!-- 网页Logo部分 -->
                     <div class="header-left">
                         <div class="site-logo">
-                            <router-link to="/home"><img src="./images/Logo.png" alt="Logo"></router-link>
+                            <router-link to="/home"><img src="./images/logox.png" alt="Logo"></router-link>
                         </div>
                     </div>
                     <!-- 网页主体部分 -->
