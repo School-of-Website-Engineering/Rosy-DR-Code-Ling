@@ -83,13 +83,13 @@
                         </div>
                     </div>
                     <div class="right-box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <a href="blog-details.html" class="thumb">
-                            <img src="./images/SkyHell-icon.png" alt="" />
+                        <a  class="thumb">
+                            <router-link class="drop" to="pxd"><img src="./images/SkyHell-icon.png" alt="" /></router-link>                          
                         </a>
                         <div class="right-part">
                             <div class="date">2022年4月</div>
                             <h6 class="blog-title">
-                                <a href="blog-details.html"> 有三次大更新</a>
+                                <a ><router-link class="drop" to="pxd">有三次大更新</router-link></a>
                             </h6>
                             <div class="last-part">
                                 <div class="right-content">
