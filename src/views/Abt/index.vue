@@ -44,11 +44,8 @@
                     <div class="col-lg-6 text-center wow fadeInUp" data-wow-delay="0.3s">
                         <h1>&nbsp;</h1>
                         <div class="section-head">
-                            <h2 class="title">Why Choose Markpro</h2>
-                            <p class="text">
-                                Anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on
-                                the Internet tend to repeat predefined necessary.
-                            </p>
+                            <h2 class="title">团队成员</h2>
+                            <p class="text"></p>
                         </div>
                     </div>
                 </div>
