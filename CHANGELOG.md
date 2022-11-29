@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.4.0...v1.4.1) (2022-11-29)
+
+
+### update
+
+* 增加组件间的js ([52e0e4a](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/52e0e4a080bd57a7863eb141ae3556b81a6ca4ad))
+
 ## [1.4.0](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.3.0...v1.4.0) (2022-11-29)
 
 
