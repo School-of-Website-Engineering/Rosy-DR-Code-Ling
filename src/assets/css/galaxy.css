@@ -11,6 +11,12 @@
     border-radius: 100%;
 }
 
+#recorexl{
+    width: 140px;
+    border: solid 1px #ffffff;
+    border-radius: 100%;
+}
+
 #recorexp{
 width: 10.1rem;
 height: 10.1rem;
@@ -41,4 +47,5 @@ border-radius: 100%;
 .image img {
     border-radius: 27px;
     display: block;
+    padding: 10px;
 }
