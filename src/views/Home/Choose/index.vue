@@ -17,12 +17,12 @@
                         <div class="thumb">
                             <router-link class="drop" to="rts"><img src="./images/re.jpg" id="recorex" alt="" style="max-width: 200px;height:165px" /></router-link>                           
                         </div>
-                        <h5 class="chose-head"><router-link class="drop" to="rts">星河征途</router-link></h5>
+                        <h5 class="chose-head"><router-link class="drop" to="rts" style="font-size: 22px; color: black;" >星河征途</router-link></h5>
                         <p class="text">
-                            <router-link class="drop" to="rts">四大阵营的对抗和丰富的剧情冒险的额外扩展内容</router-link>                          
+                            <router-link class="drop" to="rts" style="color:black ;">四大阵营的对抗和丰富的剧情冒险的额外扩展内容</router-link>                          
                         </p>
                         <p class="text">
-                            <router-link class="drop" to="rts">版本即将更新，敬请期待。</router-link>                         
+                            <router-link class="drop" to="rts" style="color:black ;">版本即将更新，敬请期待。</router-link>                         
                         </p>
                     </div>
                 </div>
@@ -31,7 +31,7 @@
                         <div class="thumb">
                             <img src="./images/SH.png" alt="" id="recorex" style="max-width: 200px" />
                         </div>
-                        <h5 class="chose-head">天狱之境</h5>
+                        <h5 class="chose-head"><router-link class="drop" to="tml">天狱之境</router-link></h5>
                         <p class="text">
                             五大未知区域待解锁，你能成为这个世界的变数的契机之人吗？
                         </p>
