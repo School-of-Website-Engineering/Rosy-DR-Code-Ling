@@ -152,6 +152,81 @@
                                         <div class="item-thumbnail">
                                             <a class="sit-preview">
                                                 <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/art-4.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-2"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/bz.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-2"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/mw.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-2 item-6"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/xx.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5 item-6"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/ecy.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-2"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/dta.jpg"
                                                      class="envato-preview"
                                                     
@@ -212,7 +287,22 @@
                                         <div class="item-thumbnail">
                                             <a class="sit-preview">
                                                 <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/code-1.png"
+                                                     data-item-currency="$" src="./images/code-1.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-6"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/thanks-10.png"
                                                      class="envato-preview"
                                                     
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
@@ -227,7 +317,7 @@
                                         <div class="item-thumbnail">
                                             <a class="sit-preview">
                                                 <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/code-2.png"
+                                                     data-item-currency="$" src="./images/cs.jpg"
                                                      class="envato-preview"
                                                     
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
@@ -332,6 +422,21 @@
                                         <div class="item-thumbnail">
                                             <a class="sit-preview">
                                                 <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/yy.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/test-3.png"
                                                      class="envato-preview"
                                                     
@@ -392,7 +497,7 @@
                                         <div class="item-thumbnail">
                                             <a class="sit-preview">
                                                 <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/test-5.png"
+                                                     data-item-currency="$" src="./images/ksm.jpg"
                                                      class="envato-preview"
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
@@ -451,7 +556,7 @@
                                         <div class="item-thumbnail">
                                             <a class="sit-preview">
                                                 <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/test-8.png"
+                                                     data-item-currency="$" src="./images/test-8.jpg"
                                                      class="envato-preview"
                                                     
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"

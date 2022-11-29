@@ -24,7 +24,7 @@
                 >
                     <div class="blog-box">
                         <a class="thumb">
-                            <router-link class="drop" to="tml"><img src="./images/banner.jpg" alt="" /></router-link>                            
+                            <router-link class="drop" to="tml"><img src="./images/banner.png" alt="" /></router-link>                            
                         </a>
                         <div class="main-content">
                             <div class="top-box">
