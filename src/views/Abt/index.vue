@@ -20,7 +20,6 @@
                                 关于CodeLing
                             </h2>
                             <div class="box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
-                                <img src="./images/about_us.png" alt="" class="aboutpng" />
                                 <p>
                                     CodeLing
                                     相信，所有非凡的创意与作品，都来自于创作者对生活的独特理解和感悟。CodeLing聚焦创意专业人士在创作过程中的需求、真实感受和困扰，不断与他们集智共创和探索实验，致力于设计开发出极致体验的数位绘图产品，见证艺术的绽放。
