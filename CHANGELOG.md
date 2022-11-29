@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.2.1...v1.2.2) (2022-11-29)
+
+
+### update
+
+* 更新主页 ([8e53703](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/8e53703be4d67ae952d3dfe26c6923eb99be8a1b))
+
 ## [1.2.1](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.2.0...v1.2.1) (2022-11-28)
 
 
