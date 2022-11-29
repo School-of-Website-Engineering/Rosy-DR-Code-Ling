@@ -17,779 +17,465 @@
                             <div class="item-gallery-filter">
                                 <ul class="item-gallery-menu">
                                     <li class="filter active" data-filter="all">所有贡献</li>
-                                    <li class="filter" data-filter=".item-1">音乐设计</li>
+                                    <li class="filter" data-filter=".item-1">代码指导</li>
                                     <li class="filter" data-filter=".item-2">美工设计</li>
-                                    <li class="filter" data-filter=".item-3">文案设计</li>
-                                    <li class="filter" data-filter=".item-4">网页协作</li>
+                                    <li class="filter" data-filter=".item-3">网页协作</li>
+                                    <li class="filter" data-filter=".item-4">音乐设计</li>
                                     <li class="filter" data-filter=".item-5">测试人员</li>
-                                    <li class="filter" data-filter=".item-6">代码指导</li>
+                                    <li class="filter" data-filter=".item-6">开发协力</li>
                                 </ul>
                             </div>
                             <div class="item-gallery-item">
-                                <div class="mix gallery-item all item-5 item-4 item-2 item-10"
+                                <div class="mix gallery-item all item-5"
                                      style="display: inline-block;" data-bound="">
                                     <div class="gallery-item-content">
                                         <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Linnor - Digital Agency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/new-1.png"
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/test-1.png"
                                                      class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-1.png"
+                                                    
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="mix gallery-item all item-6 item-1 item-7 item-11"
+                                <div class="mix gallery-item all item-3"
                                      style="display: inline-block;" data-bound="">
                                     <div class="gallery-item-content">
                                         <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Ciknor - Cryptocurrency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/new-2.png"
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/liuliu.jpg"
                                                      class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-2.png"
-                                                     data-item-cost="79" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-5 item-4 item-8 item-10"
-                                     style="display: inline-block;" data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Metro - E-LEARNING Wordpress Theme" data-item-currency="$"
-                                                     src="./images/new-3.png" class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-3.png"
-                                                     data-item-cost="59" data-item-category="WordPress"
-                                                     data-item-author="DivDojo">
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="mix gallery-item all item-5 item-5 item-7" style="display: inline-block;"
-                                     data-bound="">
+                                <div class="mix gallery-item all item-3"
+                                     style="display: inline-block;" data-bound="">
                                     <div class="gallery-item-content">
                                         <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Metro - E-LEARNING Wordpress Theme" data-item-currency="$"
-                                                     src="./images/new-4.png" class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-4.png"
-                                                     data-item-cost="59" data-item-category="WordPress"
-                                                     data-item-author="DivDojo">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/mason.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="mix gallery-item all item-4 item-1 item-10" style="display: inline-block;"
-                                     data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Avvo - Creative Agency &amp; Showcase Theme"
-                                                     data-item-currency="$" src="./images/new-5.png"
-                                                     class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-5.png"
-                                                     data-item-cost="99" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-5 item-4 item-8" style="display: inline-block;"
-                                     data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Eduvut - Multipurpose Education Template"
-                                                     data-item-currency="$" src="./images/new-6.png"
-                                                     class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-6.png"
-                                                     data-item-cost="89" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-5 item-1 item-8 item-11"
+                                <div class="mix gallery-item all item-3"
                                      style="display: inline-block;" data-bound="">
                                     <div class="gallery-item-content">
                                         <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Avvo - Creative Agency &amp; Showcase Theme"
-                                                     data-item-currency="$" src="./images/new-7.png"
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/LingASDJ.png"
                                                      class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-7.png"
-                                                     data-item-cost="89" data-item-category="WordPress"
-                                                     data-item-author="DivDojo">
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="mix gallery-item all item-6 item-2 item-7" style="display: inline-block;"
-                                     data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Eduvut - Multipurpose Education Template"
-                                                     data-item-currency="$" src="./images/new-8.png"
-                                                     class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-8.png"
-                                                     data-item-cost="89" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-3 item-1 item-8" style="display: inline-block;"
-                                     data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Eduvut - Multipurpose Education Template"
-                                                     data-item-currency="$" src="./images/new-9.png"
-                                                     data-preview-width="" class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-9.png"
-                                                     data-item-cost="89" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-3 item-4 item-9 item-11"
+                                <div class="mix gallery-item all item-3"
                                      style="display: inline-block;" data-bound="">
                                     <div class="gallery-item-content">
                                         <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Eduvut - Multipurpose Education Template"
-                                                     data-item-currency="$" src="./images/new-10.png"
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/Plee.png"
                                                      class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-1.png"
-                                                     data-item-cost="99" data-item-category="WordPress"
-                                                     data-item-author="DivDojo">
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="mix gallery-item all item-6 item-3 item-7" style="display: inline-block;"
-                                     data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Aqqua - Spa and Beauty HTML5 Template" data-item-currency="$"
-                                                     src="./images/new-11.png" class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-2.png"
-                                                     data-item-cost="89" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-6 item-1 item-8 item-11"
+                                <div class="mix gallery-item all item-4"
                                      style="display: inline-block;" data-bound="">
                                     <div class="gallery-item-content">
                                         <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Aqqua - Spa and Beauty HTML5 Template" data-item-currency="$"
-                                                     src="./images/new-12.png" class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-3.png"
-                                                     data-item-cost="89" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-5 item-2 item-10" style="display: inline-block;"
-                                     data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Ciknor - Cryptocurrency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/new-13.png"
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/ptr.png"
                                                      class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-4.png"
-                                                     data-item-cost="999" data-item-category="WordPress"
-                                                     data-item-author="DivDojo">
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="mix gallery-item all item-2 item-1 item-7" style="display: inline-block;"
-                                     data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Ciknor - Cryptocurrency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/new-14.png"
-                                                     class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-5.png"
-                                                     data-item-cost="999" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-5 item-3 item-9 item-11"
+                                <div class="mix gallery-item all item-2 item-3"
                                      style="display: inline-block;" data-bound="">
                                     <div class="gallery-item-content">
                                         <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Metro - E-LEARNING Wordpress Theme" data-item-currency="$"
-                                                     src="./images/new-15.png" class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-6.png"
-                                                     data-item-cost="999" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-5 item-4 item-1" style="display: inline-block;"
-                                     data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Metro - E-LEARNING Wordpress Theme" data-item-currency="$"
-                                                     src="./images/new-16.png" class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-7.png"
-                                                     data-item-cost="999" data-item-category="WordPress"
-                                                     data-item-author="DivDojo">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/liao.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="mix gallery-item all item-6 item-2item-9 item-10"
+                                <div class="mix gallery-item all item-2"
                                      style="display: inline-block;" data-bound="">
                                     <div class="gallery-item-content">
                                         <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/art-1.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-2"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/dta.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-2"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/art-2.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-2"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/art-3.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-2"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/dc.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-1 item-6"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/code-1.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-1 item-6"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/code-2.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-1"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/code-3.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-1 item-6"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/code-4.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-1 item-6"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/code-5.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-1 item-6"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/dtk.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-1 item-6"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/code-6.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/test-2.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/test-3.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/san.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/hy.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/test-4.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/test-5.png"
+                                                     class="envato-preview"
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/test-6.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
                                                 <img alt="Linnor - Digital Agency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/new-17.png"
+                                                     data-item-currency="$" src="./images/test-11.png"
                                                      class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-8.png"
-                                                     data-item-cost="999" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-7 item-2 item-7" style="display: inline-block;"
-                                     data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Linnor - Digital Agency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/new-18.png"
-                                                     class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-9.png"
-                                                     data-item-cost="99" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-6 item-1 item-9 item-11"
-                                     style="display: inline-block;" data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Linnor - Digital Agency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/new-19.png"
-                                                     class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-1.png"
-                                                     data-item-cost="49" data-item-category="WordPress"
-                                                     data-item-author="DivDojo">
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="mix gallery-item all item-6 item-3 item-7" style="display: inline-block;"
-                                     data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Linnor - Digital Agency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/new-20.png"
-                                                     class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-2.png"
-                                                     data-item-cost="49" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-7 item-3 item-10 item-11"
+                                <div class="mix gallery-item all item-5"
                                      style="display: inline-block;" data-bound="">
                                     <div class="gallery-item-content">
                                         <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Linnor - Digital Agency Wordpress Theme"
-                                                     data-item-currency="$" src="./images/new-6.png"
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/test-12.png"
                                                      class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-3.png"
-                                                     data-item-cost="96" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-5 item-2 item-8" style="display: inline-block;"
-                                     data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Metro - E-LEARNING Wordpress Theme" data-item-currency="$"
-                                                     src="./images/new-22.png" class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-4.png"
-                                                     data-item-cost="75" data-item-category="WordPress"
-                                                     data-item-author="DivDojo">
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="mix gallery-item all item-6 item-1 item-7" style="display: inline-block;"
-                                     data-bound="">
-                                    <div class="gallery-item-content">
-                                        <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Metro - E-LEARNING Wordpress Theme" data-item-currency="$"
-                                                     src="./images/new-23.png" class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-5.png"
-                                                     data-item-cost="45" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mix gallery-item all item-4 item-1item-9 item-10"
+                                <div class="mix gallery-item all item-5"
                                      style="display: inline-block;" data-bound="">
                                     <div class="gallery-item-content">
                                         <div class="item-thumbnail">
-                                            <a class="sit-preview" href="product-details.html">
-                                                <img alt="Metro - E-LEARNING Wordpress Theme" data-item-currency="$"
-                                                     src="./images/new-24.png" class="envato-preview"
-                                                     data-preview-url="assets/images/unique-theme/unique-6.png"
-                                                     data-item-cost="49" data-item-category="WordPress"
-                                                     data-item-author="DivDojo"></a>
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/test-8.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/test-9.png"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="testomonial" >
-            <img src="./images/testo-shap.png" alt="" class="shap">
-            <div class="man-pic pic-1"><img src="./images/man-1.png" alt="man-pic"></div>
-            <div class="man-pic pic-2"><img src="./images/man-2.png" alt="man-pic"></div>
-            <div class="man-pic pic-3"><img src="./images/man-3.png" alt="man-pic"></div>
-            <div class="man-pic pic-4"><img src="./images/man-4.png" alt="man-pic"></div>
-            <div class="man-pic pic-5"><img src="./images/man-5.png" alt="man-pic"></div>
-            <div class="man-pic pic-6"><img src="./images/man-6.png" alt="man-pic"></div>
-            <div class="container">
-                <div class="row justify-content-xl-end justify-content-center">
-                    <div class="col-xl-8 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="testobox owl-carousel owl-theme owl-loaded owl-drag">
-
-
-                            <div class="owl-stage-outer">
-                                <div class="owl-stage"
-                                     style="transform: translate3d(-3699px, 0px, 0px); transition: all 1.2s ease 0s; width: 8880px;">
-                                    <div class="owl-item cloned" style="width: 729.99px; margin-right: 10px;">
-                                        <div class="single item">
-                                            <div class="icon">
-                                                <img src="./images/quate.png" alt="">
-                                            </div>
-                                            <p class="text">
-                                                "It's extremely exciting that Markpro has freelancers from all over the
-                                                world — it
-                                                broadens the talent pool. One of the best things about Markpro is that
-                                                while we're
-                                                sleeping, someone's working."
-                                            </p>
-                                            <div class="man">
-                                                <div class="pic">
-                                                    <a href="#0">
-                                                        <img src="./images/man-4.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="content">
-                                                    <div class="review">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="far fa-star"></i>
-                                                    </div>
-                                                    <h5 class="name">Doyle Henderson</h5>
-                                                    <span class="position">Founder Of Facebook</span>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                    <div class="owl-item cloned" style="width: 729.99px; margin-right: 10px;">
-                                        <div class="single item">
-                                            <div class="icon">
-                                                <img src="./images/quate.png" alt="">
-                                            </div>
-                                            <p class="text">
-                                                "We've used Markpro for Shopify web development, graphic design, and
-                                                backend web
-                                                development. Working with Markpro makes my job a little easier every
-                                                day. it's vary
-                                                easy."
-                                            </p>
-                                            <div class="man">
-                                                <div class="pic">
-                                                    <a href="#0">
-                                                        <img src="./images/man-5.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="content">
-                                                    <div class="review">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="far fa-star"></i>
-                                                    </div>
-                                                    <h5 class="name">Jake Buchanan</h5>
-                                                    <span class="position">Founder Of Twitter</span>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                    <div class="owl-item cloned" style="width: 729.99px; margin-right: 10px;">
-                                        <div class="single item">
-                                            <div class="icon">
-                                                <img src="./images/quate.png" alt="">
-                                            </div>
-                                            <p class="text">
-                                                "It's extremely exciting that Markpro has freelancers from all over the
-                                                world — it
-                                                broadens the talent pool. One of the best things about Markpro is that
-                                                while we're
-                                                sleeping, someone's working."
-                                            </p>
-                                            <div class="man">
-                                                <div class="pic">
-                                                    <a href="#0">
-                                                        <img src="./images/man-6.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="content">
-                                                    <div class="review">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="far fa-star"></i>
-                                                        <i class="far fa-star"></i>
-                                                    </div>
-                                                    <h5 class="name">Fernando Kennedy</h5>
-                                                    <span class="position">Founder Of Appale</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 729.99px; margin-right: 10px;">
-                                        <div class="single item">
-                                            <div class="icon">
-                                                <img src="./images/quate.png" alt="">
-                                            </div>
-                                            <p class="text">
-                                                "We used Markpro for SEO, our logo, website, copy, animated videos —
-                                                literally
-                                                everything. It was like working with a human right next to you versus
-                                                being across the
-                                                world."
-                                            </p>
-                                            <div class="man">
-                                                <div class="pic">
-                                                    <a href="#0">
-                                                        <img src="./images/man-1.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="content">
-                                                    <div class="review">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="far fa-star"></i>
-                                                    </div>
-                                                    <h5 class="name">
-                                                        <a href="#0">
-                                                            Rasalina De Willamson
-                                                        </a>
-                                                    </h5>
-                                                    <span class="position">Founder Of Vision Trust</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 729.99px; margin-right: 10px;">
-                                        <div class="single item">
-                                            <div class="icon">
-                                                <img src="./images/quate.png" alt="">
-                                            </div>
-                                            <p class="text">
-                                                "We've used Markpro for Shopify web development, graphic design, and
-                                                backend web
-                                                development. Working with Markpro makes my job a little easier every
-                                                day. it's vary
-                                                easy."
-                                            </p>
-                                            <div class="man">
-                                                <div class="pic">
-                                                    <a href="#0">
-                                                        <img src="./images/man-2.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="content">
-                                                    <div class="review">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                    </div>
-                                                    <h5 class="name">Robert Glover</h5>
-                                                    <span class="position">Founder Of F.D.A</span>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                    <div class="owl-item active" style="width: 729.99px; margin-right: 10px;">
-                                        <div class="single item">
-                                            <div class="icon">
-                                                <img src="./images/quate.png" alt="">
-                                            </div>
-                                            <p class="text">
-                                                "When you want to create a business bigger than yourself, you need a lot
-                                                of help. That's
-                                                what Markpro does. When you want to create a business bigger than
-                                                yourself, you need a
-                                                lot of help.
-                                            </p>
-                                            <div class="man">
-                                                <div class="pic">
-                                                    <a href="#0">
-                                                        <img src="./images/man-3.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="content">
-                                                    <div class="review">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="far fa-star"></i>
-                                                    </div>
-                                                    <h5 class="name">Pedro Montgomery</h5>
-                                                    <span class="position">Founder Of Willton</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 729.99px; margin-right: 10px;">
-                                        <div class="single item">
-                                            <div class="icon">
-                                                <img src="./images/quate.png" alt="">
-                                            </div>
-                                            <p class="text">
-                                                "It's extremely exciting that Markpro has freelancers from all over the
-                                                world — it
-                                                broadens the talent pool. One of the best things about Markpro is that
-                                                while we're
-                                                sleeping, someone's working."
-                                            </p>
-                                            <div class="man">
-                                                <div class="pic">
-                                                    <a href="#0">
-                                                        <img src="./images/man-4.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="content">
-                                                    <div class="review">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="far fa-star"></i>
-                                                    </div>
-                                                    <h5 class="name">Doyle Henderson</h5>
-                                                    <span class="position">Founder Of Facebook</span>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 729.99px; margin-right: 10px;">
-                                        <div class="single item">
-                                            <div class="icon">
-                                                <img src="./images/quate.png" alt="">
-                                            </div>
-                                            <p class="text">
-                                                "We've used Markpro for Shopify web development, graphic design, and
-                                                backend web
-                                                development. Working with Markpro makes my job a little easier every
-                                                day. it's vary
-                                                easy."
-                                            </p>
-                                            <div class="man">
-                                                <div class="pic">
-                                                    <a href="#0">
-                                                        <img src="./images/man-5.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="content">
-                                                    <div class="review">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star-half-alt"></i>
-                                                        <i class="far fa-star"></i>
-                                                    </div>
-                                                    <h5 class="name">Jake Buchanan</h5>
-                                                    <span class="position">Founder Of Twitter</span>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 729.99px; margin-right: 10px;">
-                                        <div class="single item">
-                                            <div class="icon">
-                                                <img src="./images/quate.png" alt="">
-                                            </div>
-                                            <p class="text">
-                                                "It's extremely exciting that Markpro has freelancers from all over the
-                                                world — it
-                                                broadens the talent pool. One of the best things about Markpro is that
-                                                while we're
-                                                sleeping, someone's working."
-                                            </p>
-                                            <div class="man">
-                                                <div class="pic">
-                                                    <a href="#0">
-                                                        <img src="./images/man-6.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="content">
-                                                    <div class="review">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="far fa-star"></i>
-                                                        <i class="far fa-star"></i>
-                                                    </div>
-                                                    <h5 class="name">Fernando Kennedy</h5>
-                                                    <span class="position">Founder Of Appale</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item cloned" style="width: 729.99px; margin-right: 10px;">
-                                        <div class="single item">
-                                            <div class="icon">
-                                                <img src="./images/quate.png" alt="">
-                                            </div>
-                                            <p class="text">
-                                                "We used Markpro for SEO, our logo, website, copy, animated videos —
-                                                literally
-                                                everything. It was like working with a human right next to you versus
-                                                being across the
-                                                world."
-                                            </p>
-                                            <div class="man">
-                                                <div class="pic">
-                                                    <a href="#0">
-                                                        <img src="./images/man-1.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="content">
-                                                    <div class="review">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="far fa-star"></i>
-                                                    </div>
-                                                    <h5 class="name">
-                                                        <a href="#0">
-                                                            Rasalina De Willamson
-                                                        </a>
-                                                    </h5>
-                                                    <span class="position">Founder Of Vision Trust</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item cloned" style="width: 729.99px; margin-right: 10px;">
-                                        <div class="single item">
-                                            <div class="icon">
-                                                <img src="./images/quate.png" alt="">
-                                            </div>
-                                            <p class="text">
-                                                "We've used Markpro for Shopify web development, graphic design, and
-                                                backend web
-                                                development. Working with Markpro makes my job a little easier every
-                                                day. it's vary
-                                                easy."
-                                            </p>
-                                            <div class="man">
-                                                <div class="pic">
-                                                    <a href="#0">
-                                                        <img src="./images/man-2.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="content">
-                                                    <div class="review">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                    </div>
-                                                    <h5 class="name">Robert Glover</h5>
-                                                    <span class="position">Founder Of F.D.A</span>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                    <div class="owl-item cloned" style="width: 729.99px; margin-right: 10px;">
-                                        <div class="single item">
-                                            <div class="icon">
-                                                <img src="./images/quate.png" alt="">
-                                            </div>
-                                            <p class="text">
-                                                "When you want to create a business bigger than yourself, you need a lot
-                                                of help. That's
-                                                what Markpro does. When you want to create a business bigger than
-                                                yourself, you need a
-                                                lot of help.
-                                            </p>
-                                            <div class="man">
-                                                <div class="pic">
-                                                    <a href="#0">
-                                                        <img src="./images/man-3.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="content">
-                                                    <div class="review">
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="fas fa-star"></i>
-                                                        <i class="far fa-star"></i>
-                                                    </div>
-                                                    <h5 class="name">Pedro Montgomery</h5>
-                                                    <span class="position">Founder Of Willton</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="owl-nav disabled">
-                                <div class="owl-prev">prev</div>
-                                <div class="owl-next">next</div>
-                            </div>
-                            <div class="owl-dots disabled"></div>
                         </div>
                     </div>
                 </div>
