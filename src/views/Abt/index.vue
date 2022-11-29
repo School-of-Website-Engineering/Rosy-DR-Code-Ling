@@ -64,7 +64,7 @@
                                 <img src="./images/Mason.jpg" alt="" />
                             </div>
                             <h5 class="chose-head">Mason</h5>
-                            <p class="text"><a href="mailto:2735951230@qq.com">邮箱：1960638223@qq.com</a></p>
+                            <p class="text"><a href="https://masonosam.top/">邮箱：1960638223@qq.com</a></p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.4s">
