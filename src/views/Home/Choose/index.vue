@@ -15,14 +15,14 @@
                 <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.2s">
                     <div class="chose-box">
                         <div class="thumb">
-                            <img src="./images/re.jpg" id="recorex" alt="" style="max-width: 200px;height:165px" />
+                            <router-link class="drop" to="rts"><img src="./images/re.jpg" id="recorex" alt="" style="max-width: 200px;height:165px" /></router-link>                           
                         </div>
-                        <h5 class="chose-head">星河征途</h5>
+                        <h5 class="chose-head"><router-link class="drop" to="rts">星河征途</router-link></h5>
                         <p class="text">
-                            四大阵营的对抗和丰富的剧情冒险的额外扩展内容
+                            <router-link class="drop" to="rts">四大阵营的对抗和丰富的剧情冒险的额外扩展内容</router-link>                          
                         </p>
                         <p class="text">
-                            版本即将更新，敬请期待。
+                            <router-link class="drop" to="rts">版本即将更新，敬请期待。</router-link>                         
                         </p>
                     </div>
                 </div>
