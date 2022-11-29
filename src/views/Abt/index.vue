@@ -3,10 +3,8 @@
         <section class="breadcrumb-area">
             <div class="container">
                 <div class="content">
-                    <h2 class="breadd wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        关于我们
-                    </h2>
-                    <ul class="breadcrumb-list wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                    <h2 class="breadd wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">关于我们</h2>
+                    <ul class="breadcrumb-list wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
                         <li><a href="index.html">首页 /</a></li>
                         <li>关于我们</li>
                     </ul>
@@ -18,13 +16,22 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="content-details">
-                            <h2 class="title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">关于CodeLing</h2>
-                            <div class="box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                                <img src="static/picture/about_us.png" alt="" class="aboutpng">
-                                <p class="text">
-                                    哈哈哈
-                                    古娜拉黑暗之神！
+                            <h2 class="title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
+                                关于CodeLing
+                            </h2>
+                            <div class="box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
+                                <img src="static/picture/about_us.png" alt="" class="aboutpng" />
+                                <p>
+                                    CodeLing
+                                    相信，所有非凡的创意与作品，都来自于创作者对生活的独特理解和感悟。CodeLing聚焦创意专业人士在创作过程中的需求、真实感受和困扰，不断与他们集智共创和探索实验，致力于设计开发出极致体验的数位绘图产品，见证艺术的绽放。
                                 </p>
+                                <p>
+                                    CodeLing面向这样的用户群体：他们拥有较高的艺术素养和坚定的信念感，对世界的热情和好奇永不⽌息，敏锐地捕捉创作灵感，⾃由穿梭于现实和数字艺术世界之间——他们，亦是平凡世界的非凡造梦者，不断探索未来的无限可能。
+                                </p>
+                                <p>
+                                    秉承专业精进、携手共建、真诚开放、自由创造的品牌精神和对创意专业人士的坚定承诺，CodeLing持续打造极致产品与服务，并全力支持创意专业人士表达自我，追求艺术创作上的非凡成就。
+                                </p>
+                                <p>CodeLing 所为，尽非凡。</p>
                             </div>
                         </div>
                     </div>
@@ -37,12 +44,8 @@
                     <div class="col-lg-6 text-center wow fadeInUp" data-wow-delay="0.3s">
                         <h1>&nbsp;</h1>
                         <div class="section-head">
-                            <h2 class="title">Why Choose Markpro</h2>
-                            <p class="text">
-                                Anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on
-                                the
-                                Internet tend to repeat predefined necessary.
-                            </p>
+                            <h2 class="title">团队成员</h2>
+                            <p class="text"></p>
                         </div>
                     </div>
                 </div>
@@ -53,9 +56,7 @@
                                 <img src="./images/LingASDJ.png" alt="" />
                             </div>
                             <h5 class="chose-head">LingASDJ</h5>
-                            <p class="text">
-                                邮箱
-                            </p>
+                            <p class="text">邮箱</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.3s">
@@ -64,9 +65,7 @@
                                 <img src="./images/Mason.jpg" alt="" />
                             </div>
                             <h5 class="chose-head">Mason</h5>
-                            <p class="text">
-                                邮箱
-                            </p>
+                            <p class="text">邮箱</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.4s">
@@ -75,9 +74,7 @@
                                 <img src="./images/liuliu.jpg" alt="" />
                             </div>
                             <h5 class="chose-head">liuliu</h5>
-                            <p class="text">
-                                邮箱
-                            </p>
+                            <p class="text">邮箱</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.5s">
@@ -86,21 +83,17 @@
                                 <img src="./images/Plee.png" alt="" />
                             </div>
                             <h5 class="chose-head">Plee</h5>
-                            <p class="text">
-                               邮箱
-                            </p>
+                            <p class="text">邮箱</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
-
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
 
 <style lang="scss" scoped></style>
