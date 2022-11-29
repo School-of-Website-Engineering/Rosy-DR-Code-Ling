@@ -1,13 +1,12 @@
-<template>
+<template xmlns:>
     <div class="why-choose">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center wow fadeInUp" data-wow-delay="0.3s">
                     <div class="section-head">
-                        <h2 class="title">Why Choose Markpro</h2>
+                        <h2 class="title">CodeLing制作群</h2>
                         <p class="text">
-                            Anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the
-                            Internet tend to repeat predefined necessary.
+                            CodeLing制作群旗下共有三大模组正在更新与维护
                         </p>
                     </div>
                 </div>
@@ -16,44 +15,53 @@
                 <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.2s">
                     <div class="chose-box">
                         <div class="thumb">
-                            <img src="./images/choose-1.png" alt="" />
+                            <img src="./images/bg.jpg" alt="" style="max-width: 200px;height:165px" />
                         </div>
-                        <h5 class="chose-head">Open Source</h5>
+                        <h5 class="chose-head">星河征途</h5>
                         <p class="text">
-                            Lorem ipsum dummy text in print and website industry are use in these section
+                            四大阵营的对抗和丰富的剧情冒险的额外扩展内容
+                        </p>
+                        <p class="text">
+                            版本即将更新，敬请期待。
                         </p>
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.3s">
                     <div class="chose-box">
                         <div class="thumb">
-                            <img src="./images/choose-2.png" alt="" />
+                            <img src="./images/SH.png" alt="" style="max-width: 200px" />
                         </div>
-                        <h5 class="chose-head">Problem Solvers</h5>
+                        <h5 class="chose-head">天狱之境</h5>
                         <p class="text">
-                            Lorem ipsum dummy text in print and website industry are use in these section
+                            五大未知区域待解锁，你能成为这个世界的变数的契机之人吗？
+                        </p>
+                        <p class="text">
+                            版本即将更新，敬请期待。
                         </p>
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.4s">
                     <div class="chose-box">
                         <div class="thumb">
-                            <img src="./images/choose-3.png" alt="" />
+                            <img src="./images/ML.png" alt="" style="max-width: 200px" />
                         </div>
-                        <h5 class="chose-head">Regular Update</h5>
+                        <h5 class="chose-head">魔绫地牢</h5>
                         <p class="text">
-                            Lorem ipsum dummy text in print and website industry are use in these section
+                            拥有定期的版本活动更新
+                        </p>
+                        <p class="text">
+                            MLPD--P3将进行极大规模的优化和调整
                         </p>
                     </div>
                 </div>
-                <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.5s">
-                    <div class="chose-box">
-                        <div class="thumb">
-                            <img src="./images/choose-4.png" alt="" />
+                <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.5s" >
+                    <div class="chose-box" style="width:255px;height:457px">
+                        <div class="thumb"  style="margin:50px 0">
+                            <img src="./images/choose-1.png" alt="" style="max-width: 200px" />
                         </div>
-                        <h5 class="chose-head">Free Resource</h5>
-                        <p class="text">
-                            Lorem ipsum dummy text in print and website industry are use in these section
+                        <h5 class="chose-head">更多内容敬请期待</h5>
+                        <p class="text" style="margin:20px 0">
+                            ······
                         </p>
                     </div>
                 </div>
@@ -63,7 +71,7 @@
 </template>
 
 <script>
-export default {};
+export default {}
 </script>
 
 <style lang="scss" scoped></style>
