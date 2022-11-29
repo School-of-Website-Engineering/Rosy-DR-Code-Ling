@@ -92,12 +92,16 @@
         <div class="testomonial-three about">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-xl-6 col-md-10 wow fadeInUp" data-wow-delay="0.3s"
-                         style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                    <div
+                        class="col-xl-6 col-md-10 wow fadeInUp"
+                        data-wow-delay="0.3s"
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp"
+                    >
                         <div class="section-head text-center">
-                            <h2 class="title">What Our Clients Say About Us </h2>
-                            <p class="text">Anything embarrassing hidden in the middle of text. All the Lorem Ipsum
-                                generators on the Internet tend to repeat predefined necessary.</p>
+                            <h2 class="title">自我评价</h2>
+                            <p class="text">
+                                上帝是公平的，掌握命运的人永远站在天平的两端，被命运掌握的人仅仅只明白上帝赐给他命运!
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -106,12 +110,12 @@
                         <div class="testothree owl-carousel owl-theme">
                             <div class="single">
                                 <div class="icon">
-                                    <img src="./images/people-1.png" alt="">
+                                    <img src="./images/LingASDJ.png" alt="" />
                                 </div>
                                 <div class="content">
                                     <p class="text">
-                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators
-                                        on the Internet tend to repeat predefined"
+                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum
+                                        generators on the Internet tend to repeat predefined"
                                     </p>
                                     <div class="man">
                                         <div class="content">
@@ -122,20 +126,19 @@
                                                 <i class="fas fa-star"></i>
                                                 <i class="far fa-star"></i>
                                             </div>
-                                            <h5 class="name">Jakariya Hosen Butta</h5>
-                                            <span class="position">Ui/Ux Designer</span>
+                                            <h5 class="name">LingASDJ</h5>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="single">
                                 <div class="icon">
-                                    <img src="./images/people-2.png" alt="">
+                                    <img src="./images/Mason.jpg" alt="" />
                                 </div>
                                 <div class="content">
                                     <p class="text">
-                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators
-                                        on the Internet tend to repeat predefined"
+                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum
+                                        generators on the Internet tend to repeat predefined"
                                     </p>
                                     <div class="man">
                                         <div class="content">
@@ -146,20 +149,19 @@
                                                 <i class="fas fa-star"></i>
                                                 <i class="far fa-star"></i>
                                             </div>
-                                            <h5 class="name">Rasalina De Willamson</h5>
-                                            <span class="position">Founder Of Vision Trust</span>
+                                            <h5 class="name">Mason</h5>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="single">
                                 <div class="icon">
-                                    <img src="./images/people-3.png" alt="">
+                                    <img src="./images/liuliu.jpg" alt="" />
                                 </div>
                                 <div class="content">
                                     <p class="text">
-                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators
-                                        on the Internet tend to repeat predefined"
+                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum
+                                        generators on the Internet tend to repeat predefined"
                                     </p>
                                     <div class="man">
                                         <div class="content">
@@ -170,8 +172,30 @@
                                                 <i class="fas fa-star"></i>
                                                 <i class="far fa-star"></i>
                                             </div>
-                                            <h5 class="name">Zubayer Hossen Kabila</h5>
-                                            <span class="position">Web Developer</span>
+                                            <h5 class="name">liuliu</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single">
+                                <div class="icon">
+                                    <img src="./images/Plee.png" alt="" />
+                                </div>
+                                <div class="content">
+                                    <p class="text">
+                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum
+                                        generators on the Internet tend to repeat predefined"
+                                    </p>
+                                    <div class="man">
+                                        <div class="content">
+                                            <div class="review">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="far fa-star"></i>
+                                            </div>
+                                            <h5 class="name">Plee</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -186,52 +210,52 @@
 
 <script>
 export default {
-    mounted () {
-        const s = document.createElement('script')
-        s.type = 'text/javascript'
-        s.src = 'https://jdsalingzx.top/assets/jsx/jquery-3.6.0.min.js'
-        document.body.appendChild(s)
+    mounted() {
+        const s = document.createElement("script");
+        s.type = "text/javascript";
+        s.src = "https://jdsalingzx.top/assets/jsx/jquery-3.6.0.min.js";
+        document.body.appendChild(s);
 
-        const a = document.createElement('script')
-        a.type = 'text/javascript'
-        a.src = 'https://jdsalingzx.top/assets/jsx/bootstrap.bundle.min.js'
-        document.body.appendChild(a)
+        const a = document.createElement("script");
+        a.type = "text/javascript";
+        a.src = "https://jdsalingzx.top/assets/jsx/bootstrap.bundle.min.js";
+        document.body.appendChild(a);
 
-        const b = document.createElement('script')
-        b.type = 'text/javascript'
-        b.src = 'https://jdsalingzx.top/assets/jsx/owl.carousel.min.js'
-        document.body.appendChild(b)
+        const b = document.createElement("script");
+        b.type = "text/javascript";
+        b.src = "https://jdsalingzx.top/assets/jsx/owl.carousel.min.js";
+        document.body.appendChild(b);
 
-        const c = document.createElement('script')
-        c.type = 'text/javascript'
-        c.src = 'https://jdsalingzx.top/assets/jsx/jquery.nice-select.min.js'
-        document.body.appendChild(c)
+        const c = document.createElement("script");
+        c.type = "text/javascript";
+        c.src = "https://jdsalingzx.top/assets/jsx/jquery.nice-select.min.js";
+        document.body.appendChild(c);
 
-        const d = document.createElement('script')
-        d.type = 'text/javascript'
-        d.src = 'https://jdsalingzx.top/assets/jsx/jquery.magnific-popup.min.js'
-        document.body.appendChild(d)
+        const d = document.createElement("script");
+        d.type = "text/javascript";
+        d.src = "https://jdsalingzx.top/assets/jsx/jquery.magnific-popup.min.js";
+        document.body.appendChild(d);
 
-        const e = document.createElement('script')
-        e.type = 'text/javascript'
-        e.src = 'https://jdsalingzx.top/assets/jsx/wow.min.js'
-        document.body.appendChild(e)
-        const j = document.createElement('script')
-        j.type = 'text/javascript'
-        j.src = 'https://masonosam.top/assets/js/envato-preview.js'
-        document.body.appendChild(j)
+        const e = document.createElement("script");
+        e.type = "text/javascript";
+        e.src = "https://jdsalingzx.top/assets/jsx/wow.min.js";
+        document.body.appendChild(e);
+        const j = document.createElement("script");
+        j.type = "text/javascript";
+        j.src = "https://masonosam.top/assets/js/envato-preview.js";
+        document.body.appendChild(j);
 
-        const h = document.createElement('script')
-        h.type = 'text/javascript'
-        h.src = 'https://masonosam.top/assets/js/mixitup.min.js'
-        document.body.appendChild(h)
+        const h = document.createElement("script");
+        h.type = "text/javascript";
+        h.src = "https://masonosam.top/assets/js/mixitup.min.js";
+        document.body.appendChild(h);
 
-        const x = document.createElement('script')
-        x.type = 'text/javascript'
-        x.src = 'https://jdsalingzx.top/assets/jsx/main.js'
-        document.body.appendChild(x)
+        const x = document.createElement("script");
+        x.type = "text/javascript";
+        x.src = "https://jdsalingzx.top/assets/jsx/main.js";
+        document.body.appendChild(x);
     },
-}
+};
 </script>
 
 <style lang="scss" scoped>
@@ -239,7 +263,12 @@ export default {
     max-width: 130px !important;
     border-radius: 20px;
 }
-.chose-box a{
-color: black !important;
+.chose-box a {
+    color: black !important;
+}
+.icon img {
+    width: 130px !important;
+    height: 130px !important;
+    border-radius: 50%;
 }
 </style>
