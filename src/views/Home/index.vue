@@ -1,8 +1,8 @@
 <template>
     <div>
         <Banner></Banner>
-<!--         <Partner></Partner>-->
         <Choose></Choose>
+        <Partner></Partner>
         <BlogTwo></BlogTwo>
     </div>
 </template>
