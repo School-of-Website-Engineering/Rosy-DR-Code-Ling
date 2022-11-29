@@ -1,125 +1,5 @@
 <template>
     <div>
-        <section class="categorry-three">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-4 col-md-6 wow fadeInUp text-center"
-                         style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="category-box">
-                            <div class="thumb">
-                                <a href="marktetplace.html">
-                                    <img src="./images/category-pic-1.png" alt="">
-                                </a>
-                            </div>
-                            <div class="content">
-                                <a href="marktetplace.html" class="aurtor">
-                                    <img src="./images/category-1.png" alt="">
-                                </a>
-                                <a href="marktetplace.html">
-                                    <h4 class="lasthead">WordPress Themes</h4>
-                                </a>
-                                <p class="text">Thousands of WordPress themes</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 wow fadeInUp text-center"
-                         style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="category-box">
-                            <div class="thumb">
-                                <a href="marktetplace.html">
-                                    <img src="./images/category-pic-2.png" alt="">
-                                </a>
-                            </div>
-                            <div class="content">
-                                <a href="marktetplace.html" class="aurtor">
-                                    <img src="./images/category-2.png" alt="">
-                                </a>
-                                <a href="marktetplace.html">
-                                    <h4 class="lasthead">Marketing Templates</h4>
-                                </a>
-                                <p class="text">Email and landing page templates.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 wow fadeInUp text-center"
-                         style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="category-box">
-                            <div class="thumb">
-                                <a href="marktetplace.html">
-                                    <img src="./images/category-pic-3.png" alt="">
-                                </a>
-                            </div>
-                            <div class="content">
-                                <a href="marktetplace.html" class="aurtor">
-                                    <img src="./images/category-3.png" alt="">
-                                </a>
-                                <a href="marktetplace.html">
-                                    <h4 class="lasthead">Ecommerce Templates</h4>
-                                </a>
-                                <p class="text">Beautiful website templates</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 wow fadeInUp text-center"
-                         style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="category-box">
-                            <div class="thumb">
-                                <a href="marktetplace.html">
-                                    <img src="./images/category-pic-4.png" alt="">
-                                </a>
-                            </div>
-                            <div class="content">
-                                <a href="marktetplace.html" class="aurtor">
-                                    <img src="./images/category-4.png" alt="">
-                                </a>
-                                <a href="marktetplace.html">
-                                    <h4 class="lasthead">Site Templates</h4>
-                                </a>
-                                <p class="text">HTML and website templates</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 wow fadeInUp text-center"
-                         style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="category-box">
-                            <div class="thumb">
-                                <a href="marktetplace.html">
-                                    <img src="./images/category-pic-5.png" alt="">
-                                </a>
-                            </div>
-                            <div class="content">
-                                <a href="marktetplace.html" class="aurtor">
-                                    <img src="./images/category-5.png" alt="">
-                                </a>
-                                <a href="marktetplace.html">
-                                    <h4 class="lasthead">CMS Website Templates</h4>
-                                </a>
-                                <p class="text">Over 1,700 CMS website templates</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 wow fadeInUp text-center"
-                         style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="category-box">
-                            <div class="thumb">
-                                <a href="marktetplace.html">
-                                    <img src="./images/category-pic-6.png" alt="">
-                                </a>
-                            </div>
-                            <div class="content">
-                                <a href="marktetplace.html" class="aurtor">
-                                    <img src="./images/category-6.png" alt="">
-                                </a>
-                                <a href="marktetplace.html">
-                                    <h4 class="lasthead">Bloging Templates</h4>
-                                </a>
-                                <p class="text">Thousands of WordPress themes</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
         <div class="newest gallary">
             <div class="container">
                 <div class="row justify-content-center">
@@ -495,6 +375,127 @@
                 </div>
             </div>
         </div>
+
+        <section class="categorry-three">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4 col-md-6 wow fadeInUp text-center"
+                         style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="category-box">
+                            <div class="thumb">
+                                <a href="marktetplace.html">
+                                    <img src="./images/category-pic-1.png" alt="">
+                                </a>
+                            </div>
+                            <div class="content">
+                                <a href="marktetplace.html" class="aurtor">
+                                    <img src="./images/category-1.png" alt="">
+                                </a>
+                                <a href="marktetplace.html">
+                                    <h4 class="lasthead">WordPress Themes</h4>
+                                </a>
+                                <p class="text">Thousands of WordPress themes</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 wow fadeInUp text-center"
+                         style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="category-box">
+                            <div class="thumb">
+                                <a href="marktetplace.html">
+                                    <img src="./images/category-pic-2.png" alt="">
+                                </a>
+                            </div>
+                            <div class="content">
+                                <a href="marktetplace.html" class="aurtor">
+                                    <img src="./images/category-2.png" alt="">
+                                </a>
+                                <a href="marktetplace.html">
+                                    <h4 class="lasthead">Marketing Templates</h4>
+                                </a>
+                                <p class="text">Email and landing page templates.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 wow fadeInUp text-center"
+                         style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="category-box">
+                            <div class="thumb">
+                                <a href="marktetplace.html">
+                                    <img src="./images/category-pic-3.png" alt="">
+                                </a>
+                            </div>
+                            <div class="content">
+                                <a href="marktetplace.html" class="aurtor">
+                                    <img src="./images/category-3.png" alt="">
+                                </a>
+                                <a href="marktetplace.html">
+                                    <h4 class="lasthead">Ecommerce Templates</h4>
+                                </a>
+                                <p class="text">Beautiful website templates</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 wow fadeInUp text-center"
+                         style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="category-box">
+                            <div class="thumb">
+                                <a href="marktetplace.html">
+                                    <img src="./images/category-pic-4.png" alt="">
+                                </a>
+                            </div>
+                            <div class="content">
+                                <a href="marktetplace.html" class="aurtor">
+                                    <img src="./images/category-4.png" alt="">
+                                </a>
+                                <a href="marktetplace.html">
+                                    <h4 class="lasthead">Site Templates</h4>
+                                </a>
+                                <p class="text">HTML and website templates</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 wow fadeInUp text-center"
+                         style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="category-box">
+                            <div class="thumb">
+                                <a href="marktetplace.html">
+                                    <img src="./images/category-pic-5.png" alt="">
+                                </a>
+                            </div>
+                            <div class="content">
+                                <a href="marktetplace.html" class="aurtor">
+                                    <img src="./images/category-5.png" alt="">
+                                </a>
+                                <a href="marktetplace.html">
+                                    <h4 class="lasthead">CMS Website Templates</h4>
+                                </a>
+                                <p class="text">Over 1,700 CMS website templates</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 wow fadeInUp text-center"
+                         style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="category-box">
+                            <div class="thumb">
+                                <a href="marktetplace.html">
+                                    <img src="./images/category-pic-6.png" alt="">
+                                </a>
+                            </div>
+                            <div class="content">
+                                <a href="marktetplace.html" class="aurtor">
+                                    <img src="./images/category-6.png" alt="">
+                                </a>
+                                <a href="marktetplace.html">
+                                    <h4 class="lasthead">Bloging Templates</h4>
+                                </a>
+                                <p class="text">Thousands of WordPress themes</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <div class="partner">
             <div class="container">
                 <div class="row">
@@ -676,7 +677,7 @@
                 </div>
             </div>
         </section>
-        <div class="testomonial" style="background: url('src/assets/image/map.png');">
+        <div class="testomonial" >
             <img src="./images/testo-shap.png" alt="" class="shap">
             <div class="man-pic pic-1"><img src="./images/man-1.png" alt="man-pic"></div>
             <div class="man-pic pic-2"><img src="./images/man-2.png" alt="man-pic"></div>
@@ -1107,7 +1108,8 @@
 </template>
 
 <script>
-export default {}
+export default {
+}
 </script>
 
 <style lang="scss" scoped>
