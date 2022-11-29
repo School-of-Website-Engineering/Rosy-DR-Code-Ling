@@ -6,7 +6,7 @@
                     <div class="section-head wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                         <h2 class="title">从这里获取每一个更新</h2>
                         <p class="text">
-                            从这里获取每一个更新从这里获取每一个更新从这里获取每一个更新
+                            从这里掌握最新消息，领先他人一步。
                         </p>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
 
                             <div class="last-part">
                                 <div class="right-content">
-                                    <a href="blog-details.html" class="read">了解更多</a>
+                                    <a class="read"><router-link class="drop" to="tml">了解更多</router-link></a>
                                     <i class="far fa-arrow-right"></i>
                                 </div>
                                 <span class="share">
@@ -73,7 +73,7 @@
                             </h6>
                             <div class="last-part">
                                 <div class="right-content">
-                                    <a href="blog-details.html" class="read">前往了解</a>
+                                    <a class="read"><router-link class="drop" to="rts">了解更多</router-link></a>
                                     <i class="far fa-arrow-right"></i>
                                 </div>
                                 <span class="share">
@@ -83,17 +83,17 @@
                         </div>
                     </div>
                     <div class="right-box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <a href="blog-details.html" class="thumb">
-                            <img src="./images/SkyHell-icon.png" alt="" />
+                        <a  class="thumb">
+                            <router-link class="drop" to="pxd"><img src="./images/SkyHell-icon.png" alt="" /></router-link>                          
                         </a>
                         <div class="right-part">
                             <div class="date">2022年4月</div>
                             <h6 class="blog-title">
-                                <a href="blog-details.html"> 有三次大更新</a>
+                                <a ><router-link class="drop" to="pxd">有三次大更新</router-link></a>
                             </h6>
                             <div class="last-part">
                                 <div class="right-content">
-                                    <a href="blog-details.html" class="read">了解更多</a>
+                                    <a class="read"><router-link class="drop" to="pxd">了解更多</router-link></a>
                                     <i class="far fa-arrow-right"></i>
                                 </div>
                                 <span class="share">
@@ -103,19 +103,19 @@
                         </div>
                     </div>
                     <div class="right-box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <a href="blog-details.html" class="thumb">
-                            <img src="./images/Logo.png" alt=""  style="width: 150px;"/>
+                        <a  class="thumb">
+                            <router-link class="drop" to="thanks"><img src="./images/Logo.png" alt=""  style="width: 150px;"/></router-link>                           
                         </a>
                         <div class="right-part">
                             <div class="date">2022年8月</div>
                             <h6 class="blog-title">
-                                <a href="blog-details.html"
-                                    >团队又有新成员加入.....
+                                <a 
+                                    ><router-link class="drop" to="thanks">团队又有新成员加入....</router-link>
                                 </a>
                             </h6>
                             <div class="last-part">
                                 <div class="right-content">
-                                    <a href="blog-details.html" class="read">认识他...</a>
+                                    <a class="read"><router-link class="drop" to="thanks">认识他....</router-link></a>
                                     <i class="far fa-arrow-right"></i>
                                 </div>
                                 <span class="share">
