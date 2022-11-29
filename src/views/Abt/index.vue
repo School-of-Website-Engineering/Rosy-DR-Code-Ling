@@ -97,7 +97,7 @@
                         style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp"
                     >
                         <div class="section-head text-center">
-                            <h2 class="title">自我评价</h2>
+                            <h2 class="title">人生格言</h2>
                             <p class="text">
                                 上帝是公平的，掌握命运的人永远站在天平的两端，被命运掌握的人仅仅只明白上帝赐给他命运!
                             </p>
@@ -113,18 +113,10 @@
                                 </div>
                                 <div class="content">
                                     <p class="text">
-                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum
-                                        generators on the Internet tend to repeat predefined"
-                                    </p>
+                                        "成功需要成本，时间也是一种成本，对时间的珍惜就是对成本的节约。"
+                                    </p><br><br>
                                     <div class="man">
                                         <div class="content">
-                                            <div class="review">
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="far fa-star"></i>
-                                            </div>
                                             <h5 class="name">LingASDJ</h5>
                                         </div>
                                     </div>
@@ -136,18 +128,10 @@
                                 </div>
                                 <div class="content">
                                     <p class="text">
-                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum
-                                        generators on the Internet tend to repeat predefined"
+                                        "海浪为劈风斩浪的航船饯行，为随波逐流的轻舟送葬。山路不象坦途那样匍匐在人们足下如果圆规的两只脚都动，永远也画不出一个圆。"
                                     </p>
                                     <div class="man">
                                         <div class="content">
-                                            <div class="review">
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="far fa-star"></i>
-                                            </div>
                                             <h5 class="name">Mason</h5>
                                         </div>
                                     </div>
@@ -159,18 +143,10 @@
                                 </div>
                                 <div class="content">
                                     <p class="text">
-                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum
-                                        generators on the Internet tend to repeat predefined"
-                                    </p>
+                                        "命运掌握在自己手中。要么你驾驭生命，要么生命驾驭你，你的心态决定你是坐骑还是骑手。"
+                                    </p><br>
                                     <div class="man">
                                         <div class="content">
-                                            <div class="review">
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="far fa-star"></i>
-                                            </div>
                                             <h5 class="name">liuliu</h5>
                                         </div>
                                     </div>
@@ -182,18 +158,10 @@
                                 </div>
                                 <div class="content">
                                     <p class="text">
-                                        "Anything embarrassing hidden in the middle of text. All the Lorem Ipsum
-                                        generators on the Internet tend to repeat predefined"
+                                        "我们与竞争对手最大的区别就是我们知道他们要做什么，而他们不知道我们想做什么。我们想做什么，没有必要让所有人知道。"
                                     </p>
                                     <div class="man">
                                         <div class="content">
-                                            <div class="review">
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="far fa-star"></i>
-                                            </div>
                                             <h5 class="name">Plee</h5>
                                         </div>
                                     </div>
