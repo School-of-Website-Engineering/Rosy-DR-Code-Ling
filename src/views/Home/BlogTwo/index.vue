@@ -12,7 +12,7 @@
                 </div>
                 <div class="col-lg-3 col-md-5 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                     <div class="link">
-                        <a href="blog.html" class="main-btn">获取更多</a>
+                        <a href="#" class="main-btn">获取更多</a>
                     </div>
                 </div>
             </div>
@@ -23,8 +23,8 @@
                     style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;"
                 >
                     <div class="blog-box">
-                        <a href="blog-details.html" class="thumb">
-                            <img src="./images/banner.jpg" alt="" />
+                        <a class="thumb">
+                            <router-link class="drop" to="tml"><img src="./images/banner.jpg" alt="" /></router-link>                            
                         </a>
                         <div class="main-content">
                             <div class="top-box">
@@ -42,8 +42,8 @@
                                 </div>
                             </div>
                             <h5>
-                                <a href="blog-details.html"
-                                    >天空中的地狱，数百万的灵魂被囚禁在这里。 没有人能挣脱她的诅咒，被宇宙抛弃的世界，似乎仍然处于平静之中。 被遗弃的离散.......</a
+                                <a 
+                                    ><router-link class="drop" to="tml">天空中的地狱，数百万的灵魂被囚禁在这里。 没有人能挣脱她的诅咒，被宇宙抛弃的世界，似乎仍然处于平静之中。 被遗弃的离散.......</router-link></a
                                 >
                             </h5>
 
@@ -61,14 +61,14 @@
                 </div>
                 <div class="col-lg-5 d-flex flex-column justify-content-between">
                     <div class="right-box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <a href="blog-details.html" class="thumb">
-                            <img src="./images/galaxysr-icon.png" alt="" />
+                        <a  class="thumb">
+                            <router-link class="drop" to="rts"><img src="./images/galaxysr-icon.png" alt="" /></router-link>
                         </a>
                         <div class="right-part">
                             <div class="date">2022年4月</div>
                             <h6 class="blog-title">
-                                <a href="blog-details.html"
-                                    >有两次重大的更新
+                                <a 
+                                    ><router-link class="drop" to="rts">有两次重大的更新</router-link>
                                 </a>
                             </h6>
                             <div class="last-part">
