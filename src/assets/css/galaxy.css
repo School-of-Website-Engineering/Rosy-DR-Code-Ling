@@ -19,3 +19,13 @@
 .section-heab{
     display: flex;
 }
+
+#skd{
+    width: 240px;
+    height: 240px;
+}
+
+.image img {
+    border-radius: 27px;
+    display: block;
+}
