@@ -28,9 +28,9 @@
                                 <li>
                                     <a class="drop" >开发团队(Dev)</a>
                                     <ul class="submenu">
-                                        <li><router-link to="/re">Re-重置核心工作室</router-link></li>
-                                        <li><router-link to="/mlpd">MLPD联合制作工作室</router-link></li>
-                                        <li><router-link to="/skyhell">SkyHell--开发总部</router-link></li>
+                                        <li><a href="https://jq.qq.com/?_wv=1027&k=mMGk2ZYT" target="_blank">Re-重置核心工作室</a></li>
+                                        <li><a href="https://jq.qq.com/?_wv=1027&k=nfa7Fi14" target="_blank">MLPD联合制作工作室</a></li>
+                                        <li><a href="https://jq.qq.com/?_wv=1027&k=jpKHJWBW" target="_blank">SkyHell--开发总部</a></li>
                                     </ul>
                                 </li>
                                 <li>

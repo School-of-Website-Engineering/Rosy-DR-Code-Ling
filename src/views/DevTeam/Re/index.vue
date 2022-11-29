@@ -1,7 +1,6 @@
 <template>
     <div>
-asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf
-    </div>
+        不写内容，直接链接到群。内容足以支撑，在开发页面。    </div>
 </template>
 
 <script>
@@ -11,9 +10,5 @@ asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf
 </script>
 
 <style lang="scss" scoped>
-div{
-    height: 400px;
-    width: 400px;
-    background-color: skyblue;
-}
+
 </style>
