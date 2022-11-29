@@ -29,28 +29,28 @@
                 <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.3s">
                     <div class="chose-box">
                         <div class="thumb">
-                            <img src="./images/SH.png" alt="" id="recorex" style="max-width: 200px" />
+                            <router-link class="drop" to="tml"><img src="./images/SH.png" alt="" id="recorex" style="max-width: 200px" /></router-link>
                         </div>
-                        <h5 class="chose-head"><router-link class="drop" to="tml">天狱之境</router-link></h5>
+                        <h5 class="chose-head"><router-link class="drop" to="tml" style="font-size: 22px; color: black;" >天狱之境</router-link></h5>
                         <p class="text">
-                            五大未知区域待解锁，你能成为这个世界的变数的契机之人吗？
+                            <router-link class="drop" to="tml" style="color:black ;">五大未知区域待解锁，你能成为这个世界的变数的契机之人吗？</router-link>
                         </p>
                         <p class="text">
-                            版本即将更新，敬请期待。
+                            <router-link class="drop" to="tml" style="color:black ;">版本即将更新，敬请期待。</router-link>
                         </p>
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.4s">
                     <div class="chose-box">
                         <div class="thumb">
-                            <img src="./images/ml.jpg" id="recorexp" alt="" style="max-width: 200px" />
+                            <router-link class="drop" to="pxd" ><img src="./images/ml.jpg" id="recorexp" alt="" style="max-width: 200px" /></router-link>                          
                         </div>
-                        <h5 class="chose-head">魔绫地牢</h5>
+                        <h5 class="chose-head"><router-link class="drop" to="pxd" style="font-size: 22px; color: black;">魔绫地牢</router-link></h5>
                         <p class="text">
-                            拥有定期的版本活动更新
+                            <router-link class="drop" to="pxd" style="color:black ;">拥有定期的版本活动更新</router-link>                           
                         </p>
                         <p class="text">
-                            MLPD--P3将进行极大规模的优化和调整
+                            <router-link class="drop" to="pxd" style="color:black ;">MLPD--P3将进行极大规模的优化和调整</router-link>                           
                         </p>
                     </div>
                 </div>
