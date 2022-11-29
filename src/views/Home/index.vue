@@ -3,7 +3,6 @@
         <Banner></Banner>
         <!-- <Partner></Partner> -->
         <Choose></Choose>
-        <Featured></Featured>
         <Unique></Unique>
         <Plan></Plan>
         <Testomonial></Testomonial>
@@ -15,7 +14,6 @@
 import Banner from '@/views/Home/Banner'
 import Partner from '@/views/Home/Partner'
 import Choose from '@/views/Home/Choose'
-import Featured from '@/views/Home/Featured'
 import Unique from '@/views/Home/Unique'
 import Plan from '@/views/Home/Plan'
 import Testomonial from '@/views/Home/Testomonial'
@@ -25,7 +23,6 @@ export default {
         Banner,
         Partner,
         Choose,
-        Featured,
         Unique,
         Plan,
         BlogTwo,
