@@ -85,6 +85,30 @@
                                                 亵渎和救赎，本就是两个东西。而宫殿的执行者将其融合为一起，她本打算让两者共存。却没有想到世界的规则不容许她如此这样,共存失败了,两者力量互相排斥。怪物诞生于宫殿，亵渎的能量也在这里悄然汇聚。执行者已无路可退，她将宫殿封印,并用自己最后的力量将宫殿保护着。多年以来，任何想靠近这座神秘的宫殿的人们，都会因为执行者的力量而被篡改心智，远离这个被亵渎的宫殿。
                                             </p>
                                         </div>
+                                        <div class="product-feature source">
+                                            <h4 class="lasthead">天狱古堡</h4>
+                                            <p class="text dark">
+                                                被未知的迷雾笼罩,需要外来之人探索。
+                                            </p>
+                                        </div>
+                                        <div class="product-feature source">
+                                            <h4 class="lasthead">恶魔之地</h4>
+                                            <p class="text dark">
+                                                堕落之人,心成恶魔。无故之人途径于此,会在恶魔圈养之地发生什么?
+                                            </p>
+                                        </div>
+                                        <div class="product-feature source">
+                                            <h4 class="lasthead">故渊海城</h4>
+                                            <p class="text dark">
+                                                坠入深不可见的海底,被未知的眼神注视着，在断壁残垣的海城,会发现什么?
+                                            </p>
+                                        </div>
+                                        <div class="product-feature source">
+                                            <h4 class="lasthead">夜明矿洞</h4>
+                                            <p class="text dark">
+                                                被夜明石所照亮的矿洞，石壁上栖息着恐惧之物，未知气息分部在空气中，正等待着未来之人。
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="pills-additional-imformation" role="tabpanel" aria-labelledby="pills-additional-imformation-tab">
@@ -145,7 +169,7 @@
                                     <div class="review-box">
                                         <div class="single-item">
                                             <div class="review-man">
-                                                <img src="static/picture/review-1.png" alt="review-man">
+                                                <img src="" alt="review-man">
                                             </div>
                                             <div class="content">
                                                 <div class="name-other">
