@@ -6,6 +6,19 @@
     border-radius: 100%;
 }
 
+#recorex{
+    border: solid 1px #ffffff;
+    border-radius: 100%;
+}
+
+#recorexp{
+width: 10.1rem;
+height: 10.1rem;
+line-height: 10.1rem;
+border: solid 1px #ffffff;
+border-radius: 100%;
+}
+
 #recore-text{
     line-height: 5.5rem;
     padding-top: 30px;

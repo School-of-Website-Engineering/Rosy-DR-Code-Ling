@@ -4,9 +4,9 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center wow fadeInUp" data-wow-delay="0.3s">
                     <div class="section-head">
-                        <h2 class="title">CodeLing制作群</h2>
+                        <h2 class="title">CodeLing-Make-Mods</h2>
                         <p class="text">
-                            CodeLing制作群旗下共有三大模组正在更新与维护
+                            CodeLing制作群旗下共有三大模组正在更新与维护:
                         </p>
                     </div>
                 </div>
@@ -15,7 +15,7 @@
                 <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.2s">
                     <div class="chose-box">
                         <div class="thumb">
-                            <img src="./images/bg.jpg" alt="" style="max-width: 200px;height:165px" />
+                            <img src="./images/re.jpg" id="recorex" alt="" style="max-width: 200px;height:165px" />
                         </div>
                         <h5 class="chose-head">星河征途</h5>
                         <p class="text">
@@ -29,7 +29,7 @@
                 <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.3s">
                     <div class="chose-box">
                         <div class="thumb">
-                            <img src="./images/SH.png" alt="" style="max-width: 200px" />
+                            <img src="./images/SH.png" alt="" id="recorex" style="max-width: 200px" />
                         </div>
                         <h5 class="chose-head">天狱之境</h5>
                         <p class="text">
@@ -43,7 +43,7 @@
                 <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.4s">
                     <div class="chose-box">
                         <div class="thumb">
-                            <img src="./images/ML.png" alt="" style="max-width: 200px" />
+                            <img src="./images/ml.jpg" id="recorexp" alt="" style="max-width: 200px" />
                         </div>
                         <h5 class="chose-head">魔绫地牢</h5>
                         <p class="text">
@@ -55,12 +55,12 @@
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.5s" >
-                    <div class="chose-box" style="width:255px;height:457px">
+                    <div class="chose-box" style="width:255px;height:454.11px">
                         <div class="thumb"  style="margin:50px 0">
                             <img src="./images/choose-1.png" alt="" style="max-width: 200px" />
                         </div>
                         <h5 class="chose-head">更多内容敬请期待</h5>
-                        <p class="text" style="margin:20px 0">
+                        <p class="text" style="margin:10px 0">
                             ······
                         </p>
                     </div>

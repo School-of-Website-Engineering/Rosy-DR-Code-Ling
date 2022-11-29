@@ -2645,7 +2645,7 @@ div#preloader .loader-cubes .loader-cube .loader-cube3::before {
 /*======= Index-2 Banner Start =======*/
 .banner.two {
   background-color: #ffffff;
-  background-image: url("../image/banner-2.jpg");
+  background-image: url("../image/banner-2.png");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: top left;
