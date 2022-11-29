@@ -60,55 +60,29 @@
                                                 被遗弃的离散常量已经到达这里，那么，你能成为这个世界的变数的契机之人吗？
                                             </p>
                                             <p class="text two">
-                                                描述
+                                                在上一世纪的勇士封印后的泰拉瑞亚世界中，仍然存在着很多的诅咒余孽产生的造物。由于维持平衡的头目已经被你击败，封印的力量已经正在大幅度减弱......
                                             </p>
                                         </div>
                                         <div class="product-feature">
-                                            <h4 class="lasthead">Theme Feature</h4>
-                                            <ul class="list">
-                                                <li class="list-item"> Software – WordPress </li>
-                                                <li class="list-item">Compatible Browsers – IE9+, Chrome, Safari, Opera,
-                                                    Firefox
-                                                </li>
-                                                <li class="list-item">Documentation – Yes </li>
-                                                <li class="list-item">License – GPL </li>
-                                                <li class="list-item">Version – 1.0.1 </li>
-                                                <li class="list-item">Layout – Responsive </li>
-                                                <li class="list-item">Columns – 4 </li>
-                                                <li class="list-item">Files Included – php, html, JS, css </li>
-                                                <li class="list-item">Compatible with – Elementor </li>
-                                            </ul>
-                                            <p class="text">
-                                                The standard chunk of Lorem Ipsum used since the 1500s is reproduced
-                                                below for
-                                                those interested. Sections 1.10.32 and 1.10.33 from “de Finibus Bonorum
-                                                et
-                                                Malorum” by Cicero are also reproduced in their exact original form,
-                                                accompanied
-                                                by English versions from the 1914 translation by H. Rackham
-                                            </p>
+                                            <h4 class="lasthead">五大未知区域待解锁</h4>
                                         </div>
                                         <div class="product-feature source">
-                                            <h4 class="lasthead">Sources and Credits:</h4>
+                                            <h4 class="lasthead">亵渎宫殿</h4>
                                             <ul class="list">
-                                                <li class="list-item"> Bootstrap v4.0.0 </li>
-                                                <li class="list-item"> jQuery v3.3.1 </li>
-                                                <li class="list-item"> Animate CSS </li>
-                                                <li class="list-item"> FontAwesome </li>
-                                                <li class="list-item"> Smoothscroll </li>
-                                                <li class="list-item"> Parallax</li>
-                                                <li class="list-item"> Columns – 4 </li>
-                                                <li class="list-item"> Owl carosel </li>
-                                                <li class="list-item"> isotop </li>
-                                                <li class="list-item"> Waypoints</li>
-                                                <li class="list-item"> Countdown </li>
-                                                <li class="list-item"> WOW </li>
-                                                <li class="list-item"> sPreoader </li>
+                                                <li class="list-item"> 新增场景 </li>
+                                                <li class="list-item"> 新增装备 </li>
+                                                <li class="list-item"> 新增饰品 </li>
+                                                <li class="list-item"> 全新NPC </li>
+                                                <li class="list-item"> 新增BOSS </li>
+                                                <li class="list-item"> 新增小怪</li>
+                                                <li class="list-item"> 新增事件 </li>
+                                                <li class="list-item"> 新增音乐 </li>
                                             </ul>
                                             <p class="text dark">
-                                                Note: Images are not included with the main files. They are used for
-                                                preview
-                                                purposes only
+                                                亵渎的能量在这里汇聚,执行者的过错造就了这里。
+                                            </p>
+                                            <p class="text dark">
+                                                亵渎和救赎，本就是两个东西。而宫殿的执行者将其融合为一起，她本打算让两者共存。却没有想到世界的规则不容许她如此这样,共存失败了,两者力量互相排斥。怪物诞生于宫殿，亵渎的能量也在这里悄然汇聚。执行者已无路可退，她将宫殿封印,并用自己最后的力量将宫殿保护着。多年以来，任何想靠近这座神秘的宫殿的人们，都会因为执行者的力量而被篡改心智，远离这个被亵渎的宫殿。
                                             </p>
                                         </div>
                                     </div>
