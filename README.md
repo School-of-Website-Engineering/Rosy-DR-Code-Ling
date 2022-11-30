@@ -8,8 +8,15 @@ Rosy DR-Code Ling 的 Web 页面
 
 ---
 
-(预览页面)[Demo-Page](http://103.205.253.39:20807)
+(预览页面)--[Demo-Page](http://103.205.253.39:20807)
+
+---
+
+![](https://img.shields.io/github/repo-size/School-of-Website-Engineering/Rosy-DR-Code-Ling?color=%23F8BBD0)
+![](https://img.shields.io/github/release/School-of-Website-Engineering/Rosy-DR-Code-Ling?color=%235C6BC0&label=Version:)
 ## 内容列表
+
+
 
 - [Rosy DR-Code Ling](#rosy-dr-code-ling)
   - [内容列表](#内容列表)
@@ -113,8 +120,8 @@ JavaScript 和 Web 开发人员的最佳选择，具有几乎可支持任何编�
 
 - [x] 人员招募
 - [x] 方案设计
-- [ ] 编码
-- [ ] Debug 测试
+- [x] 编码
+- [x] Debug 测试
 - [ ] 完成！
 
 ## 使用许可
