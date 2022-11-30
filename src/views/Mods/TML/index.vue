@@ -1,12 +1,13 @@
 <template>
-       <div>
+    <div>
         <Bane></Bane>
         <Cont></Cont>
-       </div>
+    </div>
 </template>
 <script>
 import Bane from '../TML/Bane/index.vue'
 import Cont from '../TML/Cont/index.vue'
+
 export default {
     components: {
         Bane,

@@ -109,7 +109,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/liao.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -121,7 +121,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/dc.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -133,7 +133,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/san.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -145,7 +145,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/hy.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -157,7 +157,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/rbl.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -169,7 +169,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/bz.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -181,7 +181,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/mumu.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -193,7 +193,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/xm.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -208,7 +208,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/fb.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -220,7 +220,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/dark.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -232,7 +232,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/fw.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -244,7 +244,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/mm.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -256,7 +256,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/red.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -268,7 +268,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/two.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -280,7 +280,7 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/cold.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
@@ -292,14 +292,13 @@
                                                 <img id="recorexl" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/moon.jpg"
                                                      class="envato-preview"
-                                                    
+
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
                                                      data-item-category="WordPress" data-item-author="DivDojo">
                                             </a>
                                         </div>
                                     </div>
                                 </div>
-                                </p>
                             </div>
                         </div>
                     </div>

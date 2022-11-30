@@ -3,18 +3,19 @@
         <div class="head">
             <div class="container">
                 <div class="row justify-content-center">
-                        <section class="product-details" style="background: #f7F7F7; padding:50px 0px 50px">
+                    <section class="product-details" style="background: #f7F7F7; padding:50px 0px 50px">
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-8">
                                     <div class="detsils-box">
                                         <div class="box-one" style="padding:70px 30px 70px;margin-top:60px">
                                             <div class="thumb open-gallery  wow fadeInUp">
-                                                <img src="./image/bg0.jpg"/>
+                                                <img src="./image/bg0.jpg" />
                                             </div>
                                             <div class="total-link  wow fadeInUp">
                                                 <div class="links-box-left">
-                                                    <a href="https://jq.qq.com/?_wv=1027&k=2MTOZr8I" class="link one" target="_blank"> <i class="fas fa-eye"></i>加入星河总群以了解最新更新动态</a>
+                                                    <a href="https://jq.qq.com/?_wv=1027&k=2MTOZr8I" class="link one"
+                                                       target="_blank"> <i class="fas fa-eye"></i>加入星河总群以了解最新更新动态</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -22,53 +23,62 @@
                                     </div>
                                 </div>
                                 <div class="col-xl-4 col-lg-6">
-                                    <div class="product-information wow fadeInUp" style="visibility: visible; animation-name: fadeInUp; margin-top:100px">
-                                        <div class="left-box" style="padding:0,10px; width: 350px">
+                                    <div class="product-information wow fadeInUp"
+                                         style="visibility: visible; animation-name: fadeInUp; margin-top:100px">
+                                        <div class="left-box" style="padding:0 10px; width: 350px">
                                             <h3 class="title"><img src="./image/re.jpg" id="recore" /> 星河尘埃-无际征途</h3>
-                            <h4 class="title" style="padding:0,10px">
-                                星河征途-GalaxyStarRiver<br>
-                                <span id="recore-text">RE-CORE MOD STUIDO</span>
-                            </h4>
-                            <p>
-                                <span>星河尘埃-无际征途 以下简称为星河征途</span>
-                                <span>是一款基于Rusted Warfare开发的战略性Mod</span>
-                                <span>拥有四大阵营，和丰富的剧情冒险的额外扩展内容</span>
-                                <span>制作组：<br>Re-Core Mod Stuido,JDSALing为总队长</span>
-                            </p>
+                                            <h4 class="title" style="padding:0 10px">
+                                                星河征途-GalaxyStarRiver<br>
+                                                <span id="recore-text">RE-CORE MOD STUIDO</span>
+                                            </h4>
+                                            <p>
+                                                <span>星河尘埃-无际征途 以下简称为星河征途</span>
+                                                <span>是一款基于Rusted Warfare开发的战略性Mod</span>
+                                                <span>拥有四大阵营，和丰富的剧情冒险的额外扩展内容</span>
+                                                <span>制作组：<br>Re-Core Mod Stuido,JDSALing为总队长</span>
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </section>
-                        <div class="detsils-box">
-                         <div class="box-two">
+                    <div class="detsils-box">
+                        <div class="box-two">
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                 <li class="nav-item" role="presentation">
-                                    <a class="nav-link active" id="pills-description-tab" data-toggle="pill" href="#pills-description" role="tab" aria-controls="pills-description" aria-selected="true">阵营背景</a>
+                                    <a class="nav-link active" id="pills-description-tab" data-toggle="pill"
+                                       href="#pills-description" role="tab" aria-controls="pills-description"
+                                       aria-selected="true">阵营背景</a>
                                 </li>
                                 <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="pills-additional-imformation-tab" data-toggle="pill" href="#pills-additional-imformation" role="tab" aria-controls="pills-additional-imformation" aria-selected="false">
+                                    <a class="nav-link" id="pills-additional-imformation-tab" data-toggle="pill"
+                                       href="#pills-additional-imformation" role="tab"
+                                       aria-controls="pills-additional-imformation" aria-selected="false">
                                         阵营介绍</a>
                                 </li>
                                 <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="pills-review-tab" data-toggle="pill" href="#pills-review" role="tab" aria-controls="pills-review" aria-selected="false">历代版本</a>
+                                    <a class="nav-link" id="pills-review-tab" data-toggle="pill" href="#pills-review"
+                                       role="tab" aria-controls="pills-review" aria-selected="false">历代版本</a>
                                 </li>
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
-                                <div class="tab-pane fade show active" id="pills-description" role="tabpanel" aria-labelledby="pills-description-tab">
+                                <div class="tab-pane fade show active" id="pills-description" role="tabpanel"
+                                     aria-labelledby="pills-description-tab">
                                     <div class="content  wow fadeInUp">
                                         <div class="content-one">
                                             <h3 class="subtitle">妖姬风暴-无解混乱</h3>
                                             <p class="text one">
-                                                妖姬帝国曾经是原名圣莲国，是星河中的一大势力。主要管理者是 圣莲蒂拉后来，由于旧日政府的一个疯狂实验【蔚蓝行动】，圣莲国的人越来越少，部分人知道旧日的真正意图，但无济于事。然而，圣莲国的圣莲蒂拉愿意浸泡更久换的其他人的自由。旧日政府很爽快的答应了。 然后，时隔一个月，当人们认为她已经灰飞烟灭的时候。她却从容器中走了出来，并且有着异于常人的力量和特异功能。
+                                                妖姬帝国曾经是原名圣莲国，是星河中的一大势力。主要管理者是
+                                                圣莲蒂拉后来，由于旧日政府的一个疯狂实验【蔚蓝行动】，圣莲国的人越来越少，部分人知道旧日的真正意图，但无济于事。然而，圣莲国的圣莲蒂拉愿意浸泡更久换的其他人的自由。旧日政府很爽快的答应了。
+                                                然后，时隔一个月，当人们认为她已经灰飞烟灭的时候。她却从容器中走了出来，并且有着异于常人的力量和特异功能。
                                             </p>
                                         </div>
                                         <div class="content-one">
                                             <h3 class="subtitle">旧日神教-复兴之国</h3>
                                             <p class="text one">
-                                               旧日神教曾是总政府阵营，因为【蔚蓝行动】，总政府与人们的矛盾被激发，从而被解体，并且被追杀，而总领袖至今仍下落不明。伊拉吉和前总政府副领袖离开了自己赖以生存的家园，从此销声匿迹……
-                                               过了很多年后，一个名叫旧日神教的帝国开始兴起，但没有人知道，他们曾经的辉煌……
+                                                旧日神教曾是总政府阵营，因为【蔚蓝行动】，总政府与人们的矛盾被激发，从而被解体，并且被追杀，而总领袖至今仍下落不明。伊拉吉和前总政府副领袖离开了自己赖以生存的家园，从此销声匿迹……
+                                                过了很多年后，一个名叫旧日神教的帝国开始兴起，但没有人知道，他们曾经的辉煌……
                                             </p>
                                         </div>
                                         <div class="content-one">
@@ -91,10 +101,11 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="tab-pane fade" id="pills-additional-imformation" role="tabpanel" aria-labelledby="pills-additional-imformation-tab">
+                                <div class="tab-pane fade" id="pills-additional-imformation" role="tabpanel"
+                                     aria-labelledby="pills-additional-imformation-tab">
                                     <div class="fourteam">
                                         <div class="col-lg-6 text-center wow fadeInUp" data-wow-delay="0.3s">
-                                        <h2 class="title" style="padding:0,10px"><br>星河征途--四大阵营</h2>
+                                            <h2 class="title" style="padding:0 10px"><br>星河征途--四大阵营</h2>
                                         </div>
                                     </div>
                                     <div class="row">
@@ -152,7 +163,8 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="tab-pane fade" id="pills-review" role="tabpanel" aria-labelledby="pills-review-tab">
+                                <div class="tab-pane fade" id="pills-review" role="tabpanel"
+                                     aria-labelledby="pills-review-tab">
 
                                     <div class="review-box">
                                         <div class="single-item">
@@ -165,24 +177,25 @@
                                                     <h6 class="text">更新时间：2022-1-5</h6>
 
                                                 </div>
-                                                <p class="text">
+                                                <div class="text">
                                                     <ul style="list-style:disc">
-										                <li>剿灭行动#1-炎寒巨岛（限时开放）</li>
-										                <li>旧日神教资源提取器限制解除</li>
-										                <li>贴图，代码，设计，构思，想法<br>其背后是每个制作和辅导人员的无私奉献和辛勤付出。<br>感谢你们的默默支持与付出！</li>
-										                <span class="image main">
+                                                        <li>剿灭行动#1-炎寒巨岛（限时开放）</li>
+                                                        <li>旧日神教资源提取器限制解除</li>
+                                                        <li>贴图，代码，设计，构思，想法<br>其背后是每个制作和辅导人员的无私奉献和辛勤付出。<br>感谢你们的默默支持与付出！
+                                                        </li>
+                                                        <span class="image main">
                                                             <img src="./update/3.1.jpg" alt="" />
                                                         </span>
-										                <li>修复了45个特性</li>
-										                <li>修复了辛拉德斯的翅膀不见了的问题。</li>
+                                                        <li>修复了45个特性</li>
+                                                        <li>修复了辛拉德斯的翅膀不见了的问题。</li>
                                                         <span class="image main">
                                                         <img src="./update/2.5.jpg" alt="" />
                                                         </span>
                                                     </ul>
-                                                </p>
+                                                </div>
                                             </div>
                                         </div>
-                                        </div>
+                                    </div>
                                     <div class="review-box">
                                         <div class="single-item">
                                             <div class="review-man">
@@ -194,15 +207,16 @@
                                                     <h6 class="text">更新时间：2021-10-31 BETA2.0</h6>
 
                                                 </div>
-                                                <p class="text">
+                                                <div class="text">
                                                     <ul style="list-style:disc">
                                                         <li>添加了3个新的地图，感谢MP97,Denny等的大力支持与授权。</li>
                                                         <li>调整雅典娜战斗机的攻击方式</li>
                                                         <li>魔龙阵营进行重新调整，热流塔攻击方式改变</li>
                                                         <li>小果果魔龙古国副首领加入</li>
                                                         <li>旧日的立方提取器初始每秒+80资金，抽取器为20资金初始，<br>
-                                                            可以在水面建造，最多15个。</li>
-                                                            <span class="image main">
+                                                            可以在水面建造，最多15个。
+                                                        </li>
+                                                        <span class="image main">
                                                                 <img src="./update/1.5.3.jpg" alt="" />
                                                             </span>
                                                         <li>削弱赛格机甲，攻速从0.01s调整到0.5s</li>
@@ -215,10 +229,10 @@
                                                         </span>
                                                         <li>新资源-风暴日晷。</li>
                                                     </ul>
-                                                </p>
+                                                </div>
                                             </div>
                                         </div>
-                                        </div>
+                                    </div>
                                     <div class="review-box">
                                         <div class="single-item">
                                             <div class="review-man">
@@ -230,14 +244,16 @@
                                                     <h6 class="text">更新时间：2021-10-31 BETA1.5</h6>
 
                                                 </div>
-                                                <p class="text">
+                                                <div class="text">
                                                     <ul style="list-style:disc">
                                                         <li>修复了雅娜母舰，雷暴发生器会在实验工厂生成的问题</li>
                                                         <li>修复了立方资源抽取器被原版抽取器替代的问题</li>
                                                         <span class="image main">
                                                             <img src="./update/1.0.1.jpg" alt="" />
                                                         </span>
-                                                        <li>海军基地T2移除了重型潜水艇Death,将会在海军基地T3回归,添加了大型主攻型潜水艇于T2。空军基地T2添加了重型运输机。</li>
+                                                        <li>
+                                                            海军基地T2移除了重型潜水艇Death,将会在海军基地T3回归,添加了大型主攻型潜水艇于T2。空军基地T2添加了重型运输机。
+                                                        </li>
                                                         <span class="image main">
                                                             <img src="./update/1.0.2.jpg" alt="" />
                                                         </span>
@@ -254,29 +270,24 @@
                                                         </span>
                                                         <li>添加新地图-世界战争。</li>
                                                     </ul>
-                                                </p>
+                                                </div>
                                             </div>
-                                        </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    </div>
                 </div>
+            </div>
+        </div>
 
     </section>
 </template>
 
 <script>
-import { Slider, SliderItem } from 'vue-easy-slider'
 
 export default {
-  components: {
-    Slider,
-    SliderItem,
-  },
     mounted () {
         const s = document.createElement('script')
         s.type = 'text/javascript'
@@ -322,39 +333,39 @@ export default {
         x.src = 'https://jdsalingzx.top/assets/jsx/main.js'
         document.body.appendChild(x)
     },
-  data() {
-    return {
-      sliderIndex: 1,
-      //轮播图插件
-      list: [
-        {
-          url: "img/bg0.f96e0eff.jpg",
-          width: "100%",
-          height: "100%"
-        },
-        {
-          url: "img/bg2.65c4d040.jpg",
-          width: "100%",
-          height: "100%"
-        },
-        {
-          url: "img/bg4.19035451.jpg",
-          width: "100%",
-          height: "100%"
-        },
-        {
-          url: "img/bg6.60d2c315.jpg",
-          width: "100%",
-          height: "100%"
+    data () {
+        return {
+            sliderIndex: 1,
+            //轮播图插件
+            list: [
+                {
+                    url: 'img/bg0.f96e0eff.jpg',
+                    width: '100%',
+                    height: '100%',
+                },
+                {
+                    url: 'img/bg2.65c4d040.jpg',
+                    width: '100%',
+                    height: '100%',
+                },
+                {
+                    url: 'img/bg4.19035451.jpg',
+                    width: '100%',
+                    height: '100%',
+                },
+                {
+                    url: 'img/bg6.60d2c315.jpg',
+                    width: '100%',
+                    height: '100%',
+                },
+            ],
         }
-      ]
-    };
-  },
-  methods: {
-    hello($event) {
-      console.log(`hello index: ${$event}`)
     },
-  },
+    methods: {
+        hello ($event) {
+            console.log(`hello index: ${$event}`)
+        },
+    },
 }
 </script>
 

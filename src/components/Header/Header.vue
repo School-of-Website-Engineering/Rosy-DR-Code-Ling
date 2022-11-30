@@ -2,7 +2,7 @@
     <div id="app">
         <header class="header-two sticky-header">
             <div class="header-navigation"
-            style="background: -webkit-gradient(linear, left top, right top, from(#7e3afb), to(#29b9f5)); width:100%">
+                 style="background: -webkit-gradient(linear, left top, right top, from(#7e3afb), to(#29b9f5)); width:100%">
                 <div class="container-fluid d-flex align-items-center justify-content-between container-1470">
                     <!-- 网页Logo部分 -->
                     <div class="header-left">
@@ -20,17 +20,26 @@
                                 <li>
                                     <a class="drop">模组列表</a>
                                     <ul class="submenu">
-                                        <li><router-link to="pxd">魔绫地牢-PXD</router-link></li>
-                                        <li><router-link to="rts">星河征途-RTS</router-link></li>
-                                        <li><router-link to="tml">天狱之境-TML</router-link></li>
+                                        <li>
+                                            <router-link to="pxd">魔绫地牢-PXD</router-link>
+                                        </li>
+                                        <li>
+                                            <router-link to="rts">星河征途-RTS</router-link>
+                                        </li>
+                                        <li>
+                                            <router-link to="tml">天狱之境-TML</router-link>
+                                        </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a class="drop" >开发团队(Dev)</a>
+                                    <a class="drop">开发团队(Dev)</a>
                                     <ul class="submenu">
-                                        <li><a href="https://jq.qq.com/?_wv=1027&k=mMGk2ZYT" target="_blank">Re-重置核心工作室</a></li>
-                                        <li><a href="https://jq.qq.com/?_wv=1027&k=nfa7Fi14" target="_blank">MLPD联合制作工作室</a></li>
-                                        <li><a href="https://jq.qq.com/?_wv=1027&k=jpKHJWBW" target="_blank">SkyHell--开发总部</a></li>
+                                        <li><a href="https://jq.qq.com/?_wv=1027&k=mMGk2ZYT"
+                                               target="_blank">Re-重置核心工作室</a></li>
+                                        <li><a href="https://jq.qq.com/?_wv=1027&k=nfa7Fi14"
+                                               target="_blank">MLPD联合制作工作室</a></li>
+                                        <li><a href="https://jq.qq.com/?_wv=1027&k=jpKHJWBW" target="_blank">SkyHell--开发总部</a>
+                                        </li>
                                     </ul>
                                 </li>
                                 <li>
@@ -63,6 +72,51 @@
 <script>
 export default {
     name: 'Home',
+    mounted () {
+        const s = document.createElement('script')
+        s.type = 'text/javascript'
+        s.src = 'https://jdsalingzx.top/assets/jsx/jquery-3.6.0.min.js'
+        document.body.appendChild(s)
+
+        const a = document.createElement('script')
+        a.type = 'text/javascript'
+        a.src = 'https://jdsalingzx.top/assets/jsx/bootstrap.bundle.min.js'
+        document.body.appendChild(a)
+
+        const b = document.createElement('script')
+        b.type = 'text/javascript'
+        b.src = 'https://jdsalingzx.top/assets/jsx/owl.carousel.min.js'
+        document.body.appendChild(b)
+
+        const c = document.createElement('script')
+        c.type = 'text/javascript'
+        c.src = 'https://jdsalingzx.top/assets/jsx/jquery.nice-select.min.js'
+        document.body.appendChild(c)
+
+        const d = document.createElement('script')
+        d.type = 'text/javascript'
+        d.src = 'https://jdsalingzx.top/assets/jsx/jquery.magnific-popup.min.js'
+        document.body.appendChild(d)
+
+        const e = document.createElement('script')
+        e.type = 'text/javascript'
+        e.src = 'https://jdsalingzx.top/assets/jsx/wow.min.js'
+        document.body.appendChild(e)
+        const j = document.createElement('script')
+        j.type = 'text/javascript'
+        j.src = 'https://masonosam.top/assets/js/envato-preview.js'
+        document.body.appendChild(j)
+
+        const h = document.createElement('script')
+        h.type = 'text/javascript'
+        h.src = 'https://masonosam.top/assets/js/mixitup.min.js'
+        document.body.appendChild(h)
+
+        const x = document.createElement('script')
+        x.type = 'text/javascript'
+        x.src = 'https://jdsalingzx.top/assets/jsx/main.js'
+        document.body.appendChild(x)
+    },
 }
 </script>
 
