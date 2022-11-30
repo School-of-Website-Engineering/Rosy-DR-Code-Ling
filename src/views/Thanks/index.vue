@@ -7,7 +7,7 @@
                          style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                         <div class="section-head">
                             <h2 class="title">感谢以下所有贡献的人员</h2>
-                            <p class="text">没有你们，CodeLing将不复存在。一切的辛勤付出为的是最终的结果！</p>
+                            <p class="text">没有你们，CodeLing将不会成立。一切的辛勤付出为的是最终的结果！</p>
                         </div>
                     </div>
                 </div>
@@ -48,6 +48,81 @@
                                             <a class="sit-preview">
                                                 <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
                                                      data-item-currency="$" src="./images/liuliu.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-6"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/cold.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-6"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/scsc.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/cat2.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/ll.jpg"
+                                                     class="envato-preview"
+                                                    
+                                                     data-item-name="Smart CRON Tools" data-item-cost="69"
+                                                     data-item-category="WordPress" data-item-author="DivDojo">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mix gallery-item all item-5"
+                                     style="display: inline-block;" data-bound="">
+                                    <div class="gallery-item-content">
+                                        <div class="item-thumbnail">
+                                            <a class="sit-preview">
+                                                <img id="recorex" alt="Linnor - Digital Agency Wordpress Theme"
+                                                     data-item-currency="$" src="./images/thank.gif"
                                                      class="envato-preview"
                                                     
                                                      data-item-name="Smart CRON Tools" data-item-cost="69"
