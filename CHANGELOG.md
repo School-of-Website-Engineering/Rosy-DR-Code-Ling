@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.7](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.4.6...v1.4.7) (2022-11-30)
+
+
+### Bug Fixes
+
+* fix header bug ([87672bb](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/87672bb497b61957849e3c7c87f0b8ac1b9a7c01))
+
 ## [1.4.6](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.4.5...v1.4.6) (2022-11-29)
 
 
