@@ -5,56 +5,50 @@
             <div class="row">
                 <div class="col-12 wow fadeInUp">
                     <div class="totalpartner owl-carousel owl-theme">
-                        <a href="#0" class="single item">
+                        <a href="#0" id="recorexpx">
                             <img src="./images/ml.jpg" alt="partner">
                         </a>
-                        <a href="#0" class="single item">
+                        <a href="#0" id="recorexpx">
+                            <img src="./images/4.jpeg" alt="partner">
+                        </a>
+                        <a href="#0" id="recorexpx">
                             <img src="./images/re.jpg" alt="partner">
                         </a>
-                        <a href="#0" class="single item">
-                            <img src="./images/sh4.jpg" alt="partner">
+                        <a href="#0" id="recorexpx">
+                            <img src="./images/3.jpeg" alt="partner">
                         </a>
-                        <a href="#0" class="single item">
-                            <img src="./images/SH.png" alt="partner">
-                        </a>
-                        <a href="#0" class="single item">
+                        <a href="#0" id="recorexpx">
                             <img src="./images/1669714974149.gif" alt="partner">
                         </a>
-                        <a href="#0" class="single item">
-                            <img src="./images/1669714986660.jpeg" alt="partner">
-                        </a>
-                        <a href="#0" class="single item">
-                            <img src="./images/sh3.jpg" alt="partner">
-                        </a>
-                        <a href="#0" class="single item">
+                        <a href="#0" id="recorexpx">
                             <img src="./images/1669715000657.jpeg" alt="partner">
                         </a>
-                        <a href="#0" class="single item">
+                        <a href="#0" id="recorexpx">
+                            <img src="./images/2.jpeg" alt="partner">
+                        </a>
+                        <a href="#0" id="recorexpx">
                             <img src="./images/1669715012332.png" alt="partner">
                         </a>
-                        <a href="#0" class="single item">
+                        <a href="#0" id="recorexpx">
                             <img src="./images/1669715035574.jpeg" alt="partner">
                         </a>
-                        <a href="#0" class="single item">
-                            <img src="./images/sh2.jpg" alt="partner">
+                        <a href="#0" id="recorexpx">
+                            <img src="./images/game1.jpg" alt="partner">
                         </a>
-                        <a href="#0" class="single item">
-                            <img src="./images/1669715083345.jpeg" alt="partner">
+                        <a href="#0" id="recorexpx">
+                            <img src="./images/game2.jpg" alt="partner">
                         </a>
-                        <a href="#0" class="single item">
-                            <img src="./images/1669715089893.jpeg" alt="partner">
+                        <a href="#0" id="recorexpx">
+                            <img src="./images/game3.jpg" alt="partner">
                         </a>
-                        <a href="#0" class="single item">
-                            <img src="./images/1669715095499.jpeg" alt="partner">
+                        <a href="#0" id="recorexpx">
+                            <img src="./images/game4.jpg" alt="partner">
                         </a>
-                        <a href="#0" class="single item">
-                            <img src="./images/1669715105145.jpeg" alt="partner">
+                        <a href="#0" id="recorexpx">
+                            <img src="./images/1.jpeg" alt="partner">
                         </a>
-                        <a href="#0" class="single item">
-                            <img src="./images/1669715113785.jpeg" alt="partner">
-                        </a>
-                        <a href="#0" class="single item">
-                            <img src="./images/sh1.jpg" alt="partner">
+                        <a href="#0" id="recorexpx">
+                            <img src="./images/sky.png" alt="partner">
                         </a>
                     </div>
                 </div>

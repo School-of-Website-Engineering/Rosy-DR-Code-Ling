@@ -6,7 +6,7 @@
                     <div class="detsils-box">
                         <div class="box-one">
                             <div class="thumb open-gallery  wow fadeInUp">
-                                <img src="../images/banner.jpg" alt="product-details">
+                                <img src="../images/banner.png" alt="product-details">
                                 <div class="parent-container">
                                     <a class="btn-gallery" href="static/picture/feature-1.png"></a>
                                     <a class="btn-gallery" href="static/picture/feature-2.png"></a>
@@ -31,10 +31,10 @@
                         <div class="box-two">
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                 <li class="nav-item" role="presentation">
-                                    <a class="nav-link active" id="pills-description-tab" data-toggle="pill"  role="tab" aria-controls="pills-description" aria-selected="true">描述</a>
+                                    <a class="nav-link active" id="pills-description-tab" data-toggle="pill"  role="tab" href="#pills-description" aria-controls="pills-description" aria-selected="true">描述</a>
                                 </li>
                                 <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="pills-additional-imformation-tab" data-toggle="pill" role="tab" aria-controls="pills-additional-imformation" aria-selected="false">
+                                    <a class="nav-link" id="pills-additional-imformation-tab" data-toggle="pill" role="tab" href="#pills-additional-imformation" aria-controls="pills-additional-imformation" aria-selected="false">
                                         天狱详情</a>
                                 </li>
                                 <li class="nav-item" role="presentation">
