@@ -5,7 +5,7 @@
                 <div class="col-lg-10 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="banner-content text-center">
                         <h1 class="head" style="color:#fff">
-                        Hi,欢迎您来到Code-Ling。
+                            Hi,欢迎您来到Code-Ling。
                         </h1>
                         <h3 class="head" style="color:#fff">
                             <span>Rosy-Code Ling-Page</span><br>
@@ -19,9 +19,11 @@
 </template>
 
 <script>
-    export default {
 
-    }
+
+export default {
+
+}
 </script>
 
 <style lang="scss" scoped>

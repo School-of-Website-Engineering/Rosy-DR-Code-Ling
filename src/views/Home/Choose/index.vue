@@ -15,14 +15,14 @@
                 <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.2s">
                     <div class="chose-box">
                         <div class="thumb">
-                            <router-link class="drop" to="rts"><img src="./images/re.jpg" id="recorex" alt="" style="max-width: 200px;height:165px" /></router-link>                           
+                            <router-link class="drop" to="rts"><img src="./images/re.jpg" id="recorex" alt="" style="max-width: 200px;height:165px" /></router-link>
                         </div>
                         <h5 class="chose-head"><router-link class="drop" to="rts" style="font-size: 22px; color: black;" >星河征途</router-link></h5>
                         <p class="text">
-                            <router-link class="drop" to="rts" style="color:black ;">四大阵营的对抗和丰富的剧情冒险的额外扩展内容</router-link>                          
+                            <router-link class="drop" to="rts" style="color:black ;">四大阵营的对抗和丰富的剧情冒险的额外扩展内容</router-link>
                         </p>
                         <p class="text">
-                            <router-link class="drop" to="rts" style="color:black ;">版本即将更新，敬请期待。</router-link>                         
+                            <router-link class="drop" to="rts" style="color:black ;">版本即将更新，敬请期待。</router-link>
                         </p>
                     </div>
                 </div>
@@ -43,14 +43,14 @@
                 <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.4s">
                     <div class="chose-box">
                         <div class="thumb">
-                            <router-link class="drop" to="pxd" ><img src="./images/ml.jpg" id="recorexp" alt="" style="max-width: 200px" /></router-link>                          
+                            <router-link class="drop" to="pxd" ><img src="./images/ml.jpg" id="recorexp" alt="" style="max-width: 200px" /></router-link>
                         </div>
                         <h5 class="chose-head"><router-link class="drop" to="pxd" style="font-size: 22px; color: black;">魔绫地牢</router-link></h5>
                         <p class="text">
-                            <router-link class="drop" to="pxd" style="color:black ;">拥有定期的版本活动更新</router-link>                           
+                            <router-link class="drop" to="pxd" style="color:black ;">拥有定期的版本活动更新</router-link>
                         </p>
                         <p class="text">
-                            <router-link class="drop" to="pxd" style="color:black ;">MLPD--P3将进行极大规模的优化和调整</router-link>                           
+                            <router-link class="drop" to="pxd" style="color:black ;">MLPD--P3将进行极大规模的优化和调整</router-link>
                         </p>
                     </div>
                 </div>
@@ -71,7 +71,10 @@
 </template>
 
 <script>
-export default {}
+
+export default {
+
+}
 </script>
 
 <style lang="scss" scoped></style>

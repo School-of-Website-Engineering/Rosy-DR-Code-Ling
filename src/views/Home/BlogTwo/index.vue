@@ -24,7 +24,7 @@
                 >
                     <div class="blog-box">
                         <a class="thumb">
-                            <router-link class="drop" to="tml"><img src="./images/banner.png" alt="" /></router-link>                            
+                            <router-link class="drop" to="tml"><img src="./images/banner.png" alt="" /></router-link>
                         </a>
                         <div class="main-content">
                             <div class="top-box">
@@ -42,7 +42,7 @@
                                 </div>
                             </div>
                             <h5>
-                                <a 
+                                <a
                                     ><router-link class="drop" to="tml">天空中的地狱，数百万的灵魂被囚禁在这里。 没有人能挣脱她的诅咒，被宇宙抛弃的世界，似乎仍然处于平静之中。 被遗弃的离散.......</router-link></a
                                 >
                             </h5>
@@ -67,7 +67,7 @@
                         <div class="right-part">
                             <div class="date">2022年4月</div>
                             <h6 class="blog-title">
-                                <a 
+                                <a
                                     ><router-link class="drop" to="rts">有两次重大的更新</router-link>
                                 </a>
                             </h6>
@@ -84,7 +84,7 @@
                     </div>
                     <div class="right-box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                         <a  class="thumb">
-                            <router-link class="drop" to="tml"><img src="./images/SkyHell-icon.png" alt="" /></router-link>                          
+                            <router-link class="drop" to="tml"><img src="./images/SkyHell-icon.png" alt="" /></router-link>
                         </a>
                         <div class="right-part">
                             <div class="date">2022年4月</div>
@@ -104,12 +104,12 @@
                     </div>
                     <div class="right-box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                         <a  class="thumb">
-                            <router-link class="drop" to="thanks"><img src="./images/Logo.png" alt=""  style="width: 150px;"/></router-link>                           
+                            <router-link class="drop" to="thanks"><img src="./images/Logo.png" alt=""  style="width: 150px;"/></router-link>
                         </a>
                         <div class="right-part">
                             <div class="date">2022年8月</div>
                             <h6 class="blog-title">
-                                <a 
+                                <a
                                     ><router-link class="drop" to="thanks">团队又有新成员加入....</router-link>
                                 </a>
                             </h6>
@@ -131,7 +131,10 @@
 </template>
 
 <script>
-export default {};
+
+export default {
+
+};
 </script>
 
 <style lang="scss" scoped></style>
