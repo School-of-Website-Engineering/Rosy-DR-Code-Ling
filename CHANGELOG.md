@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.8](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.4.7...v1.4.8) (2022-12-01)
+
+
+### Bug Fixes
+
+* fix mobile view bug ([68131a5](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/68131a5e752b85f1b969cc0649a23430d9f088a6))
+
 ## [1.4.7](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.4.6...v1.4.7) (2022-11-30)
 
 
