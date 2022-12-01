@@ -4,6 +4,9 @@
 ![](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E7%BB%B4%E6%8A%A4%E4%B8%AD-brightgreen)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![](https://img.shields.io/crates/l/s)](https://img.shields.io/crates/l/s)
+![](https://img.shields.io/badge/Vue-%5E2.6.14-success)
+![](https://img.shields.io/badge/Node-%20%5E16.18.0-brightgreen)
+![](https://img.shields.io/badge/npm-%5E8.19.2-blue)
 
 Rosy DR-Code Ling 的 Web 页面
 
@@ -18,20 +21,20 @@ Rosy DR-Code Ling 的 Web 页面
 ## 内容列表
 
 - [Rosy DR-Code Ling](#rosy-dr-code-ling)
-    - [内容列表](#内容列表)
-    - [背景](#背景)
+  - [内容列表](#内容列表)
+  - [背景](#背景)
 - [Git规范](#git规范)
-    - [Git分支命名](#git分支命名)
+  - [Git分支命名](#git分支命名)
 - [Git Commit Message格式](#git-commit-message格式)
-    - [type 提交类型：](#type-提交类型)
-    - [subject 提交描述](#subject-提交描述)
-    - [相关仓库](#相关仓库)
-    - [维护者](#维护者)
-    - [如何贡献](#如何贡献)
-        - [贡献者](#贡献者)
-        - [特别感谢：](#特别感谢)
-    - [使用许可](#使用许可)
-    - [本地部署](#本地部署)
+  - [type 提交类型：](#type-提交类型)
+  - [subject 提交描述](#subject-提交描述)
+  - [相关仓库](#相关仓库)
+  - [维护者](#维护者)
+  - [如何贡献](#如何贡献)
+    - [贡献者](#贡献者)
+    - [特别感谢：](#特别感谢)
+  - [使用许可](#使用许可)
+  - [本地部署](#本地部署)
 
 ## 背景
 
@@ -87,7 +90,7 @@ Rosy DR-Code Ling 的 Web 页面
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/School-of-Automation-Engineering/Magic-Ling-Pixel-Dungeon-Web/issues) 或者提交一个
+非常欢迎你的加入！[提一个 Issue](https://github.com/School-of-Automation-Engineering/Rosy-DR-Code-Ling/issues) 或者提交一个
 Pull Request。
 
 Rosy DR-Code Ling-Web 遵循 [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) 行为规范。
@@ -146,7 +149,7 @@ JavaScript 和 Web 开发人员的最佳选择，具有几乎可支持任何编�
 # cnpm install
 
 //Dev 服务器测试
-# cnpm run dev
+# cnpm run serve
 
 //构建模块
 # cnpm run build
