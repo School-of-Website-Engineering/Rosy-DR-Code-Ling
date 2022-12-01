@@ -10,7 +10,6 @@
 import Header from '../src/components/Header/Header'
 import Footer from '@/components/Footer/Footer'
 
-
 export default {
     name: 'App',
     //注册组件
