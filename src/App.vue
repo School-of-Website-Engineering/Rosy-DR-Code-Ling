@@ -7,17 +7,17 @@
 </template>
 
 <script>
-import Header from '../src/components/Header/Header'
-import Footer from '@/components/Footer/Footer'
+import Header from "../src/components/Header/Header"
+import Footer from "@/components/Footer/Footer"
 
 export default {
-    name: 'App',
-    //注册组件
-    components: {
-        Footer,
-        Header,
+	name      : "App",
+	//注册组件
+	components: {
+		Footer,
+		Header
 
-    },
+	}
 }
 </script>
 

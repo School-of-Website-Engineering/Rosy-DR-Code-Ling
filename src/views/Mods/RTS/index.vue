@@ -287,44 +287,44 @@
 
 <script>
 
-import { Script } from '@/mixin'
+import { Script } from "@/mixin"
 
 export default {
 
-    data () {
-        return {
-            sliderIndex: 1,
-            //轮播图插件
-            list: [
-                {
-                    url: 'img/bg0.f96e0eff.jpg',
-                    width: '100%',
-                    height: '100%',
-                },
-                {
-                    url: 'img/bg2.65c4d040.jpg',
-                    width: '100%',
-                    height: '100%',
-                },
-                {
-                    url: 'img/bg4.19035451.jpg',
-                    width: '100%',
-                    height: '100%',
-                },
-                {
-                    url: 'img/bg6.60d2c315.jpg',
-                    width: '100%',
-                    height: '100%',
-                },
-            ],
-        }
-    },
-    methods: {
-        hello ($event) {
-            console.log(`hello index: ${$event}`)
-        },
-    },
-    mixins: [Script],
+	data() {
+		return {
+			sliderIndex: 1,
+			//轮播图插件
+			list       : [
+				{
+					url   : "img/bg0.f96e0eff.jpg",
+					width : "100%",
+					height: "100%"
+				},
+				{
+					url   : "img/bg2.65c4d040.jpg",
+					width : "100%",
+					height: "100%"
+				},
+				{
+					url   : "img/bg4.19035451.jpg",
+					width : "100%",
+					height: "100%"
+				},
+				{
+					url   : "img/bg6.60d2c315.jpg",
+					width : "100%",
+					height: "100%"
+				}
+			]
+		}
+	},
+	methods: {
+		hello($event) {
+			console.log(`hello index: ${$event}`)
+		}
+	},
+	mixins: [Script]
 }
 </script>
 

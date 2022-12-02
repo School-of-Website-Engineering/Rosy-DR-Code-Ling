@@ -5,16 +5,16 @@
     </div>
 </template>
 <script>
-import Bane from '../TML/Bane/index.vue'
-import Cont from '../TML/Cont/index.vue'
-import { Script } from '@/mixin'
+import Bane from "../TML/Bane/index.vue"
+import Cont from "../TML/Cont/index.vue"
+import { Script } from "@/mixin"
 
 export default {
-    components: {
-        Bane,
-        Cont,
-    },
-    mixins: [Script],
+	components: {
+		Bane,
+		Cont
+	},
+	mixins: [Script]
 }
 </script>
 

@@ -59,12 +59,9 @@
 
 <script>
 
-import { Script } from '@/mixin'
+import { Script } from "@/mixin"
 
-export default {
-
-    mixins:[Script],
-}
+export default {mixins: [Script]}
 </script>
 
 <style lang="scss" scoped>

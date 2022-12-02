@@ -71,10 +71,10 @@
 
 <script>
 
-import { Script } from '@/mixin'
+import { Script } from "@/mixin"
 export default {
-    name: 'Home',
-    mixins:[Script],
+	name  : "Home",
+	mixins: [Script]
 }
 
 </script>
