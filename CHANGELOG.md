@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.5.2...v1.6.0) (2022-12-02)
+
+
+### Features
+
+* add eslint and prettie ([fc9417b](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/fc9417b3ab7f00ee1f9701510db13b4ed3008ca8))
+
 ## [1.5.2](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.5.1...v1.5.2) (2022-12-01)
 
 
