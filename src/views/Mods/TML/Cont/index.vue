@@ -396,7 +396,7 @@
                         </div>
                         <div class="right-box">
                             <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2837710838&searchtext=%E5%A4%A9%E7%8B%B1%E4%B9%8B%E5%A2%83" class="link" target="_blank"> 
-                                13,848	不重复访客数
+                                13,888	不重复访客数
                                 <br>
                                 4,943	当前订阅者
                                 <br>
