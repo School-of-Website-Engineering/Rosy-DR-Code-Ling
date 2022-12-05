@@ -466,17 +466,15 @@
                         <div class="left-box">
                             <p class="text">特别感谢 :</p>
                         </div>
-                        <div class="right-box">
-                            <a href="#0" class="link">白绫祈愿,</a>
-                            <a href="#0" class="link">白绫祈愿,</a>
-                            <a href="#0" class="link">白绫祈愿,</a>
-                            <a href="#0" class="link">白绫祈愿,</a>
-                            <a href="#0" class="link">白绫祈愿,</a>
-                            <a href="#0" class="link">白绫祈愿,</a>
-                            <a href="#0" class="link">白绫祈愿,</a>
-                            <a href="#0" class="link">白绫祈愿,</a>
-                            <a href="#0" class="link">白绫祈愿,</a>
+                        <router-link  to="thanks">
+                            <div class="right-box">
+                            <a href="#0" class="link">Ling,</a>                       
+                            <a href="#0" class="link">Liuliu,</a>
+                            <a href="#0" class="link">plee,</a>
+                            <a href="#0" class="link">maosen,</a>
+                            <a href="#0" class="link">等</a>
                         </div>
+                        </router-link>
                     </div>
                 </div>
             </div>
