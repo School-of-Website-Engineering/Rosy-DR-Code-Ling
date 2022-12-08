@@ -321,7 +321,7 @@ export default {
 	},
 	methods: {
 		hello($event) {
-			console.log(`hello index: ${$event}`)
+			
 		}
 	},
 	mixins: [Script]
