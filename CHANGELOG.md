@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.6.0...v1.6.1) (2022-12-09)
+
+
+### update
+
+* update files ([aa5120d](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/commit/aa5120d576db9fb7d26fd2971a6326b21388098c))
+
 ## [1.6.0](https://github.com/School-of-Website-Engineering/Rosy-DR-Code-Ling/compare/v1.5.2...v1.6.0) (2022-12-02)
 
 
