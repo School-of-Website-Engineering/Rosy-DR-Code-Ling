@@ -33,6 +33,19 @@
                                 <p>CodeLing 所为，尽非凡。</p>
                             </div>
                         </div>
+                        <div class="content-details">
+                            <hr>
+                            <h2 class="title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
+                                关于SOWE
+                            </h2>
+                            <div class="box wow fadeInUp" style="visibility: visible; animation-name: fadeInUp">
+                                <p>
+                                    SOWE(School of Website Engineering)
+                                    一个致力于将所学知识应用于实践的团队组织，免费承接各种Web项目,SOWE团队将一直招收Web技术扎实的成员，欢迎你的<a  style="color:royalblue" src="https://github.com/School-of-Website-Engineering">加入</a>
+                                </p>
+                                <p>SOWE 制作必属精品</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -43,8 +56,8 @@
                     <div class="col-lg-6 text-center wow fadeInUp" data-wow-delay="0.3s">
                         <h1>&nbsp;</h1>
                         <div class="section-head">
-                            <h2 class="title">认识我们的成员</h2>
-                            <p class="text">集智共创，见证艺术绽放</p>
+                            <h2 class="title">致谢</h2>
+                            <h2 class="title">主要贡献</h2>
                         </div>
                     </div>
                 </div>
@@ -55,7 +68,7 @@
                                 <img src="./images/LingASDJ.png" alt="" />
                             </div>
                             <h5 class="chose-head">LingASDJ</h5>
-                            <p class="text"><a href="mailto:2735951230@qq.com">邮箱：2735951230@qq.com</a></p>
+<!--                            <p class="text"><a href="mailto:2735951230@qq.com">邮箱：2735951230@qq.com</a></p>-->
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.3s">
@@ -64,7 +77,7 @@
                                 <img src="./images/Mason.jpg" alt="" />
                             </div>
                             <h5 class="chose-head">Mason</h5>
-                            <p class="text"><a href="https://masonosam.top/">邮箱：1960638223@qq.com</a></p>
+<!--                            <p class="text"><a href="https://masonosam.top/">邮箱：1960638223@qq.com</a></p>-->
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.4s">
@@ -73,7 +86,7 @@
                                 <img src="./images/liuliu.jpg" alt="" />
                             </div>
                             <h5 class="chose-head">liuliu</h5>
-                            <p class="text"><a href="mailto:2735951230@qq.com">邮箱：1694181697@qq.com</a></p>
+<!--                            <p class="text"><a href="mailto:2735951230@qq.com">邮箱：1694181697@qq.com</a></p>-->
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 wow fadeInUp text-center" data-wow-delay="0.5s">
@@ -82,7 +95,7 @@
                                 <img src="./images/Plee.png" alt="" />
                             </div>
                             <h5 class="chose-head">Plee</h5>
-                            <p class="text"><a href="mailto:2735951230@qq.com">邮箱：Kaiser-PU@163.com</a></p>
+<!--                            <p class="text"><a href="mailto:2735951230@qq.com">邮箱：Kaiser-PU@163.com</a></p>-->
                         </div>
                     </div>
                 </div>

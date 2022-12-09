@@ -12,6 +12,7 @@ import Banner from "@/views/Home/Banner"
 import Partner from "@/views/Home/Partner"
 import Choose from "@/views/Home/Choose"
 import BlogTwo from "@/views/Home/BlogTwo"
+import { Script } from "@/mixin"
 
 export default {
 	components: {
@@ -19,7 +20,8 @@ export default {
 		Partner,
 		Choose,
 		BlogTwo
-	}
+	},
+	mixins: [Script]
 }
 </script>
 

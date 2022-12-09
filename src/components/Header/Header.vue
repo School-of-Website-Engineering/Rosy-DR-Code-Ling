@@ -72,10 +72,7 @@
 <script>
 
 import { Script } from "@/mixin"
-export default {
-	name  : "Home",
-	mixins: [Script]
-}
+export default {name: "Home"}
 
 </script>
 

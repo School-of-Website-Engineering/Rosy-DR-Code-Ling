@@ -362,7 +362,7 @@
 
 import { Script } from "@/mixin"
 
-export default {mixins: [Script]};
+export default {};
 </script>
 
 <style lang="scss" scoped></style>

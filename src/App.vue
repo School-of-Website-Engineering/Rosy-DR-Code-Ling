@@ -9,6 +9,7 @@
 <script>
 import Header from "../src/components/Header/Header"
 import Footer from "@/components/Footer/Footer"
+import { Script } from "@/mixin"
 
 export default {
 	name      : "App",
@@ -17,7 +18,8 @@ export default {
 		Footer,
 		Header
 
-	}
+	},
+	mixins: [Script]
 }
 </script>
 

@@ -13,8 +13,8 @@ export default {
 	components: {
 		Bane,
 		Cont
-	},
-	mixins: [Script]
+	}
+
 }
 </script>
 

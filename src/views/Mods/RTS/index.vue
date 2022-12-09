@@ -321,10 +321,10 @@ export default {
 	},
 	methods: {
 		hello($event) {
-			
+
 		}
-	},
-	mixins: [Script]
+	}
+
 }
 </script>
 

