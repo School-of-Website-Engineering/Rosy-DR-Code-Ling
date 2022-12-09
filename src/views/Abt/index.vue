@@ -185,6 +185,33 @@
                 </div>
             </div>
         </div>
+        <div class="list">
+            <div class="cc rowup">
+                <div class="item">1- 121233fffffr国家认可更健康进口价格困扰</div>
+                <div class="item">2- 3123233</div>
+                <div class="item">3- 个人口结构俄跨入国际科技馆客人感觉</div>
+                <div class="item">4- ggrgerg</div>
+                <div class="item">5- fvdgdv</div>
+                <div class="item">6- 德国南部巴士与卡车相撞起火 31人受伤11人死亡朴槿惠庭审时突然昏迷 支持者：她死了法官要负责！</div>
+                <div class="item">7- 外交部再次回应印军越界:要求立即将越界部队撤回</div>
+                <div class="item">8- 德国网红致信默克尔</div>
+                <div class="item">9- 国资委原</div>
+                <div class="item">1- 121233fffffr国家认可更健康进口价格困扰</div>
+                <div class="item">2- 3123233</div>
+                <div class="item">3- 个人口结构俄跨入国际科技馆客人感觉</div>
+                <div class="item">4- ggrgerg</div>
+                <div class="item">5- fvdgdv</div>
+                <div class="item">6- 德国南部巴士与卡车相撞起火 31人受伤11人死亡朴槿惠庭审时突然昏迷 支持者：她死了法官要负责！</div>
+                <div class="item">7- 外交部再次回应印军越界:要求立即将越界部队撤回</div>
+                <div class="item">8- 德国网红致信默克尔</div>
+                <div class="item">4- ggrgerg</div>
+                <div class="item">5- fvdgdv</div>
+                <div class="item">6- 德国南部巴士与卡车相撞起火 31人受伤11人死亡朴槿惠庭审时突然昏迷 支持者：她死了法官要负责！</div>
+                <div class="item">7- 外交部再次回应印军越界:要求立即将越界部队撤回</div>
+                <div class="item">8- 德国网红致信默克尔</div>
+                <div class="item">9- 国资委原</div>
+            </div>
+        </div>
     </div>
 </template>
 
@@ -192,7 +219,12 @@
 
 import { Script } from "@/mixin"
 
-export default {mixins: [Script]};
+export default {
+	mixins: [Script],
+	mounted() {
+
+	}
+};
 </script>
 
 <style lang="scss" scoped>
@@ -207,5 +239,29 @@ export default {mixins: [Script]};
     width: 130px !important;
     height: 130px !important;
     border-radius: 50%;
+}
+@keyframes rowup {
+    0% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+    100% {
+        -webkit-transform: translate3d(0, -307px, 0);
+        transform: translate3d(0, -307px, 0);
+    }
+}
+.list{
+    width: 80%;
+    border: 1px solid #999;
+    margin: 20px auto;
+    position: relative;
+    height: 40vw;
+    overflow: hidden;
+}
+
+.list .rowup{
+    -webkit-animation: 10s rowup linear infinite normal;
+    animation: 10s rowup linear infinite normal;
+    position: relative;
 }
 </style>
