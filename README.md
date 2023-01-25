@@ -15,7 +15,7 @@ Rosy DR-Code Ling 的 Web 页面
 ![](https://img.shields.io/github/repo-size/School-of-Website-Engineering/Rosy-DR-Code-Ling?color=%23F8BBD0)
 ![](https://img.shields.io/github/release/School-of-Website-Engineering/Rosy-DR-Code-Ling?color=%235C6BC0&label=Version:)
 
-(预览页面)--[Demo-Page](http://103.205.253.39:20807)
+(预览页面)--[Demo-Page](http://103.205.253.39:20807)【维护】
 
 ---
 
