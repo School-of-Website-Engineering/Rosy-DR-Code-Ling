@@ -18,10 +18,13 @@ Rosy DR-Code Ling 的 Web 页面
 (预览页面)--[Demo-Page](http://103.205.253.39:20807)【维护】
 
 ---
+## 项目简介
+Rosy DR-Code Ling 是一个用于展示 Rosy DR-Code Ling 的项目的 Web 页面，主要用于展示项目的进度和相关信息。
 
 ## 内容列表
 
 - [Rosy DR-Code Ling](#rosy-dr-code-ling)
+  - [项目简介](#项目简介)
   - [内容列表](#内容列表)
   - [背景](#背景)
 - [Git规范](#git规范)
