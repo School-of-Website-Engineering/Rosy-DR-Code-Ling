@@ -1,0 +1,1 @@
+import{c as e,i as t,t as n}from"./index-CZGFzruJ.js";var r={};function i(n,r,i,a,o,s){return e(),t(`div`,null,` 不写内容，直接链接到群。内容足以支撑，在开发页面。 `)}var a=n(r,[[`render`,i]]);export{a as default};
