@@ -8,10 +8,10 @@
 </template>
 
 <script>
-import Banner from "@/views/Home/Banner"
-import Partner from "@/views/Home/Partner"
-import Choose from "@/views/Home/Choose"
-import BlogTwo from "@/views/Home/BlogTwo"
+import Banner from "@/views/Home/Banner/index.vue"
+import Partner from "@/views/Home/Partner/index.vue"
+import Choose from "@/views/Home/Choose/index.vue"
+import BlogTwo from "@/views/Home/BlogTwo/index.vue"
 import { Script } from "@/mixin"
 
 export default {

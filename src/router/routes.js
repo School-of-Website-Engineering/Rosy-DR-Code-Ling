@@ -3,51 +3,51 @@ export default [
 
 	{
 		path     : "/home",
-		component: () => import("@/views/Home"),
+		component: () => import("@/views/Home/index.vue"),
 		name     : "home"
 	},
 	{
-		path    : "*",
+		path    : "/:pathMatch(.*)*",
 		redirect: "/home"
 	},
 	{
 		path     : "/pxd",
-		component: () => import("@/views/Mods/PXD"),
+		component: () => import("@/views/Mods/PXD/index.vue"),
 		name     : "pxd"
 	},
 	{
 		path     : "/rts",
-		component: () => import("@/views/Mods/RTS"),
+		component: () => import("@/views/Mods/RTS/index.vue"),
 		name     : "rts"
 	},
 	{
 		path     : "/tml",
-		component: () => import("@/views/Mods/TML"),
+		component: () => import("@/views/Mods/TML/index.vue"),
 		name     : "tml"
 	},
 	{
 		path     : "/re",
-		component: () => import("@/views/DevTeam/Re"),
+		component: () => import("@/views/DevTeam/Re/index.vue"),
 		name     : "re"
 	},
 	{
 		path     : "/mlpd",
-		component: () => import("@/views/DevTeam/MLPD"),
+		component: () => import("@/views/DevTeam/MLPD/index.vue"),
 		name     : "mlpd"
 	},
 	{
 		path     : "/skyhell",
-		component: () => import("@/views/DevTeam/SkyHell"),
+		component: () => import("@/views/DevTeam/SkyHell/index.vue"),
 		name     : "skyhell"
 	},
 	{
 		path     : "/abt",
-		component: () => import("@/views/Abt"),
+		component: () => import("@/views/Abt/index.vue"),
 		name     : "abt"
 	},
 	{
 		path     : "/thanks",
-		component: () => import("@/views/Thanks"),
+		component: () => import("@/views/Thanks/index.vue"),
 		name     : "thanks"
 	}
 ]

@@ -87,20 +87,20 @@
                             <h2 class="title">魔绫像素地牢-简要：</h2>
                             <div class="box">
                                 <img src="./images/slk.png" alt="" class="aboutpng">
-                                <p class="text">
+                                <div class="text">
                                     魔绫像素地牢是由JDSALing开发的一款基于破碎的Mod地牢，于2021年2月开始进行，截止到今日已经接近开发一年。
                                     目前含有丰富的Boss,更多的新挑战，一些全新的事件，一些全新的NPC，以及一些全新的物品和成就。
                                     魔绫像素地牢将在未来进行继续更新，并且一些Boss将会被重做,以及将进行一定的平衡和游戏的进程调整……
                                     <ul>
                                         <li></li>
                                     </ul>
-                                </p>
+                                </div>
                             </div>
                         </div>
                         <div class="content-details">
                             <h2 class="title">魔绫像素地牢-致谢名单：</h2>
                             <div class="box">
-                                <p class="text">
+                                <div class="text">
                                     <div class="mix gallery-item all item-5"
                                      style="display: flex; justify-content:space-around" data-bound="">
                                     <div class="gallery-item-content">
@@ -298,6 +298,7 @@
                                             </a>
                                         </div>
                                     </div>
+                                </div>
                                 </div>
                             </div>
                         </div>

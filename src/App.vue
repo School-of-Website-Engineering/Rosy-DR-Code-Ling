@@ -7,8 +7,8 @@
 </template>
 
 <script>
-import Header from "../src/components/Header/Header"
-import Footer from "@/components/Footer/Footer"
+import Header from "@/components/Header/Header.vue"
+import Footer from "@/components/Footer/Footer.vue"
 import { Script } from "@/mixin"
 
 export default {
